@@ -1,0 +1,1204 @@
+job_id,job_title,company,location,experience_level,employment_type,salary_inr,remote_ratio,skills,posted_date
+JM26-1134,Business Analyst,DigitalCore,Bengaluru,Entry,Full-time,550000.0,0,"SQL, Excel, Power BI, Tableau, Communication",2026-06-20
+JM26-0426,BI Analyst,DigitalCore,Chennai,Senior,Internship,420000.0,50,"Excel, Power BI, SQL, Tableau, Data Visualization",2026-01-20
+JM26-0079,Data Engineer,CloudMatrix,Noida,Mid,Full-time,1090000.0,50,"SQL, AWS, Spark",2026-05-25
+JM26-0804,AI Engineer,BrightData,Delhi NCR,Mid,Full-time,1230000.0,100,"Python, LLM, PyTorch",2026-03-16
+JM26-0591,Analytics Engineer,QuantifyAI,Gurugram,Senior,Full-time,1610000.0,50,"SQL, ETL, Data Modeling",2026-06-07
+JM26-0909,Data Scientist,InsightWorks,Hyderabad,Mid,Full-time,1390000.0,0,"SQL, Python, Statistics, Machine Learning",2026-05-10
+JM26-0882,AI Engineer,Apex Technologies,Bengaluru,Entry,Full-time,1190000.0,50,"Machine Learning, Deep Learning, PyTorch, LLM, Python",2026-02-06
+JM26-0544,Python Developer,NextGen Analytics,Ahmedabad,Entry,Full-time,490000.0,100,"Git, REST API, Python, SQL, Django",2026-02-15
+JM26-1196,Data Scientist,FinEdge,Ahmedabad,Lead,Full-time,1470000.0,0,"SQL, Python, Statistics, Machine Learning, Pandas",2026-01-14
+JM26-0931,Data Scientist,QuantifyAI,Bengaluru,Lead,Full-time,2440000.0,0,"Python, Machine Learning, SQL, Pandas, Statistics",2026-01-10
+JM26-1190,AI Engineer,DataSphere,Bengaluru,Mid,Full-time,1560000.0,100,"LLM, Deep Learning, Python",2026-02-23
+JM26-0815,Data Analyst,Apex Technologies,Pune,Entry,Full-time,510000.0,50,"Python, Power BI, Excel",2026-07-01
+JM26-0045,BI Analyst,InnovateLabs,Hyderabad,Mid,Full-time,790000.0,50,"Tableau, Excel, Data Visualization, Power BI, SQL",2026-02-26
+JM26-0175,Data Analyst,CloudMatrix,Ahmedabad,Mid,Contract,560000.0,50,"Pandas, Excel, Power BI, SQL, Python",2026-04-15
+JM26-0124,Machine Learning Engineer,Vertex Systems,Gurugram,Mid,Full-time,1440000.0,100,"TensorFlow, Machine Learning, PyTorch",2026-08-21
+JM26-0110,Analytics Engineer,QuantifyAI,Kolkata,Mid,Full-time,810000.0,0,"SQL, ETL, Python",2026-07-11
+JM26-0899,Data Scientist,DigitalCore,Bengaluru,Mid,Contract,1110000.0,100,"Python, Machine Learning, SQL",2026-08-14
+JM26-0440,AI Engineer,FinEdge,Chennai,Entry,Contract,910000.0,100,"Deep Learning, LLM, Python, Machine Learning, PyTorch",2026-02-20
+JM26-1191,Machine Learning Engineer,NextGen Analytics,Delhi NCR,Senior,Full-time,1790000.0,0,"Machine Learning, Docker, TensorFlow, Python",2026-07-30
+JM26-0297,Python Developer,DataSphere,Noida,Senior,Full-time,1140000.0,100,"REST API, Django, SQL",2026-05-03
+JM26-0831,AI Engineer,Vertex Systems,Bengaluru,Mid,Full-time,1690000.0,50,"Deep Learning, LLM, PyTorch, Python, Machine Learning",2026-06-15
+JM26-0705,Data Scientist,QuantifyAI,Delhi NCR,Mid,Full-time,1130000.0,100,"Pandas, Statistics, SQL, Machine Learning",2026-05-28
+JM26-0363,Data Analyst,DigitalCore,Noida,Entry,Full-time,390000.0,0,"Excel, SQL, Power BI, Python",2026-01-15
+JM26-0731,Data Scientist,TechNova,Delhi NCR,Mid,Full-time,1090000.0,0,"Statistics, Machine Learning, SQL, Python, Pandas",2026-03-02
+JM26-0232,Machine Learning Engineer,FinEdge,Delhi NCR,Mid,Full-time,1280000.0,100,"Machine Learning, Docker, Python",2026-05-19
+JM26-0071,Data Scientist,DataSphere,Ahmedabad,Mid,Full-time,760000.0,50,"Python, SQL, Pandas, Statistics",2026-07-05
+JM26-0830,Data Scientist,NextGen Analytics,Delhi NCR,Mid,Full-time,820000.0,0,"Machine Learning, SQL, Python",2026-05-06
+JM26-0050,Data Analyst,Apex Technologies,Kolkata,Mid,Contract,620000.0,100,"Python, Power BI, SQL",2026-04-06
+JM26-0368,AI Engineer,DataSphere,Bengaluru,Senior,Full-time,1990000.0,100,"Deep Learning, Machine Learning, PyTorch, Python",2026-03-17
+JM26-0668,Python Developer,DataSphere,Bengaluru,Entry,Contract,700000.0,0,"Git, SQL, Python",2026-01-27
+JM26-0266,Data Analyst,InnovateLabs,Delhi NCR,Senior,Full-time,1040000.0,50,"Pandas, Excel, Python, SQL, Power BI",2026-04-07
+JM26-0555,Data Analyst,InsightWorks,Hyderabad,Mid,Full-time,590000.0,100,"Pandas, Python, SQL",2026-01-05
+JM26-0399,Machine Learning Engineer,DigitalCore,Gurugram,Senior,Full-time,2190000.0,100,"TensorFlow, PyTorch, Python, Docker",2026-05-29
+JM26-0287,Data Analyst,FinEdge,Ahmedabad,Entry,Internship,150000.0,100,"Python, SQL, Excel",2026-02-26
+JM26-0742,Data Analyst,QuantifyAI,Pune,Entry,Full-time,440000.0,50,"SQL, Excel, Pandas",2026-04-27
+JM26-0171,Data Scientist,InsightWorks,Bengaluru,Entry,Internship,290000.0,50,"Python, SQL, Statistics, Machine Learning, Pandas",2026-06-08
+JM26-0579,ML Researcher,DataSphere,Hyderabad,Senior,Full-time,2050000.0,50,"PyTorch, Research, Python, Deep Learning",2026-06-19
+JM26-0574,Business Analyst,QuantifyAI,Noida,Lead,Full-time,1100000.0,50,"Communication, Excel, SQL, Tableau, Power BI",2026-05-20
+JM26-0791,Data Scientist,DataSphere,Bengaluru,Entry,Full-time,790000.0,50,"Statistics, Python, SQL",2026-05-01
+JM26-0483,AI Engineer,QuantifyAI,Chennai,Mid,Full-time,1390000.0,100,"Machine Learning, Deep Learning, LLM, Python",2026-01-11
+JM26-0114,Data Engineer,BrightData,Bengaluru,Entry,Full-time,940000.0,100,"Python, AWS, ETL",2026-01-30
+JM26-0077,Data Scientist,DigitalCore,Bengaluru,Entry,Full-time,930000.0,0,"Statistics, Python, Machine Learning, SQL",2026-01-10
+JM26-0843,Data Engineer,CloudMatrix,Delhi NCR,Senior,Contract,1650000.0,100,"ETL, SQL, AWS",2026-01-06
+JM26-0334,ML Researcher,BrightData,Chennai,Mid,Full-time,1330000.0,100,"Research, Statistics, Python, PyTorch",2026-03-31
+JM26-0873,Python Developer,DataSphere,Hyderabad,Mid,Full-time,780000.0,50,"REST API, Git, Python",2026-01-12
+JM26-0940,Data Analyst,NextGen Analytics,Noida,Mid,Full-time,590000.0,50,"Power BI, SQL, Python, Excel, Pandas",2026-08-24
+JM26-0059,Data Analyst,FinEdge,Mumbai,Entry,Contract,540000.0,0,"Power BI, SQL, Pandas, Excel, Python",2026-08-24
+JM26-0290,Data Analyst,DataSphere,Pune,Mid,Full-time,590000.0,0,"Python, Power BI, SQL",2026-08-21
+JM26-0434,BI Analyst,Apex Technologies,Chennai,Senior,Full-time,990000.0,50,"Power BI, Data Visualization, Excel, SQL",2026-05-18
+JM26-0528,Python Developer,CloudMatrix,Noida,Mid,Full-time,770000.0,100,"Git, Python, REST API",2026-05-28
+JM26-1171,Machine Learning Engineer,NextGen Analytics,Pune,Senior,Full-time,1580000.0,50,"Machine Learning, Python, PyTorch, Docker, TensorFlow",2026-01-01
+JM26-0993,BI Analyst,TechNova,Chennai,Lead,Full-time,1140000.0,0,"SQL, Power BI, Tableau",2026-02-23
+JM26-0245,AI Engineer,Apex Technologies,Bengaluru,Mid,Internship,490000.0,50,"PyTorch, Machine Learning, Deep Learning, Python",2026-07-20
+JM26-1024,Data Engineer,InsightWorks,Bengaluru,Mid,Part-time,760000.0,0,"ETL, SQL, AWS",2026-05-18
+JM26-0024,Analytics Engineer,DataSphere,Delhi NCR,Entry,Contract,850000.0,100,"Data Modeling, dbt, SQL, Python",2026-04-07
+JM26-1048,Business Analyst,DataSphere,Delhi NCR,Senior,Full-time,1220000.0,0,"Tableau, SQL, Excel, Power BI, Communication",2026-04-22
+JM26-0102,Business Analyst,Vertex Systems,Mumbai,Senior,Full-time,920000.0,0,"Tableau, Power BI, Excel, SQL, Communication",2026-05-17
+JM26-0044,Data Scientist,DigitalCore,Bengaluru,Mid,Full-time,1110000.0,50,"Machine Learning, Pandas, Python",2026-02-14
+JM26-0267,Data Scientist,CloudMatrix,Pune,Senior,Full-time,1360000.0,50,"SQL, Statistics, Machine Learning, Python",2026-01-26
+JM26-0241,BI Analyst,QuantifyAI,Hyderabad,Senior,Full-time,1200000.0,0,"Tableau, Data Visualization, Power BI, Excel, SQL",2026-01-20
+JM26-0695,Analytics Engineer,Vertex Systems,Hyderabad,Mid,Contract,1050000.0,100,"Data Modeling, dbt, Python, SQL",2026-04-01
+JM26-1097,Data Scientist,CloudMatrix,Chennai,Senior,Full-time,1410000.0,0,"SQL, Pandas, Machine Learning",2026-07-05
+JM26-0732,Data Analyst,NextGen Analytics,Delhi NCR,Senior,Internship,300000.0,100,"Pandas, SQL, Excel",2026-05-15
+JM26-0875,Business Analyst,CloudMatrix,Pune,Senior,Full-time,970000.0,50,"Tableau, SQL, Excel, Communication, Power BI",2026-02-03
+JM26-0345,BI Analyst,CloudMatrix,Pune,Mid,Full-time,670000.0,0,"SQL, Tableau, Excel, Data Visualization",2026-02-11
+JM26-0995,Analytics Engineer,QuantifyAI,Delhi NCR,Senior,Full-time,1110000.0,100,"ETL, dbt, SQL",2026-05-13
+JM26-0372,Data Scientist,FinEdge,Mumbai,Senior,Full-time,1590000.0,50,"SQL, Statistics, Machine Learning, Python, Pandas",2026-05-03
+JM26-0322,Data Engineer,Vertex Systems,Mumbai,Senior,Contract,1720000.0,0,"SQL, ETL, Python, AWS, Spark",2026-06-08
+JM26-0963,Data Analyst,Apex Technologies,Pune,Mid,Full-time,700000.0,100,"SQL, Python, Pandas, Power BI, Excel",2026-04-25
+JM26-1150,Analytics Engineer,CloudMatrix,Bengaluru,Senior,Full-time,1620000.0,50,"Data Modeling, Python, ETL",2026-08-17
+JM26-1093,Data Scientist,DataSphere,Delhi NCR,Senior,Full-time,1520000.0,50,"Python, Machine Learning, Statistics, SQL, Pandas",2026-07-04
+JM26-0498,AI Engineer,BrightData,Gurugram,Entry,Full-time,1030000.0,50,"Python, PyTorch, Machine Learning, Deep Learning",2026-03-05
+JM26-1195,ML Researcher,FinEdge,Delhi NCR,Entry,Full-time,1200000.0,100,"Research, Deep Learning, Python, PyTorch, Statistics",2026-04-17
+JM26-0052,Data Analyst,InsightWorks,Bengaluru,Senior,Full-time,1110000.0,100,"Python, SQL, Pandas",2026-04-01
+JM26-1004,Data Analyst,DataSphere,Bengaluru,Senior,Full-time,1100000.0,50,"Excel, SQL, Pandas, Python, Power BI",2026-01-25
+JM26-0462,Data Analyst,DataSphere,Delhi NCR,Mid,Full-time,560000.0,50,"Power BI, Python, Excel",2026-03-30
+JM26-0315,Machine Learning Engineer,Vertex Systems,Noida,Senior,Full-time,1600000.0,0,"TensorFlow, PyTorch, Docker, Python",2026-06-08
+JM26-0535,Data Analyst,InnovateLabs,Noida,Senior,Full-time,1030000.0,0,"Power BI, Python, Excel, Pandas, SQL",2026-05-25
+JM26-0876,ML Researcher,InnovateLabs,Mumbai,Senior,Full-time,2280000.0,100,"Python, Deep Learning, PyTorch, Research, Statistics",2026-06-22
+JM26-0210,Data Engineer,DataSphere,Chennai,Mid,Contract,1130000.0,50,"AWS, ETL, Python, Spark, SQL",2026-07-25
+JM26-1025,AI Engineer,InnovateLabs,Noida,Entry,Full-time,900000.0,50,"LLM, Machine Learning, Python, PyTorch, Deep Learning",2026-07-09
+JM26-0520,BI Analyst,CloudMatrix,Gurugram,Senior,Full-time,1210000.0,0,"Excel, Data Visualization, SQL",2026-05-24
+JM26-0055,Business Analyst,DataSphere,Bengaluru,Mid,Full-time,730000.0,0,"Power BI, Tableau, Excel, SQL",2026-05-07
+JM26-0772,Data Engineer,Vertex Systems,Ahmedabad,Senior,Full-time,1320000.0,0,"Python, Spark, AWS, ETL, SQL",2026-03-16
+JM26-0603,Analytics Engineer,BrightData,Bengaluru,Entry,Full-time,790000.0,50,"Data Modeling, Python, SQL",2026-07-09
+JM26-0234,AI Engineer,DigitalCore,Bengaluru,Mid,Full-time,1400000.0,100,"Python, PyTorch, LLM, Machine Learning, Deep Learning",2026-04-30
+JM26-0057,Machine Learning Engineer,Vertex Systems,Chennai,Mid,Full-time,1150000.0,100,"Machine Learning, Docker, Python, PyTorch, TensorFlow",2026-08-14
+JM26-0087,Business Analyst,DigitalCore,Pune,Senior,Full-time,1040000.0,0,"Power BI, Communication, Tableau, SQL",2026-03-31
+JM26-0912,ML Researcher,Apex Technologies,Mumbai,Lead,Full-time,2680000.0,100,"Research, Statistics, PyTorch, Python, Deep Learning",2026-01-26
+JM26-0459,BI Analyst,InsightWorks,Pune,Senior,Full-time,970000.0,50,"Tableau, SQL, Data Visualization, Excel",2026-06-24
+JM26-0729,Machine Learning Engineer,BrightData,Bengaluru,Senior,Contract,,100,"Python, TensorFlow, Docker, Machine Learning",2026-02-04
+JM26-1166,ML Researcher,Vertex Systems,Chennai,Senior,Full-time,1690000.0,50,"Research, Deep Learning, Statistics, PyTorch, Python",2026-08-10
+JM26-0328,Data Engineer,Vertex Systems,Pune,Entry,Contract,930000.0,0,"ETL, SQL, Python, Spark, AWS",2026-05-11
+JM26-0219,Analytics Engineer,InnovateLabs,Noida,Senior,Full-time,1270000.0,50,"ETL, dbt, Python, SQL",2026-04-18
+JM26-0129,Data Analyst,NextGen Analytics,Hyderabad,Senior,Full-time,1060000.0,100,"Power BI, Excel, Python",2026-03-23
+JM26-0771,Data Scientist,BrightData,Hyderabad,Lead,Full-time,1880000.0,0,"Machine Learning, Pandas, Statistics, SQL, Python",2026-03-23
+JM26-0159,Business Analyst,CloudMatrix,Chennai,Mid,Part-time,420000.0,0,"Tableau, Power BI, SQL, Excel",2026-07-21
+JM26-0721,Data Engineer,NextGen Analytics,Mumbai,Entry,Contract,800000.0,50,"Spark, AWS, Python, SQL, ETL",2026-01-21
+JM26-0193,Data Analyst,QuantifyAI,Bengaluru,Mid,Full-time,840000.0,100,"Python, Power BI, Pandas",2026-06-19
+JM26-0542,Data Engineer,NextGen Analytics,Hyderabad,Entry,Full-time,810000.0,0,"ETL, AWS, Spark, SQL, Python",2026-04-07
+JM26-0808,Data Analyst,NextGen Analytics,Bengaluru,Entry,Full-time,510000.0,50,"Excel, Power BI, Pandas, Python",2026-03-25
+JM26-0466,Business Analyst,DigitalCore,Noida,Entry,Contract,470000.0,0,"Tableau, Communication, SQL, Excel",2026-02-18
+JM26-0740,Machine Learning Engineer,InnovateLabs,Bengaluru,Mid,Contract,1360000.0,0,"PyTorch, TensorFlow, Python, Machine Learning, Docker",2026-03-23
+JM26-0381,Data Engineer,Vertex Systems,Noida,Entry,Full-time,790000.0,50,"ETL, Python, SQL, Spark, AWS",2026-03-18
+JM26-0395,Data Analyst,DigitalCore,Gurugram,Senior,Full-time,820000.0,100,"Pandas, Excel, Python, SQL",2026-05-02
+JM26-0416,Data Scientist,QuantifyAI,Bengaluru,Mid,Full-time,1430000.0,50,"Machine Learning, Statistics, SQL, Pandas",2026-03-22
+JM26-0678,Data Engineer,DataSphere,Hyderabad,Mid,Contract,1070000.0,50,"Spark, Python, AWS, ETL, SQL",2026-07-02
+JM26-0597,Business Analyst,Apex Technologies,Mumbai,Mid,Full-time,760000.0,0,"Communication, Tableau, Excel",2026-05-03
+JM26-0886,Machine Learning Engineer,FinEdge,Hyderabad,Mid,Full-time,1170000.0,0,"TensorFlow, Docker, PyTorch, Python, Machine Learning",2026-04-05
+JM26-0739,Machine Learning Engineer,QuantifyAI,Hyderabad,Senior,Full-time,1730000.0,50,"Python, Docker, TensorFlow",2026-06-28
+JM26-0108,Data Scientist,BrightData,Delhi NCR,Lead,Full-time,2000000.0,0,"SQL, Python, Machine Learning, Pandas, Statistics",2026-06-29
+JM26-0428,BI Analyst,QuantifyAI,Bengaluru,Entry,Full-time,590000.0,0,"Excel, Power BI, Data Visualization, Tableau, SQL",2026-04-13
+JM26-0276,Machine Learning Engineer,TechNova,Mumbai,Mid,Full-time,1300000.0,50,"Docker, TensorFlow, Python",2026-07-12
+JM26-1035,Machine Learning Engineer,BrightData,Chennai,Entry,Full-time,1010000.0,100,"PyTorch, TensorFlow, Machine Learning, Python, Docker",2026-02-25
+JM26-0951,Data Engineer,DigitalCore,Delhi NCR,Entry,Full-time,810000.0,0,"ETL, Python, AWS, Spark",2026-07-17
+JM26-0169,Data Scientist,InnovateLabs,Bengaluru,Mid,Full-time,1110000.0,0,"Python, SQL, Machine Learning",2026-07-08
+JM26-1119,Data Scientist,NextGen Analytics,Mumbai,Mid,Full-time,1050000.0,100,"Python, Machine Learning, Statistics, SQL",2026-05-03
+JM26-0980,Data Scientist,InnovateLabs,Ahmedabad,Lead,Full-time,1570000.0,0,"Statistics, Pandas, Machine Learning",2026-01-04
+JM26-0082,Machine Learning Engineer,Vertex Systems,Pune,Entry,Full-time,840000.0,100,"PyTorch, TensorFlow, Python, Machine Learning, Docker",2026-04-06
+JM26-0199,Data Scientist,InnovateLabs,Mumbai,Lead,Full-time,2130000.0,0,"SQL, Machine Learning, Statistics",2026-05-22
+JM26-0981,Python Developer,CloudMatrix,Gurugram,Mid,Full-time,710000.0,100,"REST API, SQL, Python, Django",2026-01-25
+JM26-0378,Machine Learning Engineer,Vertex Systems,Noida,Mid,Full-time,1220000.0,0,"Docker, Machine Learning, Python",2026-03-24
+JM26-0356,Data Engineer,InnovateLabs,Gurugram,Senior,Full-time,1410000.0,0,"ETL, AWS, SQL, Spark",2026-06-08
+JM26-0589,Data Scientist,BrightData,Noida,Entry,Full-time,710000.0,50,"SQL, Python, Pandas",2026-03-13
+JM26-0421,AI Engineer,InsightWorks,Bengaluru,Mid,Full-time,1570000.0,0,"Python, Machine Learning, LLM, PyTorch",2026-08-07
+JM26-0895,Business Analyst,InsightWorks,Kolkata,Mid,Full-time,520000.0,100,"SQL, Communication, Tableau",2026-06-05
+JM26-1002,Machine Learning Engineer,DigitalCore,Kolkata,Senior,Part-time,910000.0,100,"Docker, PyTorch, Machine Learning, Python, TensorFlow",2026-02-06
+JM26-1068,Business Analyst,BrightData,Mumbai,Mid,Full-time,830000.0,100,"Communication, SQL, Excel, Tableau, Power BI",2026-03-26
+JM26-0715,BI Analyst,InsightWorks,Bengaluru,Mid,Full-time,780000.0,0,"Data Visualization, SQL, Tableau, Excel",2026-01-28
+JM26-0410,Python Developer,DigitalCore,Pune,Entry,Full-time,540000.0,0,"SQL, REST API, Django, Git, Python",2026-03-11
+JM26-0865,Data Analyst,,Pune,Mid,Full-time,680000.0,0,"Pandas, Excel, SQL, Python, Power BI",2026-06-20
+JM26-0200,Data Scientist,CloudMatrix,Pune,Lead,Full-time,1620000.0,50,"Python, Pandas, SQL, Machine Learning, Statistics",2026-05-20
+JM26-0211,Business Analyst,InnovateLabs,Gurugram,Senior,Full-time,900000.0,0,"Excel, SQL, Tableau",2026-08-25
+JM26-0433,Business Analyst,CloudMatrix,Delhi NCR,Mid,Full-time,730000.0,50,"Tableau, Excel, SQL",2026-05-08
+JM26-0919,Data Scientist,Vertex Systems,Bengaluru,Entry,Full-time,920000.0,0,"Pandas, SQL, Statistics, Machine Learning, Python",2026-06-19
+JM26-0423,Data Analyst,InsightWorks,Gurugram,Entry,Full-time,450000.0,0,"SQL, Excel, Power BI",2026-01-13
+JM26-0431,Analytics Engineer,InsightWorks,Pune,Entry,Full-time,730000.0,100,"Python, dbt, ETL, Data Modeling",2026-04-01
+JM26-0753,Data Scientist,Apex Technologies,Gurugram,Mid,Full-time,960000.0,0,"Python, Pandas, Statistics, Machine Learning, SQL",2026-03-20
+JM26-1053,Data Scientist,Apex Technologies,Pune,Entry,Full-time,670000.0,0,"SQL, Pandas, Statistics, Machine Learning, Python",2026-08-07
+JM26-0799,Business Analyst,InnovateLabs,Noida,Entry,Full-time,360000.0,50,"Power BI, Tableau, SQL, Communication, Excel",2026-08-08
+JM26-0291,BI Analyst,Apex Technologies,Bengaluru,Lead,Full-time,1440000.0,50,"Tableau, Power BI, Data Visualization, Excel",2026-04-22
+JM26-0221,Data Scientist,TechNova,Chennai,Senior,Full-time,1500000.0,100,"Pandas, SQL, Statistics, Python",2026-02-26
+JM26-0839,Machine Learning Engineer,Apex Technologies,Delhi NCR,Mid,Full-time,1340000.0,0,"Machine Learning, Docker, PyTorch",2026-01-30
+JM26-0576,Data Engineer,Vertex Systems,Mumbai,Senior,Full-time,1780000.0,50,"ETL, Spark, SQL, Python",2026-05-26
+JM26-0156,AI Engineer,Apex Technologies,Bengaluru,Senior,Full-time,1880000.0,50,"Deep Learning, LLM, Python",2026-03-19
+JM26-0136,Data Analyst,BrightData,Noida,Mid,Internship,200000.0,0,"Power BI, Python, SQL, Excel",2026-05-02
+JM26-1172,Business Analyst,QuantifyAI,Hyderabad,Entry,Full-time,610000.0,0,"Power BI, SQL, Excel",2026-07-29
+JM26-1059,Data Engineer,QuantifyAI,Bengaluru,Entry,Full-time,890000.0,50,"ETL, Python, SQL, AWS, Spark",2026-05-06
+JM26-0661,Data Scientist,NextGen Analytics,Delhi NCR,Mid,Internship,380000.0,50,"Python, Pandas, Machine Learning",2026-02-10
+JM26-0141,Data Engineer,CloudMatrix,Bengaluru,Mid,Full-time,1280000.0,100,"ETL, SQL, AWS, Python, Spark",2026-04-19
+JM26-0424,Data Analyst,NextGen Analytics,Bengaluru,Lead,Part-time,910000.0,0,"Excel, Power BI, Pandas, SQL",2026-05-31
+JM26-0271,Data Analyst,FinEdge,Kolkata,Mid,Full-time,600000.0,0,"Excel, Power BI, Python",2026-03-12
+JM26-0967,Python Developer,Apex Technologies,Noida,Senior,Full-time,1190000.0,50,"Python, Django, REST API, Git",2026-03-29
+JM26-0631,Analytics Engineer,FinEdge,Pune,Senior,Internship,570000.0,0,"ETL, Python, Data Modeling, SQL",2026-07-03
+JM26-0333,Business Analyst,QuantifyAI,Mumbai,Mid,Full-time,820000.0,0,"Tableau, Power BI, SQL, Excel",2026-07-14
+JM26-1034,Analytics Engineer,NextGen Analytics,Kolkata,Entry,Full-time,670000.0,50,"Python, Data Modeling, dbt, SQL",2026-08-25
+JM26-0472,Data Engineer,CloudMatrix,Delhi NCR,Mid,Full-time,1270000.0,100,"Python, ETL, Spark, AWS",2026-01-11
+JM26-0465,Data Engineer,CloudMatrix,Kolkata,Mid,Full-time,1170000.0,0,"AWS, ETL, Spark, Python",2026-03-19
+JM26-0329,AI Engineer,Apex Technologies,Bengaluru,Mid,Full-time,1610000.0,100,"Python, LLM, Deep Learning",2026-01-15
+JM26-0701,Data Scientist,QuantifyAI,Delhi NCR,Lead,Full-time,1950000.0,0,"Python, Machine Learning, SQL, Pandas, Statistics",2026-08-09
+JM26-0185,Business Analyst,QuantifyAI,Ahmedabad,Entry,Full-time,450000.0,0,"Tableau, Excel, Power BI",2026-02-15
+JM26-0554,Analytics Engineer,CloudMatrix,Gurugram,Senior,Full-time,1530000.0,50,"dbt, SQL, Data Modeling, ETL",2026-01-01
+JM26-0310,Data Analyst,NextGen Analytics,Chennai,Mid,Contract,600000.0,100,"Pandas, Python, Excel",2026-04-30
+JM26-0849,Data Analyst,TechNova,Bengaluru,Senior,Full-time,1050000.0,50,"Excel, Pandas, Power BI, SQL, Python",2026-06-16
+JM26-0164,Data Analyst,NextGen Analytics,Bengaluru,Mid,Full-time,720000.0,0,"Power BI, Pandas, SQL, Excel",2026-03-25
+JM26-1148,BI Analyst,NextGen Analytics,Gurugram,Lead,Full-time,1530000.0,50,"SQL, Tableau, Power BI, Excel, Data Visualization",2026-05-08
+JM26-0935,Business Analyst,FinEdge,Mumbai,Mid,Full-time,730000.0,0,"Communication, Excel, Tableau, SQL, Power BI",2026-02-04
+JM26-0157,Data Scientist,TechNova,Mumbai,Entry,Full-time,940000.0,100,"Python, Statistics, SQL",2026-07-31
+JM26-0860,Data Engineer,Vertex Systems,Bengaluru,Entry,Contract,890000.0,100,"AWS, ETL, Python",2026-05-29
+JM26-0763,Data Analyst,InsightWorks,Mumbai,Entry,Full-time,580000.0,0,"Power BI, Pandas, SQL, Excel",2026-07-24
+JM26-0760,Data Engineer,NextGen Analytics,Delhi NCR,Mid,Full-time,1230000.0,0,"Spark, SQL, AWS, Python",2026-01-15
+JM26-0939,Analytics Engineer,DigitalCore,Gurugram,Mid,Full-time,1050000.0,100,"Python, ETL, SQL, Data Modeling, dbt",2026-04-18
+JM26-0320,Analytics Engineer,InsightWorks,Bengaluru,Mid,Full-time,1200000.0,50,"SQL, Data Modeling, dbt",2026-04-29
+JM26-0890,Business Analyst,CloudMatrix,Pune,Mid,Full-time,610000.0,100,"Power BI, Excel, SQL, Tableau, Communication",2026-06-12
+JM26-0585,Analytics Engineer,DataSphere,Hyderabad,Entry,Part-time,480000.0,0,"Data Modeling, SQL, Python",2026-08-25
+JM26-0658,Data Scientist,InnovateLabs,Hyderabad,Entry,Full-time,620000.0,50,"Machine Learning, Pandas, Statistics, Python",2026-01-04
+JM26-1062,AI Engineer,CloudMatrix,Ahmedabad,Senior,Part-time,1050000.0,0,"Python, PyTorch, Machine Learning",2026-07-07
+JM26-0719,AI Engineer,DataSphere,Delhi NCR,Entry,Contract,1020000.0,0,"LLM, Deep Learning, Machine Learning, PyTorch, Python",2026-02-02
+JM26-0733,Data Analyst,InnovateLabs,Gurugram,Entry,Full-time,480000.0,50,"Python, SQL, Excel, Pandas",2026-05-08
+JM26-0960,Data Engineer,Apex Technologies,Bengaluru,Senior,Full-time,1920000.0,0,"ETL, AWS, SQL, Spark",2026-03-16
+JM26-0614,Python Developer,DigitalCore,Hyderabad,Senior,Full-time,1160000.0,0,"Python, Django, SQL",2026-06-13
+JM26-0244,Data Engineer,NextGen Analytics,Bengaluru,Senior,Full-time,1560000.0,50,"AWS, Spark, Python, ETL",2026-03-03
+JM26-0514,Data Scientist,DigitalCore,Noida,Senior,Full-time,1390000.0,50,"Statistics, Pandas, SQL, Machine Learning, Python",2026-06-17
+JM26-0097,Machine Learning Engineer,BrightData,Bengaluru,Mid,Full-time,1620000.0,50,"TensorFlow, PyTorch, Python",2026-05-21
+JM26-0696,Data Engineer,InnovateLabs,Bengaluru,Entry,Full-time,880000.0,0,"AWS, Spark, ETL",2026-02-24
+JM26-0823,Data Scientist,CloudMatrix,Bengaluru,Senior,Full-time,2080000.0,50,"SQL, Python, Machine Learning, Pandas",2026-07-14
+JM26-0179,Analytics Engineer,InnovateLabs,Delhi NCR,Entry,Full-time,750000.0,100,"Python, ETL, dbt",2026-06-15
+JM26-0032,Python Developer,InnovateLabs,Delhi NCR,Senior,Internship,400000.0,50,"Django, Python, REST API, Git",2026-02-21
+JM26-0209,Data Analyst,InsightWorks,Noida,Senior,Internship,310000.0,100,"Pandas, Excel, Power BI, SQL, Python",2026-08-01
+JM26-0858,ML Researcher,BrightData,Pune,Mid,Full-time,1550000.0,100,"Python, Statistics, PyTorch, Deep Learning",2026-05-25
+JM26-0332,Data Scientist,InnovateLabs,Bengaluru,Mid,Full-time,1080000.0,0,"Statistics, SQL, Python, Machine Learning, Pandas",2026-04-03
+JM26-1138,Machine Learning Engineer,TechNova,Pune,Mid,Full-time,1320000.0,50,"Docker, TensorFlow, Machine Learning, Python",2026-01-13
+JM26-0382,Analytics Engineer,InsightWorks,Hyderabad,Entry,Full-time,780000.0,50,"SQL, Python, dbt, Data Modeling",2026-07-07
+JM26-0623,Python Developer,InnovateLabs,Mumbai,Mid,Full-time,730000.0,100,"Django, REST API, SQL, Python, Git",2026-02-05
+JM26-0197,AI Engineer,CloudMatrix,Mumbai,Entry,Full-time,1230000.0,0,"Machine Learning, PyTorch, Deep Learning, Python, LLM",2026-07-06
+JM26-0448,AI Engineer,CloudMatrix,Gurugram,Entry,Full-time,1130000.0,50,"Machine Learning, PyTorch, LLM, Python, Deep Learning",2026-02-17
+JM26-0089,Data Analyst,QuantifyAI,Pune,Entry,Full-time,440000.0,50,"Excel, Power BI, Pandas, Python, SQL",2026-07-07
+JM26-1082,Analytics Engineer,QuantifyAI,Bengaluru,Senior,Full-time,1590000.0,0,"Data Modeling, Python, SQL",2026-04-16
+JM26-0974,Analytics Engineer,InnovateLabs,Bengaluru,Entry,Full-time,1020000.0,50,"Data Modeling, dbt, ETL, SQL, Python",2026-05-27
+JM26-0889,Data Analyst,Vertex Systems,Chennai,Entry,Full-time,400000.0,100,"Pandas, Power BI, Excel, Python, SQL",2026-08-12
+JM26-0454,Data Analyst,FinEdge,Bengaluru,Mid,Full-time,670000.0,100,"SQL, Excel, Python",2026-04-26
+JM26-1042,AI Engineer,Vertex Systems,Bengaluru,Entry,Full-time,900000.0,50,"PyTorch, LLM, Deep Learning, Python, Machine Learning",2026-07-03
+JM26-0309,Data Scientist,TechNova,Bengaluru,Entry,Full-time,830000.0,50,"SQL, Python, Machine Learning",2026-01-26
+JM26-0744,Data Analyst,InnovateLabs,Bengaluru,Entry,Full-time,590000.0,50,"Python, Power BI, Excel",2026-03-06
+JM26-0619,Data Analyst,CloudMatrix,Mumbai,Mid,Internship,240000.0,0,"Excel, Power BI, Pandas, Python",2026-06-02
+JM26-0975,Data Scientist,QuantifyAI,Hyderabad,Mid,Contract,1130000.0,0,"Machine Learning, Python, Statistics, SQL, Pandas",2026-07-23
+JM26-0813,Python Developer,InnovateLabs,Bengaluru,Senior,Full-time,1200000.0,50,"Django, SQL, Python",2026-08-18
+JM26-0635,Data Analyst,FinEdge,Bengaluru,Lead,Full-time,1460000.0,100,"Pandas, Python, SQL, Power BI",2026-05-09
+JM26-0495,BI Analyst,InnovateLabs,Delhi NCR,Lead,Full-time,1680000.0,100,"Data Visualization, SQL, Power BI, Tableau",2026-04-04
+JM26-1120,ML Researcher,NextGen Analytics,Kolkata,Senior,Full-time,1740000.0,50,"Research, PyTorch, Python, Statistics",2026-03-14
+JM26-0011,Machine Learning Engineer,TechNova,Chennai,Senior,Full-time,1940000.0,100,"Docker, Python, TensorFlow, Machine Learning",2026-08-07
+JM26-0694,Data Scientist,QuantifyAI,Bengaluru,Lead,Full-time,1920000.0,0,"Statistics, Pandas, Python, SQL, Machine Learning",2026-05-10
+JM26-0568,Data Analyst,TechNova,Bengaluru,Mid,Full-time,640000.0,100,"Pandas, Python, Power BI, SQL",2026-01-27
+JM26-0523,Data Analyst,InsightWorks,Chennai,Entry,Part-time,280000.0,100,"Python, SQL, Pandas, Excel, Power BI",2026-04-03
+JM26-0060,Data Analyst,BrightData,Ahmedabad,Mid,Full-time,500000.0,0,"Power BI, Python, Excel",2026-01-04
+JM26-1003,Data Analyst,DigitalCore,Noida,Mid,Internship,200000.0,100,"SQL, Pandas, Power BI, Excel",2026-03-13
+JM26-0064,Business Analyst,QuantifyAI,Kolkata,Mid,Full-time,580000.0,100,"SQL, Tableau, Power BI, Excel",2026-06-27
+JM26-0728,Data Analyst,DigitalCore,Chennai,Entry,Full-time,370000.0,0,"Pandas, SQL, Python",2026-05-13
+JM26-0311,Data Engineer,NextGen Analytics,Bengaluru,Lead,Full-time,2380000.0,0,"SQL, Spark, AWS",2026-02-14
+JM26-0769,Data Analyst,Apex Technologies,Pune,Entry,Full-time,490000.0,0,"Python, Pandas, Excel, Power BI",2026-04-12
+JM26-0662,ML Researcher,Vertex Systems,Ahmedabad,Mid,Part-time,790000.0,0,"Research, PyTorch, Python, Deep Learning",2026-07-08
+JM26-1020,Machine Learning Engineer,CloudMatrix,Hyderabad,Senior,Full-time,2170000.0,50,"Python, Docker, TensorFlow, Machine Learning, PyTorch",2026-05-10
+JM26-0615,Data Scientist,DigitalCore,Gurugram,Entry,Full-time,750000.0,100,"Machine Learning, Statistics, Python, SQL, Pandas",2026-07-01
+JM26-1197,Data Scientist,TechNova,Hyderabad,Senior,Full-time,1710000.0,50,"Statistics, Machine Learning, Pandas, Python, SQL",2026-03-03
+JM26-0874,Machine Learning Engineer,NextGen Analytics,Noida,Senior,Full-time,1510000.0,100,"Machine Learning, Python, TensorFlow",2026-01-13
+JM26-1040,Data Analyst,InnovateLabs,Mumbai,Mid,Full-time,750000.0,0,"Pandas, Excel, SQL, Power BI",2026-02-11
+JM26-0351,AI Engineer,BrightData,Bengaluru,Entry,Full-time,1160000.0,100,"Python, PyTorch, Deep Learning, Machine Learning, LLM",2026-08-04
+JM26-0364,Data Analyst,Vertex Systems,Kolkata,Mid,Full-time,590000.0,50,"Python, SQL, Excel, Power BI, Pandas",2026-04-29
+JM26-1126,Data Engineer,NextGen Analytics,Ahmedabad,Mid,Full-time,990000.0,0,"Spark, SQL, ETL, AWS",2026-02-15
+JM26-0299,Business Analyst,CloudMatrix,Hyderabad,Mid,Full-time,710000.0,100,"Power BI, Communication, Excel",2026-02-25
+JM26-0430,BI Analyst,DigitalCore,Pune,Senior,Part-time,820000.0,0,"Excel, Data Visualization, SQL",2026-06-27
+JM26-0904,Data Engineer,QuantifyAI,Kolkata,Lead,Full-time,1630000.0,100,"AWS, Spark, SQL, Python",2026-05-24
+JM26-0826,Data Analyst,NextGen Analytics,Pune,Senior,Full-time,940000.0,50,"SQL, Power BI, Excel",2026-03-26
+JM26-0278,Data Engineer,DigitalCore,Ahmedabad,Senior,Internship,660000.0,0,"Python, ETL, AWS",2026-06-20
+JM26-0943,Data Analyst,Apex Technologies,Gurugram,Entry,Internship,160000.0,100,"Power BI, Excel, Pandas",2026-04-17
+JM26-0261,Data Analyst,DigitalCore,Gurugram,Senior,Full-time,1110000.0,0,"SQL, Pandas, Power BI, Python, Excel",2026-06-28
+JM26-0293,Analytics Engineer,InsightWorks,Delhi NCR,Senior,Full-time,1560000.0,0,"dbt, Data Modeling, Python",2026-03-01
+JM26-0923,AI Engineer,DataSphere,Hyderabad,Senior,Full-time,1860000.0,0,"Deep Learning, LLM, PyTorch",2026-05-30
+JM26-0275,Business Analyst,NextGen Analytics,Mumbai,Mid,Internship,270000.0,100,"Communication, SQL, Power BI, Tableau",2026-03-20
+JM26-0632,BI Analyst,Vertex Systems,Ahmedabad,Entry,Full-time,410000.0,50,"Tableau, SQL, Excel",2026-08-01
+JM26-0902,Data Scientist,NextGen Analytics,Bengaluru,Mid,Full-time,1070000.0,0,"SQL, Pandas, Statistics, Python",2026-05-15
+JM26-0722,Machine Learning Engineer,Apex Technologies,Hyderabad,Mid,Full-time,1390000.0,50,"Python, Machine Learning, TensorFlow, Docker, PyTorch",2026-06-24
+JM26-0307,Machine Learning Engineer,InsightWorks,Chennai,Senior,Contract,1560000.0,0,"Docker, PyTorch, Python, Machine Learning",2026-03-13
+JM26-0524,AI Engineer,DigitalCore,Mumbai,Senior,Full-time,2110000.0,0,"Machine Learning, Python, PyTorch",2026-03-25
+JM26-0530,Data Scientist,FinEdge,Pune,Senior,Part-time,830000.0,0,"Pandas, Python, Machine Learning, SQL",2026-06-05
+JM26-0084,Data Analyst,QuantifyAI,Delhi NCR,Mid,Full-time,590000.0,0,"Power BI, SQL, Pandas, Excel",2026-05-27
+JM26-0959,Data Engineer,InsightWorks,Pune,Senior,Full-time,1480000.0,0,"Python, SQL, ETL, Spark, AWS",2026-04-29
+JM26-0972,Data Analyst,BrightData,Hyderabad,Entry,Contract,470000.0,100,"Power BI, Pandas, SQL",2026-01-10
+JM26-0324,Data Engineer,BrightData,Gurugram,Mid,Part-time,850000.0,50,"ETL, AWS, Python, SQL",2026-02-09
+JM26-0130,AI Engineer,,Bengaluru,Mid,Full-time,1760000.0,50,"Machine Learning, Deep Learning, Python",2026-06-16
+JM26-0901,Data Engineer,InsightWorks,Chennai,Lead,Full-time,2050000.0,100,"ETL, AWS, SQL, Spark",2026-08-15
+JM26-0436,Data Scientist,CloudMatrix,Pune,Mid,Full-time,960000.0,50,"Statistics, Python, Machine Learning, Pandas",2026-04-01
+JM26-0932,Machine Learning Engineer,DataSphere,Chennai,Entry,Full-time,1040000.0,100,"Python, Machine Learning, TensorFlow, Docker, PyTorch",2026-04-08
+JM26-0991,AI Engineer,TechNova,Bengaluru,Entry,Full-time,1170000.0,100,"LLM, Python, Machine Learning",2026-02-04
+JM26-0536,Data Scientist,TechNova,Chennai,Mid,Full-time,920000.0,100,"SQL, Statistics, Pandas, Python, Machine Learning",2026-06-25
+JM26-0248,Machine Learning Engineer,Apex Technologies,Mumbai,Senior,Full-time,1730000.0,100,"Python, PyTorch, Docker, Machine Learning",2026-05-14
+JM26-0906,AI Engineer,TechNova,Chennai,Entry,Full-time,1010000.0,50,"Python, Machine Learning, LLM",2026-02-04
+JM26-0913,Analytics Engineer,BrightData,Bengaluru,Mid,Contract,1070000.0,100,"Python, dbt, ETL, SQL, Data Modeling",2026-08-11
+JM26-0486,Machine Learning Engineer,TechNova,Hyderabad,Entry,Part-time,630000.0,0,"Machine Learning, PyTorch, Python",2026-08-18
+JM26-0139,BI Analyst,TechNova,Noida,Entry,Contract,530000.0,50,"SQL, Data Visualization, Tableau",2026-04-11
+JM26-0926,Data Scientist,BrightData,Pune,Senior,Full-time,1490000.0,100,"Pandas, Machine Learning, SQL, Statistics",2026-04-08
+JM26-0142,Data Engineer,FinEdge,Gurugram,Mid,Full-time,1590000.0,0,"Python, ETL, AWS, SQL, Spark",2026-03-13
+JM26-0549,Business Analyst,CloudMatrix,Pune,Lead,Full-time,1180000.0,50,"SQL, Excel, Tableau",2026-06-15
+JM26-0539,Data Analyst,DigitalCore,Mumbai,Entry,Full-time,420000.0,100,"SQL, Excel, Pandas, Python",2026-04-11
+JM26-0377,Analytics Engineer,DigitalCore,Gurugram,Mid,Full-time,1160000.0,0,"Data Modeling, dbt, SQL",2026-03-07
+JM26-0140,Data Analyst,DataSphere,Pune,Mid,Full-time,620000.0,0,"Excel, Power BI, Python, SQL",2026-03-22
+JM26-0362,Data Analyst,Vertex Systems,Delhi NCR,Senior,Full-time,1000000.0,100,"Python, SQL, Pandas",2026-05-14
+JM26-0840,Data Engineer,Apex Technologies,Gurugram,Mid,Full-time,1060000.0,50,"SQL, Python, ETL, AWS, Spark",2026-07-26
+JM26-0225,Data Scientist,NextGen Analytics,Pune,Mid,Full-time,960000.0,50,"Pandas, Python, SQL, Statistics",2026-02-13
+JM26-0870,Data Scientist,DigitalCore,Mumbai,Entry,Full-time,680000.0,100,"Statistics, Machine Learning, Pandas, SQL, Python",2026-06-16
+JM26-0723,Data Analyst,TechNova,Pune,Mid,Full-time,520000.0,50,"Power BI, Excel, SQL, Python",2026-04-01
+JM26-0479,AI Engineer,Apex Technologies,Noida,Mid,Full-time,1460000.0,0,"Deep Learning, Machine Learning, Python, PyTorch",2026-02-07
+JM26-0942,BI Analyst,InnovateLabs,Pune,Senior,Full-time,1090000.0,50,"Excel, Power BI, Tableau, Data Visualization, SQL",2026-05-23
+JM26-0507,Data Scientist,NextGen Analytics,Bengaluru,Lead,Full-time,1930000.0,100,"SQL, Statistics, Python, Machine Learning",2026-07-01
+JM26-0573,Data Engineer,FinEdge,Delhi NCR,Entry,Internship,370000.0,0,"Spark, ETL, AWS",2026-01-17
+JM26-0622,Data Engineer,QuantifyAI,Mumbai,Senior,Full-time,1750000.0,50,"Python, ETL, AWS, Spark, SQL",2026-01-13
+JM26-0672,Data Engineer,InsightWorks,Pune,Lead,Full-time,2310000.0,0,"AWS, ETL, Spark",2026-05-29
+JM26-0755,Business Analyst,InsightWorks,Kolkata,Entry,Part-time,310000.0,50,"SQL, Power BI, Tableau",2026-02-05
+JM26-0487,Data Engineer,CloudMatrix,Mumbai,Entry,Full-time,1030000.0,100,"Python, SQL, AWS, ETL, Spark",2026-08-24
+JM26-0948,ML Researcher,InsightWorks,Ahmedabad,Mid,Full-time,1370000.0,100,"Research, PyTorch, Statistics, Python",2026-08-24
+JM26-0295,BI Analyst,NextGen Analytics,Pune,Senior,Part-time,570000.0,100,"Tableau, Excel, Data Visualization",2026-07-29
+JM26-1030,Machine Learning Engineer,Vertex Systems,Delhi NCR,Senior,Full-time,1780000.0,100,"Python, Docker, Machine Learning, TensorFlow, PyTorch",2026-04-17
+JM26-0595,Data Analyst,QuantifyAI,Kolkata,Mid,Full-time,620000.0,50,"Excel, Pandas, Python, SQL",2026-07-26
+JM26-0592,Machine Learning Engineer,FinEdge,Hyderabad,Senior,Full-time,1600000.0,50,"Docker, Machine Learning, TensorFlow",2026-07-26
+JM26-0863,BI Analyst,DataSphere,Mumbai,Entry,Full-time,630000.0,50,"Tableau, Excel, Data Visualization, Power BI",2026-02-17
+JM26-0842,BI Analyst,CloudMatrix,Gurugram,Mid,Full-time,740000.0,100,"Power BI, Tableau, Excel, SQL",2026-08-13
+JM26-0707,BI Analyst,FinEdge,Pune,Mid,Full-time,690000.0,0,"Power BI, Excel, Data Visualization, SQL, Tableau",2026-04-03
+JM26-0040,AI Engineer,InnovateLabs,Bengaluru,Senior,Full-time,1810000.0,0,"Deep Learning, Machine Learning, PyTorch, LLM, Python",2026-02-19
+JM26-0031,Business Analyst,QuantifyAI,Bengaluru,Senior,Full-time,1260000.0,50,"SQL, Tableau, Power BI",2026-05-02
+JM26-0243,Data Scientist,InnovateLabs,Bengaluru,Mid,Full-time,1410000.0,0,"Pandas, Machine Learning, Statistics, SQL",2026-08-24
+JM26-0443,Business Analyst,QuantifyAI,Pune,Mid,Full-time,620000.0,0,"SQL, Tableau, Communication, Power BI",2026-04-15
+JM26-0137,Python Developer,DigitalCore,Bengaluru,Senior,Full-time,1170000.0,50,"SQL, Git, Python",2026-01-24
+JM26-0979,Data Engineer,Apex Technologies,Hyderabad,Mid,Full-time,1260000.0,100,"SQL, Spark, AWS, ETL",2026-04-09
+JM26-0562,Data Scientist,FinEdge,Bengaluru,Lead,Full-time,2100000.0,0,"Statistics, Pandas, Machine Learning",2026-03-10
+JM26-0004,Business Analyst,Apex Technologies,Chennai,Senior,Full-time,940000.0,50,"Power BI, SQL, Excel",2026-04-24
+JM26-0962,Machine Learning Engineer,BrightData,Hyderabad,Mid,Full-time,1450000.0,100,"Machine Learning, TensorFlow, Docker",2026-01-03
+JM26-0708,BI Analyst,NextGen Analytics,Bengaluru,Mid,Full-time,790000.0,50,"SQL, Excel, Power BI, Tableau",2026-02-03
+JM26-1036,AI Engineer,Apex Technologies,Noida,Mid,Full-time,1400000.0,0,"PyTorch, Python, Deep Learning, LLM",2026-06-22
+JM26-0669,Data Scientist,DataSphere,Mumbai,Senior,Contract,1610000.0,50,"Statistics, SQL, Pandas, Machine Learning, Python",2026-04-21
+JM26-1010,Data Engineer,FinEdge,Bengaluru,Entry,Internship,330000.0,100,"ETL, Python, AWS, Spark, SQL",2026-07-27
+JM26-0893,Data Scientist,QuantifyAI,Mumbai,Mid,Internship,410000.0,50,"Python, Statistics, SQL, Pandas, Machine Learning",2026-05-06
+JM26-0468,Analytics Engineer,CloudMatrix,Hyderabad,Mid,Full-time,1070000.0,100,"SQL, Python, dbt",2026-05-14
+JM26-0561,Data Analyst,,Hyderabad,Senior,Full-time,1130000.0,50,"Excel, SQL, Pandas, Python, Power BI",2026-06-24
+JM26-1078,Data Engineer,InsightWorks,Bengaluru,Senior,Full-time,1660000.0,0,"Spark, Python, ETL, AWS, SQL",2026-06-28
+JM26-0359,Data Engineer,CloudMatrix,Delhi NCR,Senior,Full-time,1830000.0,50,"Python, SQL, Spark, ETL",2026-01-13
+JM26-0006,Python Developer,TechNova,Bengaluru,Entry,Full-time,620000.0,100,,2026-05-24
+JM26-0101,Analytics Engineer,DataSphere,Bengaluru,Entry,Part-time,520000.0,50,"Python, Data Modeling, ETL",2026-05-21
+JM26-1050,Data Scientist,FinEdge,Hyderabad,Senior,Full-time,1380000.0,100,"Pandas, Python, SQL, Statistics, Machine Learning",2026-01-03
+JM26-0837,Business Analyst,DigitalCore,Kolkata,Lead,Contract,1140000.0,0,"SQL, Excel, Communication, Power BI, Tableau",2026-01-21
+JM26-0480,Machine Learning Engineer,FinEdge,Mumbai,Entry,Full-time,1390000.0,100,"Machine Learning, Python, TensorFlow",2026-05-02
+JM26-0856,Data Engineer,CloudMatrix,Pune,Senior,Full-time,1490000.0,0,"AWS, Python, ETL",2026-06-12
+JM26-0821,Data Analyst,Apex Technologies,Delhi NCR,Entry,Full-time,550000.0,50,"SQL, Pandas, Excel",2026-05-02
+JM26-0736,Business Analyst,InsightWorks,Bengaluru,Senior,Full-time,990000.0,100,"Power BI, Excel, SQL, Tableau",2026-05-13
+JM26-0683,Data Analyst,TechNova,Pune,Mid,Full-time,710000.0,0,"Python, Excel, Pandas",2026-05-12
+JM26-0228,Data Engineer,NextGen Analytics,Bengaluru,Mid,Full-time,1590000.0,0,"AWS, Python, ETL",2026-03-31
+JM26-0343,BI Analyst,DataSphere,Pune,Entry,Full-time,490000.0,0,"SQL, Data Visualization, Excel, Power BI, Tableau",2026-08-23
+JM26-0529,Business Analyst,DigitalCore,Bengaluru,Mid,Contract,830000.0,50,"Tableau, Power BI, Excel, SQL",2026-04-02
+JM26-1094,Data Scientist,DataSphere,Hyderabad,Mid,Contract,1210000.0,100,"Python, Machine Learning, Statistics, SQL, Pandas",2026-05-09
+JM26-0582,Data Engineer,Vertex Systems,Gurugram,Entry,Full-time,730000.0,50,"SQL, AWS, ETL",2026-06-17
+JM26-0067,Data Engineer,Vertex Systems,Bengaluru,Senior,Full-time,1870000.0,0,"Python, AWS, Spark, ETL, SQL",2026-05-18
+JM26-0068,Data Scientist,FinEdge,Ahmedabad,Mid,Full-time,1070000.0,0,"SQL, Pandas, Python, Statistics",2026-07-17
+JM26-0391,AI Engineer,InsightWorks,Bengaluru,Senior,Internship,750000.0,100,"Python, LLM, Deep Learning",2026-04-24
+JM26-0212,AI Engineer,CloudMatrix,Ahmedabad,Senior,Full-time,1490000.0,100,"Python, PyTorch, Machine Learning",2026-04-26
+JM26-0013,AI Engineer,InnovateLabs,Mumbai,Mid,Full-time,1560000.0,100,"Python, LLM, PyTorch",2026-05-31
+JM26-0627,BI Analyst,TechNova,Mumbai,Entry,Full-time,680000.0,100,"Excel, Data Visualization, Power BI",2026-01-14
+JM26-0651,Machine Learning Engineer,InsightWorks,Hyderabad,Senior,Full-time,1580000.0,0,"Python, TensorFlow, Docker, Machine Learning, PyTorch",2026-06-19
+JM26-0300,AI Engineer,DataSphere,Delhi NCR,Senior,Full-time,2030000.0,100,"PyTorch, Deep Learning, Machine Learning, Python",2026-05-22
+JM26-0425,AI Engineer,FinEdge,Pune,Lead,Contract,2520000.0,100,"LLM, Python, PyTorch, Deep Learning",2026-01-29
+JM26-0761,Business Analyst,TechNova,Delhi NCR,Lead,Full-time,1450000.0,100,"SQL, Communication, Excel, Power BI, Tableau",2026-06-09
+JM26-1145,Machine Learning Engineer,NextGen Analytics,Chennai,Mid,Full-time,1070000.0,0,"TensorFlow, Docker, Machine Learning, PyTorch",2026-08-10
+JM26-1076,Data Scientist,DigitalCore,Bengaluru,Mid,Full-time,1180000.0,50,"Python, Statistics, Machine Learning, SQL, Pandas",2026-03-03
+JM26-0630,BI Analyst,Apex Technologies,Mumbai,Mid,Full-time,850000.0,50,"SQL, Power BI, Tableau, Excel, Data Visualization",2026-06-20
+JM26-1140,AI Engineer,Apex Technologies,Bengaluru,Mid,Full-time,1550000.0,100,"Deep Learning, LLM, PyTorch, Machine Learning",2026-03-20
+JM26-0621,Business Analyst,CloudMatrix,Kolkata,Mid,Full-time,630000.0,50,"Excel, Communication, Tableau",2026-07-23
+JM26-1080,Data Scientist,DataSphere,Delhi NCR,Mid,Contract,870000.0,0,"Statistics, Machine Learning, Pandas, Python",2026-06-21
+JM26-0933,Machine Learning Engineer,Vertex Systems,Ahmedabad,Entry,Full-time,690000.0,100,"Docker, Machine Learning, Python, PyTorch, TensorFlow",2026-02-17
+JM26-1122,Data Analyst,DataSphere,Bengaluru,Senior,Full-time,1150000.0,0,"Power BI, Pandas, Excel, SQL, Python",2026-02-13
+JM26-0571,Data Scientist,DigitalCore,Delhi NCR,Mid,Internship,380000.0,0,"Python, Pandas, Statistics, Machine Learning, SQL",2026-06-20
+JM26-0584,Machine Learning Engineer,DataSphere,Bengaluru,Mid,Full-time,1500000.0,0,"TensorFlow, Docker, Machine Learning, PyTorch",2026-04-16
+JM26-0274,AI Engineer,Apex Technologies,Mumbai,Mid,Full-time,1580000.0,100,"Machine Learning, PyTorch, Deep Learning",2026-02-16
+JM26-0414,Analytics Engineer,TechNova,Pune,Entry,Full-time,,100,"ETL, dbt, Python, SQL",2026-08-18
+JM26-0238,BI Analyst,TechNova,Mumbai,Entry,Full-time,570000.0,0,"Power BI, SQL, Excel",2026-08-03
+JM26-0724,Python Developer,BrightData,Hyderabad,Mid,Full-time,820000.0,100,"Git, Python, REST API, SQL",2026-04-08
+JM26-0003,ML Researcher,Apex Technologies,Gurugram,Senior,Full-time,2180000.0,0,"PyTorch, Deep Learning, Statistics",2026-04-15
+JM26-0007,Business Analyst,InnovateLabs,Delhi NCR,Mid,Full-time,880000.0,50,"Communication, Tableau, SQL",2026-07-24
+JM26-0312,Machine Learning Engineer,FinEdge,Bengaluru,Entry,Full-time,1110000.0,100,"Docker, Machine Learning, PyTorch",2026-05-30
+JM26-1031,Data Engineer,InnovateLabs,Hyderabad,Mid,Full-time,1230000.0,50,"AWS, Spark, SQL, Python",2026-02-06
+JM26-0353,Data Engineer,InsightWorks,Hyderabad,Senior,Internship,600000.0,50,"SQL, ETL, Python, AWS",2026-06-30
+JM26-0491,Business Analyst,QuantifyAI,Gurugram,Entry,Full-time,470000.0,0,"SQL, Tableau, Excel, Communication",2026-08-23
+JM26-0216,Business Analyst,CloudMatrix,Gurugram,Mid,Full-time,750000.0,0,"Communication, Power BI, SQL, Tableau",2026-02-20
+JM26-0383,BI Analyst,QuantifyAI,Pune,Mid,Full-time,610000.0,0,"Excel, Tableau, Power BI, Data Visualization, SQL",2026-01-06
+JM26-0028,Data Analyst,FinEdge,Pune,Senior,Full-time,670000.0,50,"Python, SQL, Excel, Power BI",2026-07-15
+JM26-1160,Business Analyst,BrightData,Bengaluru,Mid,Internship,240000.0,0,"Excel, SQL, Tableau",2026-06-22
+JM26-1149,Data Engineer,QuantifyAI,Bengaluru,Entry,Contract,890000.0,0,"Spark, SQL, AWS, Python, ETL",2026-05-06
+JM26-0553,Data Scientist,FinEdge,Noida,Entry,Full-time,730000.0,50,"Pandas, Python, SQL",2026-03-14
+JM26-0859,Machine Learning Engineer,BrightData,Bengaluru,Mid,Full-time,1390000.0,0,"Docker, PyTorch, Machine Learning",2026-04-22
+JM26-0558,Data Engineer,NextGen Analytics,Ahmedabad,Entry,Full-time,650000.0,50,"Python, ETL, Spark",2026-02-17
+JM26-0650,Data Analyst,BrightData,Chennai,Entry,Contract,360000.0,50,"Pandas, Power BI, Python, Excel",2026-01-10
+JM26-0738,Data Scientist,CloudMatrix,Delhi NCR,Entry,Full-time,710000.0,50,"SQL, Pandas, Python",2026-03-03
+JM26-0546,Machine Learning Engineer,CloudMatrix,Delhi NCR,Mid,Full-time,1300000.0,0,"TensorFlow, PyTorch, Machine Learning",2026-08-22
+JM26-0355,Data Engineer,BrightData,Hyderabad,Senior,Full-time,1490000.0,0,"ETL, SQL, AWS, Python",2026-04-19
+JM26-1066,Python Developer,QuantifyAI,Bengaluru,Senior,Full-time,990000.0,50,"Python, Git, SQL, REST API, Django",2026-02-24
+JM26-0412,AI Engineer,DigitalCore,Gurugram,Senior,Full-time,2060000.0,50,"Python, Machine Learning, LLM",2026-06-17
+JM26-0257,BI Analyst,InsightWorks,Hyderabad,Mid,Contract,620000.0,50,"SQL, Data Visualization, Power BI",2026-04-26
+JM26-0292,Data Analyst,FinEdge,Gurugram,Mid,Full-time,740000.0,100,"Python, Power BI, Pandas, Excel",2026-07-07
+JM26-0026,Data Scientist,Vertex Systems,Noida,Senior,Full-time,1610000.0,50,"Machine Learning, Statistics, Python, Pandas",2026-05-04
+JM26-0337,Data Analyst,DigitalCore,Gurugram,Entry,Full-time,490000.0,0,"SQL, Excel, Power BI, Pandas, Python",2026-05-03
+JM26-0817,ML Researcher,InnovateLabs,Hyderabad,Mid,Full-time,1520000.0,50,"PyTorch, Deep Learning, Python, Statistics, Research",2026-06-09
+JM26-0048,Data Scientist,DataSphere,Bengaluru,Mid,Full-time,1420000.0,50,"Pandas, Python, Machine Learning",2026-07-09
+JM26-0319,Data Scientist,BrightData,Bengaluru,Entry,Full-time,750000.0,0,"Machine Learning, SQL, Statistics, Pandas, Python",2026-03-02
+JM26-0107,Machine Learning Engineer,QuantifyAI,Delhi NCR,Lead,Full-time,2070000.0,100,"Machine Learning, TensorFlow, Docker, PyTorch, Python",2026-04-05
+JM26-0803,Analytics Engineer,DataSphere,Ahmedabad,Senior,Full-time,1300000.0,100,"ETL, dbt, Python",2026-01-18
+JM26-0056,BI Analyst,DataSphere,Noida,Mid,Full-time,770000.0,100,"Excel, Data Visualization, SQL, Tableau, Power BI",2026-04-19
+JM26-0527,Python Developer,Vertex Systems,Hyderabad,Senior,Full-time,880000.0,100,"Git, Django, REST API",2026-04-03
+JM26-0214,BI Analyst,InsightWorks,Kolkata,Senior,Full-time,910000.0,100,"Data Visualization, Tableau, SQL, Excel, Power BI",2026-06-29
+JM26-0121,AI Engineer,NextGen Analytics,Mumbai,Entry,Full-time,1040000.0,50,"LLM, Deep Learning, Machine Learning, Python",2026-05-22
+JM26-0567,Business Analyst,InsightWorks,Ahmedabad,Mid,Full-time,630000.0,50,"Tableau, Communication, Power BI, Excel, SQL",2026-03-14
+JM26-1115,Python Developer,CloudMatrix,Hyderabad,Senior,Full-time,1210000.0,50,"Git, Python, Django, REST API, SQL",2026-06-28
+JM26-0934,Business Analyst,FinEdge,Kolkata,Entry,Full-time,420000.0,100,"Excel, Power BI, Communication",2026-04-17
+JM26-0073,ML Researcher,CloudMatrix,Pune,Senior,Full-time,1680000.0,100,"Python, Statistics, PyTorch, Research",2026-02-10
+JM26-0915,Python Developer,NextGen Analytics,Bengaluru,Mid,Full-time,710000.0,0,"Django, SQL, Git, REST API, Python",2026-03-22
+JM26-1012,AI Engineer,NextGen Analytics,Pune,Entry,Full-time,1110000.0,0,"PyTorch, Python, Deep Learning",2026-06-19
+JM26-1153,Data Analyst,Vertex Systems,Hyderabad,Mid,Full-time,730000.0,50,"Power BI, SQL, Python, Excel, Pandas",2026-06-03
+JM26-0429,Data Analyst,DataSphere,Bengaluru,Senior,Full-time,1040000.0,0,"Power BI, Excel, Python, Pandas",2026-05-24
+JM26-0994,Data Scientist,QuantifyAI,Bengaluru,Entry,Full-time,720000.0,0,"Statistics, Python, SQL, Machine Learning",2026-06-24
+JM26-0789,BI Analyst,BrightData,Ahmedabad,Entry,Full-time,430000.0,50,"Excel, Data Visualization, SQL",2026-01-04
+JM26-1070,Machine Learning Engineer,InsightWorks,Noida,Lead,Full-time,2180000.0,0,"Machine Learning, TensorFlow, Python",2026-07-05
+JM26-1014,Python Developer,Vertex Systems,Mumbai,Entry,Full-time,690000.0,100,"SQL, REST API, Django",2026-01-25
+JM26-0439,Business Analyst,Vertex Systems,Hyderabad,Mid,Full-time,690000.0,50,"Tableau, Excel, Communication, Power BI",2026-02-03
+JM26-0794,Data Analyst,InnovateLabs,Bengaluru,Senior,Full-time,1020000.0,0,"Power BI, SQL, Excel",2026-06-02
+JM26-0326,AI Engineer,Vertex Systems,Bengaluru,Senior,Full-time,2100000.0,0,"Deep Learning, PyTorch, Python, Machine Learning, LLM",2026-03-31
+JM26-1019,Data Analyst,NextGen Analytics,Kolkata,Entry,Full-time,450000.0,0,"Python, Excel, Power BI, SQL, Pandas",2026-08-13
+JM26-0317,Machine Learning Engineer,QuantifyAI,Bengaluru,Mid,Full-time,1280000.0,100,"Docker, TensorFlow, Python, Machine Learning, PyTorch",2026-08-07
+JM26-0998,Data Analyst,FinEdge,Mumbai,Entry,Full-time,540000.0,100,"Power BI, Excel, Pandas, SQL",2026-03-10
+JM26-1169,BI Analyst,DigitalCore,Pune,Senior,Full-time,,50,"Excel, Power BI, SQL, Tableau",2026-08-05
+JM26-0533,Machine Learning Engineer,Vertex Systems,Chennai,Mid,Full-time,1310000.0,50,"Python, TensorFlow, Docker, PyTorch, Machine Learning",2026-07-25
+JM26-0689,Business Analyst,InsightWorks,Noida,Mid,Internship,210000.0,50,"Tableau, SQL, Communication, Excel, Power BI",2026-04-15
+JM26-0645,AI Engineer,Apex Technologies,Bengaluru,Senior,Full-time,2410000.0,100,"PyTorch, Deep Learning, LLM",2026-06-17
+JM26-0747,Data Scientist,CloudMatrix,Bengaluru,Senior,Full-time,1430000.0,100,"Machine Learning, Statistics, SQL, Python, Pandas",2026-05-31
+JM26-0061,AI Engineer,DataSphere,Bengaluru,Senior,Full-time,1650000.0,100,"Machine Learning, Deep Learning, LLM, PyTorch",2026-07-18
+JM26-0910,Data Scientist,NextGen Analytics,Bengaluru,Entry,Full-time,910000.0,50,"Machine Learning, Statistics, Python, SQL, Pandas",2026-02-05
+JM26-0093,Machine Learning Engineer,Apex Technologies,Mumbai,Entry,Full-time,1050000.0,50,"TensorFlow, PyTorch, Machine Learning, Docker",2026-01-12
+JM26-0862,Business Analyst,CloudMatrix,Hyderabad,Senior,Full-time,960000.0,0,"Communication, Power BI, Tableau, SQL, Excel",2026-04-04
+JM26-0406,ML Researcher,InnovateLabs,Hyderabad,Entry,Full-time,1000000.0,0,"PyTorch, Deep Learning, Research, Python, Statistics",2026-07-13
+JM26-0352,Data Analyst,DataSphere,Pune,Senior,Internship,340000.0,0,"Power BI, Python, Excel, Pandas",2026-01-20
+JM26-0938,Data Analyst,TechNova,Gurugram,Senior,Contract,1020000.0,50,"Power BI, Pandas, Excel, Python, SQL",2026-05-28
+JM26-0281,Data Analyst,QuantifyAI,Pune,Senior,Full-time,950000.0,0,"Python, Pandas, SQL, Power BI",2026-08-11
+JM26-0537,Data Engineer,InnovateLabs,Noida,Mid,Full-time,1060000.0,50,"ETL, SQL, AWS, Spark",2026-02-04
+JM26-0411,AI Engineer,Vertex Systems,Hyderabad,Entry,Full-time,1070000.0,100,"LLM, Machine Learning, Deep Learning, Python",2026-05-07
+JM26-0360,AI Engineer,,Noida,Mid,Full-time,,50,"PyTorch, Machine Learning, LLM",2026-06-27
+JM26-0515,Data Scientist,QuantifyAI,Hyderabad,Mid,Full-time,1130000.0,0,"Python, Statistics, SQL, Pandas",2026-05-26
+JM26-0552,Data Analyst,Apex Technologies,Bengaluru,Senior,Full-time,1090000.0,100,"Python, Pandas, SQL",2026-03-09
+JM26-1044,AI Engineer,CloudMatrix,Hyderabad,Mid,Full-time,1340000.0,100,"Deep Learning, LLM, Machine Learning, PyTorch, Python",2026-04-03
+JM26-0600,AI Engineer,FinEdge,Delhi NCR,Entry,Full-time,1080000.0,0,"PyTorch, Python, Machine Learning, Deep Learning",2026-04-26
+JM26-0494,Data Scientist,InnovateLabs,Chennai,Mid,Full-time,1010000.0,50,"Statistics, Python, Machine Learning, SQL, Pandas",2026-05-01
+JM26-1046,Data Scientist,Vertex Systems,Bengaluru,Mid,Internship,390000.0,100,"Machine Learning, Pandas, Statistics, Python",2026-06-04
+JM26-0183,Data Engineer,CloudMatrix,Mumbai,Entry,Internship,280000.0,0,"Python, Spark, ETL, SQL",2026-06-28
+JM26-1167,BI Analyst,CloudMatrix,Hyderabad,Senior,Full-time,990000.0,100,"Excel, SQL, Power BI, Tableau",2026-08-17
+JM26-0482,Data Scientist,InsightWorks,Gurugram,Entry,Full-time,800000.0,0,"SQL, Python, Pandas, Statistics, Machine Learning",2026-07-17
+JM26-0111,Machine Learning Engineer,NextGen Analytics,Pune,Mid,Contract,1220000.0,0,"Python, Docker, Machine Learning",2026-01-26
+JM26-0371,Business Analyst,NextGen Analytics,Pune,Entry,Internship,180000.0,100,"Power BI, Tableau, Excel, SQL, Communication",2026-08-05
+JM26-0240,Data Analyst,Apex Technologies,Ahmedabad,Entry,Full-time,480000.0,100,"SQL, Power BI, Excel, Pandas",2026-03-22
+JM26-0713,BI Analyst,Vertex Systems,Kolkata,Senior,Full-time,780000.0,50,"SQL, Power BI, Data Visualization, Tableau, Excel",2026-02-04
+JM26-1158,Data Analyst,Apex Technologies,Mumbai,Senior,Internship,410000.0,0,"Excel, SQL, Pandas, Python, Power BI",2026-01-23
+JM26-0598,AI Engineer,InnovateLabs,Hyderabad,Entry,Part-time,580000.0,50,"Machine Learning, Deep Learning, PyTorch",2026-01-19
+JM26-1092,AI Engineer,DataSphere,Chennai,Entry,Full-time,990000.0,100,"Machine Learning, Deep Learning, LLM, PyTorch",2026-03-13
+JM26-0810,Python Developer,QuantifyAI,Chennai,Entry,Full-time,460000.0,100,"Git, REST API, Django, Python, SQL",2026-06-15
+JM26-0262,BI Analyst,CloudMatrix,Mumbai,Mid,Full-time,800000.0,0,"SQL, Power BI, Tableau, Excel",2026-07-04
+JM26-0616,Business Analyst,Vertex Systems,Mumbai,Senior,Full-time,1060000.0,50,"SQL, Communication, Excel",2026-04-10
+JM26-0835,Business Analyst,QuantifyAI,Bengaluru,Entry,Full-time,590000.0,0,,2026-04-09
+JM26-0340,Analytics Engineer,DataSphere,Pune,Mid,Full-time,1020000.0,100,"SQL, Python, ETL",2026-07-31
+JM26-1175,Data Engineer,CloudMatrix,Pune,Mid,Full-time,1140000.0,100,"AWS, SQL, Python, Spark",2026-02-12
+JM26-1103,BI Analyst,QuantifyAI,Pune,Entry,Full-time,510000.0,0,"Excel, Tableau, SQL, Data Visualization, Power BI",2026-03-18
+JM26-0754,Data Engineer,Vertex Systems,Ahmedabad,Entry,Full-time,700000.0,0,"Spark, Python, AWS, ETL, SQL",2026-04-02
+JM26-0184,Data Scientist,InsightWorks,Ahmedabad,Entry,Full-time,630000.0,0,"Machine Learning, Pandas, SQL, Python",2026-07-29
+JM26-0138,Data Engineer,FinEdge,Delhi NCR,Mid,Full-time,1170000.0,100,"ETL, Spark, SQL, AWS",2026-06-16
+JM26-1163,BI Analyst,InsightWorks,Pune,Senior,Part-time,730000.0,50,"SQL, Tableau, Data Visualization, Excel",2026-08-13
+JM26-1147,Business Analyst,InnovateLabs,Noida,Mid,Full-time,700000.0,0,"Excel, Communication, SQL, Power BI",2026-06-22
+JM26-0637,AI Engineer,BrightData,Bengaluru,Mid,Full-time,1630000.0,100,"LLM, Machine Learning, Python, PyTorch, Deep Learning",2026-01-09
+JM26-0081,AI Engineer,CloudMatrix,Hyderabad,Mid,Full-time,1420000.0,0,"Python, LLM, Machine Learning",2026-06-13
+JM26-0586,AI Engineer,Apex Technologies,Noida,Entry,Contract,1000000.0,100,"Deep Learning, Python, LLM, Machine Learning",2026-02-13
+JM26-0797,Data Analyst,FinEdge,Hyderabad,Mid,Full-time,820000.0,100,"SQL, Python, Pandas, Power BI, Excel",2026-04-29
+JM26-0766,Data Analyst,InnovateLabs,Bengaluru,Senior,Full-time,1070000.0,0,"Pandas, Python, Excel, SQL, Power BI",2026-02-08
+JM26-0030,Business Analyst,NextGen Analytics,Bengaluru,Senior,Full-time,1050000.0,100,"Communication, SQL, Excel",2026-03-24
+JM26-0452,ML Researcher,NextGen Analytics,Hyderabad,Mid,Full-time,1150000.0,0,"Research, PyTorch, Deep Learning",2026-08-17
+JM26-0166,Machine Learning Engineer,NextGen Analytics,Mumbai,Mid,Contract,1460000.0,0,"Machine Learning, TensorFlow, Docker, Python",2026-06-23
+JM26-0249,Machine Learning Engineer,TechNova,Delhi NCR,Senior,Full-time,1520000.0,0,"PyTorch, Python, TensorFlow",2026-06-29
+JM26-0308,AI Engineer,FinEdge,Pune,Entry,Part-time,670000.0,50,"Python, Machine Learning, PyTorch, Deep Learning, LLM",2026-03-11
+JM26-0768,Data Analyst,BrightData,Noida,Entry,Full-time,450000.0,0,"SQL, Pandas, Excel, Python, Power BI",2026-07-01
+JM26-0463,Analytics Engineer,DigitalCore,Gurugram,Mid,Full-time,900000.0,0,"dbt, Data Modeling, Python",2026-07-08
+JM26-0347,Analytics Engineer,Vertex Systems,Hyderabad,Entry,Full-time,730000.0,100,"Python, dbt, ETL, SQL",2026-03-02
+JM26-0335,Data Analyst,FinEdge,Bengaluru,Entry,Full-time,400000.0,100,"Power BI, SQL, Pandas, Python",2026-05-27
+JM26-0286,Machine Learning Engineer,NextGen Analytics,Bengaluru,Senior,Full-time,2200000.0,50,"Machine Learning, PyTorch, Docker",2026-08-25
+JM26-1027,Analytics Engineer,NextGen Analytics,Chennai,Entry,Contract,730000.0,50,"Data Modeling, SQL, ETL, Python, dbt",2026-04-10
+JM26-0098,Data Analyst,Apex Technologies,Bengaluru,Entry,Full-time,580000.0,50,"SQL, Power BI, Pandas, Python",2026-07-11
+JM26-1074,Analytics Engineer,DigitalCore,Noida,Mid,Full-time,790000.0,0,"Python, SQL, Data Modeling, ETL",2026-04-30
+JM26-1085,Python Developer,TechNova,Bengaluru,Senior,Internship,440000.0,100,"Django, Git, Python, SQL",2026-02-13
+JM26-0918,Data Analyst,NextGen Analytics,Bengaluru,Entry,Full-time,670000.0,100,"Python, Pandas, Power BI, SQL, Excel",2026-01-22
+JM26-0606,BI Analyst,,Chennai,Senior,Full-time,1050000.0,100,"Tableau, SQL, Excel, Power BI, Data Visualization",2026-02-11
+JM26-1165,Data Analyst,,Delhi NCR,Lead,Full-time,1310000.0,50,"Excel, SQL, Python, Power BI",2026-05-30
+JM26-0618,Machine Learning Engineer,BrightData,Pune,Entry,Full-time,740000.0,100,"Machine Learning, PyTorch, Docker, TensorFlow",2026-05-16
+JM26-1189,Data Analyst,FinEdge,Chennai,Senior,Full-time,1020000.0,100,"Power BI, Excel, SQL",2026-06-04
+JM26-0762,Data Analyst,BrightData,Pune,Lead,Full-time,1040000.0,0,"Pandas, Excel, Python, SQL, Power BI",2026-08-09
+JM26-0693,Data Scientist,NextGen Analytics,Mumbai,Senior,Full-time,1080000.0,0,"Python, SQL, Machine Learning, Pandas",2026-03-20
+JM26-0066,Data Engineer,QuantifyAI,Gurugram,Senior,Full-time,1880000.0,0,"ETL, AWS, SQL, Python, Spark",2026-06-22
+JM26-1111,Data Analyst,TechNova,Ahmedabad,Lead,Contract,950000.0,100,,2026-05-19
+JM26-1181,Business Analyst,QuantifyAI,Noida,Senior,Full-time,830000.0,50,"SQL, Communication, Tableau, Power BI, Excel",2026-04-25
+JM26-0809,Data Engineer,Apex Technologies,Bengaluru,Entry,Contract,1020000.0,50,"SQL, Spark, Python",2026-06-11
+JM26-1086,Business Analyst,BrightData,Bengaluru,Senior,Full-time,990000.0,0,"Power BI, Tableau, SQL",2026-02-25
+JM26-1101,Data Analyst,DigitalCore,Kolkata,Mid,Internship,200000.0,100,"Pandas, Python, Excel, SQL",2026-07-03
+JM26-0303,Data Engineer,Vertex Systems,Pune,Mid,Full-time,1090000.0,0,"SQL, Spark, ETL, AWS",2026-02-16
+JM26-0255,Data Scientist,InsightWorks,Hyderabad,Mid,Full-time,1060000.0,100,"SQL, Pandas, Statistics, Machine Learning",2026-02-19
+JM26-0964,Data Analyst,DigitalCore,Pune,Mid,Contract,630000.0,100,"Pandas, SQL, Python, Power BI",2026-05-12
+JM26-0937,Analytics Engineer,CloudMatrix,Hyderabad,Mid,Full-time,1010000.0,50,"ETL, dbt, SQL",2026-02-06
+JM26-0313,Data Scientist,InnovateLabs,Delhi NCR,Entry,Contract,820000.0,100,"Machine Learning, Python, Statistics, SQL",2026-08-11
+JM26-0534,AI Engineer,Apex Technologies,Hyderabad,Senior,Full-time,2000000.0,0,"Deep Learning, PyTorch, Python, Machine Learning, LLM",2026-04-20
+JM26-0222,Data Engineer,InnovateLabs,Mumbai,Lead,Full-time,1840000.0,100,"ETL, AWS, Python, SQL, Spark",2026-04-08
+JM26-0478,AI Engineer,InnovateLabs,Pune,Mid,Full-time,1220000.0,100,"PyTorch, LLM, Python, Machine Learning, Deep Learning",2026-06-20
+JM26-0389,Data Analyst,InnovateLabs,Hyderabad,Lead,Internship,460000.0,100,"Power BI, SQL, Python",2026-08-03
+JM26-0236,BI Analyst,FinEdge,Ahmedabad,Mid,Full-time,760000.0,0,"Power BI, SQL, Tableau, Data Visualization",2026-06-29
+JM26-0814,AI Engineer,CloudMatrix,Pune,Mid,Full-time,1430000.0,100,"Python, PyTorch, Deep Learning, LLM",2026-01-27
+JM26-0718,Data Analyst,Vertex Systems,Chennai,Senior,Contract,880000.0,0,"Python, Excel, SQL, Pandas",2026-03-10
+JM26-0717,Data Engineer,QuantifyAI,Delhi NCR,Entry,Internship,320000.0,0,"ETL, Python, AWS, Spark",2026-06-05
+JM26-0306,Data Engineer,DataSphere,Mumbai,Mid,Full-time,1210000.0,50,"ETL, Python, SQL, Spark, AWS",2026-05-12
+JM26-1113,AI Engineer,QuantifyAI,Pune,Lead,Full-time,2260000.0,100,"Deep Learning, Machine Learning, Python, LLM, PyTorch",2026-06-27
+JM26-0559,AI Engineer,CloudMatrix,Kolkata,Entry,Full-time,790000.0,50,"Deep Learning, Machine Learning, Python, LLM",2026-04-12
+JM26-0838,Python Developer,CloudMatrix,Bengaluru,Mid,Full-time,730000.0,100,"Git, REST API, Django, SQL",2026-07-26
+JM26-0922,BI Analyst,TechNova,Bengaluru,Mid,Full-time,700000.0,0,"Data Visualization, SQL, Tableau",2026-08-01
+JM26-1141,Machine Learning Engineer,Vertex Systems,Bengaluru,Senior,Full-time,1600000.0,100,"Docker, Python, Machine Learning",2026-06-04
+JM26-0250,Machine Learning Engineer,InsightWorks,Bengaluru,Senior,Full-time,1650000.0,100,"Python, PyTorch, TensorFlow",2026-01-24
+JM26-1001,Data Analyst,NextGen Analytics,Bengaluru,Entry,Full-time,550000.0,50,"SQL, Power BI, Pandas",2026-06-13
+JM26-0599,Python Developer,DataSphere,Mumbai,Lead,Full-time,1640000.0,100,"SQL, Django, REST API, Python",2026-02-11
+JM26-0072,Machine Learning Engineer,InsightWorks,Pune,Senior,Full-time,1740000.0,50,"Python, Machine Learning, Docker, PyTorch",2026-07-17
+JM26-0095,Data Scientist,NextGen Analytics,Hyderabad,Senior,Full-time,1390000.0,50,"Statistics, Machine Learning, Python, SQL, Pandas",2026-05-27
+JM26-0550,Machine Learning Engineer,NextGen Analytics,Pune,Senior,Full-time,1820000.0,50,"Docker, PyTorch, Python, TensorFlow",2026-01-08
+JM26-0034,Machine Learning Engineer,BrightData,Delhi NCR,Mid,Full-time,1400000.0,100,"PyTorch, TensorFlow, Python, Machine Learning",2026-03-29
+JM26-0866,Analytics Engineer,QuantifyAI,Kolkata,Entry,Full-time,540000.0,50,"Data Modeling, ETL, Python, SQL, dbt",2026-07-26
+JM26-0773,AI Engineer,InsightWorks,Chennai,Senior,Full-time,1760000.0,100,"PyTorch, Deep Learning, LLM, Python, Machine Learning",2026-08-22
+JM26-0583,Data Analyst,Apex Technologies,Hyderabad,Entry,Full-time,490000.0,100,"Power BI, Excel, SQL",2026-08-13
+JM26-0449,Data Analyst,CloudMatrix,Kolkata,Senior,Full-time,680000.0,0,"Python, SQL, Power BI, Pandas, Excel",2026-03-26
+JM26-0446,Business Analyst,TechNova,Pune,Mid,Full-time,660000.0,50,"Excel, Power BI, SQL",2026-06-30
+JM26-0260,AI Engineer,BrightData,Pune,Entry,Full-time,1060000.0,0,"Machine Learning, PyTorch, LLM",2026-01-06
+JM26-0205,Data Analyst,InsightWorks,Bengaluru,Entry,Full-time,600000.0,0,"Python, Power BI, Excel, Pandas",2026-07-30
+JM26-0716,Data Scientist,CloudMatrix,Bengaluru,Mid,Full-time,1230000.0,100,"Machine Learning, SQL, Pandas",2026-04-26
+JM26-0845,Data Analyst,Apex Technologies,Ahmedabad,Entry,Full-time,390000.0,50,"Excel, Python, Pandas, Power BI",2026-01-13
+JM26-0590,Data Analyst,DataSphere,Bengaluru,Mid,Full-time,470000.0,100,"SQL, Excel, Pandas, Power BI, Python",2026-02-05
+JM26-0366,Machine Learning Engineer,Apex Technologies,Pune,Lead,Full-time,2350000.0,100,"Docker, PyTorch, Machine Learning, Python",2026-04-18
+JM26-0869,Data Analyst,InsightWorks,Hyderabad,Lead,Internship,300000.0,50,"Python, Pandas, Power BI, SQL",2026-05-01
+JM26-0078,AI Engineer,InnovateLabs,Bengaluru,Entry,Full-time,1220000.0,100,"PyTorch, Deep Learning, Python",2026-02-22
+JM26-0085,Data Analyst,QuantifyAI,Kolkata,Senior,Full-time,750000.0,100,"SQL, Pandas, Python",2026-05-02
+JM26-0543,BI Analyst,DigitalCore,Bengaluru,Senior,Full-time,1080000.0,100,"Power BI, Data Visualization, SQL",2026-05-23
+JM26-0083,BI Analyst,TechNova,Pune,Entry,Full-time,640000.0,50,"Tableau, Excel, SQL",2026-01-01
+JM26-0458,Machine Learning Engineer,QuantifyAI,Noida,Mid,Internship,430000.0,50,"Machine Learning, PyTorch, TensorFlow",2026-01-11
+JM26-0788,Data Scientist,NextGen Analytics,Chennai,Senior,Full-time,1610000.0,0,"Pandas, Python, Statistics",2026-04-23
+JM26-0437,Data Analyst,DataSphere,Pune,Mid,Full-time,750000.0,0,"Pandas, Power BI, Python, Excel",2026-04-30
+JM26-1117,Data Analyst,NextGen Analytics,Bengaluru,Mid,Full-time,760000.0,100,"SQL, Pandas, Power BI, Python",2026-03-26
+JM26-0405,Python Developer,DataSphere,Hyderabad,Entry,Full-time,670000.0,0,"Django, Git, REST API",2026-03-17
+JM26-1047,Data Scientist,InsightWorks,Hyderabad,Senior,Part-time,900000.0,100,"Statistics, Pandas, Machine Learning, SQL",2026-04-12
+JM26-0666,Business Analyst,InnovateLabs,Noida,Mid,Full-time,640000.0,100,"Tableau, SQL, Power BI",2026-04-26
+JM26-0653,AI Engineer,FinEdge,Mumbai,Mid,Full-time,1580000.0,100,"Machine Learning, PyTorch, Python",2026-01-29
+JM26-0105,Business Analyst,QuantifyAI,Gurugram,Entry,Full-time,560000.0,100,"Excel, Power BI, SQL",2026-03-16
+JM26-1075,ML Researcher,FinEdge,Noida,Mid,Full-time,1530000.0,0,"Statistics, Research, Python",2026-02-25
+JM26-0610,Machine Learning Engineer,DataSphere,Bengaluru,Senior,Full-time,1670000.0,100,"Docker, TensorFlow, PyTorch, Python, Machine Learning",2026-04-09
+JM26-0063,Data Engineer,TechNova,Hyderabad,Entry,Part-time,530000.0,0,"SQL, ETL, Python, Spark",2026-07-10
+JM26-0282,Data Scientist,DataSphere,Bengaluru,Senior,Part-time,1080000.0,50,"Statistics, SQL, Machine Learning, Python, Pandas",2026-01-12
+JM26-0667,BI Analyst,DataSphere,Kolkata,Mid,Full-time,710000.0,100,"Power BI, SQL, Excel, Data Visualization, Tableau",2026-01-20
+JM26-0239,Data Analyst,FinEdge,Kolkata,Senior,Contract,600000.0,100,"Pandas, Power BI, SQL",2026-04-16
+JM26-0224,Python Developer,InsightWorks,Pune,Lead,Full-time,1250000.0,100,"SQL, Django, Git, REST API, Python",2026-03-13
+JM26-0146,Data Scientist,FinEdge,Delhi NCR,Mid,Full-time,1220000.0,100,"Machine Learning, SQL, Statistics, Python",2026-04-19
+JM26-1121,AI Engineer,FinEdge,Bengaluru,Mid,Full-time,1560000.0,100,"Python, LLM, Deep Learning, PyTorch, Machine Learning",2026-07-01
+JM26-0374,Data Scientist,InnovateLabs,Gurugram,Entry,Full-time,740000.0,0,"Python, Pandas, Machine Learning, Statistics, SQL",2026-08-10
+JM26-0119,Machine Learning Engineer,InsightWorks,Chennai,Mid,Internship,370000.0,100,"Machine Learning, TensorFlow, PyTorch, Docker",2026-02-06
+JM26-0807,Business Analyst,DataSphere,Mumbai,Entry,Part-time,390000.0,0,"SQL, Tableau, Excel, Power BI, Communication",2026-08-02
+JM26-0251,AI Engineer,InsightWorks,Gurugram,Lead,Full-time,2590000.0,50,"Python, PyTorch, Deep Learning, Machine Learning, LLM",2026-01-31
+JM26-1159,Machine Learning Engineer,QuantifyAI,Ahmedabad,Mid,Full-time,1070000.0,100,"Docker, TensorFlow, PyTorch, Machine Learning, Python",2026-07-05
+JM26-0010,Machine Learning Engineer,Vertex Systems,Pune,Lead,Full-time,2200000.0,100,"Python, Docker, PyTorch, Machine Learning, TensorFlow",2026-07-31
+JM26-0450,AI Engineer,,Gurugram,Mid,Full-time,1250000.0,100,"LLM, Deep Learning, PyTorch, Machine Learning",2026-07-01
+JM26-1154,Data Analyst,QuantifyAI,Mumbai,Mid,Full-time,770000.0,0,"Power BI, Excel, Pandas, Python, SQL",2026-05-27
+JM26-0390,ML Researcher,Vertex Systems,Bengaluru,Mid,Internship,610000.0,100,"Research, Statistics, Python, PyTorch",2026-02-21
+JM26-0629,Data Engineer,BrightData,Kolkata,Mid,Full-time,1130000.0,100,"Python, AWS, Spark",2026-04-07
+JM26-0461,Data Engineer,InnovateLabs,Bengaluru,Mid,Internship,470000.0,50,"SQL, ETL, Python, AWS, Spark",2026-06-15
+JM26-1107,Data Analyst,DigitalCore,Mumbai,Mid,Full-time,770000.0,50,"Power BI, Python, Excel",2026-04-01
+JM26-0145,Data Engineer,InnovateLabs,Ahmedabad,Mid,Full-time,920000.0,50,"SQL, Python, ETL",2026-03-08
+JM26-0502,ML Researcher,Apex Technologies,Ahmedabad,Lead,Full-time,1920000.0,100,"Research, Deep Learning, PyTorch, Python, Statistics",2026-01-02
+JM26-1110,Data Scientist,Vertex Systems,Noida,Entry,Full-time,760000.0,0,"Pandas, SQL, Python",2026-03-01
+JM26-0540,BI Analyst,CloudMatrix,Gurugram,Entry,Contract,580000.0,0,"Excel, Power BI, SQL, Data Visualization",2026-07-30
+JM26-0178,Python Developer,BrightData,Noida,Senior,Full-time,1140000.0,50,"REST API, SQL, Git, Django, Python",2026-08-22
+JM26-1161,Data Analyst,Apex Technologies,Gurugram,Senior,Full-time,860000.0,0,"Excel, Pandas, Power BI, SQL, Python",2026-08-05
+JM26-1144,BI Analyst,Apex Technologies,Hyderabad,Entry,Full-time,550000.0,100,"SQL, Data Visualization, Tableau, Power BI",2026-06-15
+JM26-1064,AI Engineer,BrightData,Bengaluru,Mid,Full-time,1510000.0,100,"Deep Learning, Machine Learning, PyTorch, Python, LLM",2026-05-24
+JM26-1198,AI Engineer,InsightWorks,Bengaluru,Senior,Full-time,1930000.0,100,"Machine Learning, Python, Deep Learning",2026-01-14
+JM26-0008,BI Analyst,Apex Technologies,Mumbai,Mid,Full-time,970000.0,50,"Excel, Power BI, SQL, Data Visualization",2026-07-29
+JM26-0775,Data Analyst,InnovateLabs,Bengaluru,Senior,Full-time,1010000.0,0,"SQL, Power BI, Pandas, Python",2026-06-13
+JM26-0847,Machine Learning Engineer,QuantifyAI,Pune,Mid,Full-time,1230000.0,100,"TensorFlow, Machine Learning, Docker, PyTorch, Python",2026-08-03
+JM26-0358,BI Analyst,Apex Technologies,Mumbai,Senior,Internship,370000.0,50,"SQL, Data Visualization, Power BI, Tableau, Excel",2026-03-01
+JM26-0330,Data Scientist,BrightData,Hyderabad,Senior,Part-time,900000.0,100,"Machine Learning, Python, Statistics",2026-08-06
+JM26-0709,Machine Learning Engineer,DigitalCore,Gurugram,Entry,Internship,330000.0,100,"PyTorch, TensorFlow, Machine Learning, Docker, Python",2026-01-03
+JM26-0834,AI Engineer,DigitalCore,Pune,Entry,Full-time,1160000.0,0,"Python, PyTorch, LLM, Deep Learning, Machine Learning",2026-06-04
+JM26-0259,Data Analyst,FinEdge,Kolkata,Entry,Full-time,430000.0,50,"Python, Pandas, Power BI",2026-02-12
+JM26-0941,Data Scientist,Vertex Systems,Noida,Mid,Full-time,990000.0,100,"Pandas, Machine Learning, Statistics, SQL",2026-07-28
+JM26-1106,Business Analyst,InsightWorks,Hyderabad,Mid,Full-time,800000.0,100,"SQL, Excel, Power BI, Communication",2026-04-29
+JM26-0702,Data Scientist,InnovateLabs,Bengaluru,Entry,Full-time,950000.0,50,"Statistics, Python, Machine Learning",2026-01-02
+JM26-0833,Machine Learning Engineer,TechNova,Hyderabad,Mid,Contract,1300000.0,50,"Python, Docker, PyTorch",2026-05-06
+JM26-0526,Machine Learning Engineer,TechNova,Bengaluru,Mid,Full-time,1530000.0,0,"Python, Docker, Machine Learning, PyTorch",2026-02-18
+JM26-0848,Business Analyst,CloudMatrix,Mumbai,Senior,Full-time,1000000.0,0,"Power BI, Communication, Tableau, SQL",2026-07-01
+JM26-0680,Machine Learning Engineer,CloudMatrix,Mumbai,Entry,Full-time,900000.0,100,"Machine Learning, Docker, TensorFlow",2026-01-15
+JM26-0756,Data Scientist,InnovateLabs,Ahmedabad,Mid,Full-time,920000.0,100,"Pandas, Python, Statistics",2026-06-19
+JM26-1143,BI Analyst,NextGen Analytics,Chennai,Senior,Full-time,980000.0,0,"Power BI, Excel, SQL, Data Visualization, Tableau",2026-04-04
+JM26-0441,ML Researcher,DataSphere,Chennai,Senior,Full-time,1720000.0,0,"PyTorch, Research, Python, Statistics",2026-01-22
+JM26-0532,Business Analyst,BrightData,Bengaluru,Entry,Full-time,650000.0,100,"Excel, Power BI, SQL, Tableau, Communication",2026-02-02
+JM26-0965,Python Developer,DataSphere,Noida,Mid,Full-time,700000.0,100,"REST API, Python, SQL, Git",2026-06-09
+JM26-0229,AI Engineer,BrightData,Gurugram,Mid,Internship,620000.0,100,"Machine Learning, Python, Deep Learning, PyTorch, LLM",2026-02-03
+JM26-1043,AI Engineer,InnovateLabs,Pune,Entry,Full-time,880000.0,50,"Python, Deep Learning, PyTorch, Machine Learning",2026-05-27
+JM26-0213,Data Scientist,BrightData,Noida,Mid,Full-time,980000.0,0,"Statistics, SQL, Python, Pandas, Machine Learning",2026-03-27
+JM26-0080,BI Analyst,DigitalCore,Delhi NCR,Lead,Full-time,1280000.0,0,"Power BI, Tableau, SQL, Excel",2026-05-09
+JM26-0149,Machine Learning Engineer,DigitalCore,Pune,Mid,Full-time,1430000.0,100,"Docker, Machine Learning, TensorFlow, Python",2026-05-27
+JM26-0671,Data Analyst,InsightWorks,Hyderabad,Entry,Internship,200000.0,50,"Power BI, Excel, SQL",2026-08-24
+JM26-0712,AI Engineer,QuantifyAI,Bengaluru,Entry,Contract,1040000.0,100,"Python, PyTorch, Deep Learning, Machine Learning",2026-02-03
+JM26-0594,AI Engineer,Apex Technologies,Chennai,Mid,Contract,1320000.0,100,"LLM, Deep Learning, Machine Learning",2026-06-01
+JM26-0134,Machine Learning Engineer,InnovateLabs,Ahmedabad,Entry,Full-time,710000.0,50,"Docker, TensorFlow, Machine Learning",2026-07-13
+JM26-0786,Machine Learning Engineer,Apex Technologies,Kolkata,Entry,Part-time,500000.0,100,"Machine Learning, Docker, Python",2026-04-30
+JM26-0409,Data Analyst,TechNova,Pune,Entry,Full-time,470000.0,0,"Power BI, SQL, Excel, Pandas",2026-04-30
+JM26-0677,Analytics Engineer,InnovateLabs,Hyderabad,Mid,Full-time,950000.0,0,"dbt, Python, ETL",2026-05-03
+JM26-0508,BI Analyst,QuantifyAI,Pune,Entry,Full-time,570000.0,0,"Excel, Tableau, Power BI, SQL",2026-02-03
+JM26-1139,Data Analyst,DigitalCore,Mumbai,Entry,Full-time,500000.0,50,"Power BI, Excel, Python, SQL, Pandas",2026-07-07
+JM26-0505,Data Engineer,DataSphere,Pune,Mid,Part-time,670000.0,0,"Spark, AWS, ETL",2026-07-30
+JM26-0679,Data Analyst,InsightWorks,Mumbai,Mid,Full-time,960000.0,50,"Python, SQL, Power BI, Excel",2026-07-19
+JM26-0348,Data Scientist,InnovateLabs,Chennai,Entry,Full-time,720000.0,50,"Python, Machine Learning, Pandas, SQL, Statistics",2026-05-05
+JM26-0387,Business Analyst,QuantifyAI,Hyderabad,Senior,Full-time,860000.0,0,"Tableau, Power BI, Communication, SQL, Excel",2026-05-26
+JM26-0001,Business Analyst,DataSphere,Mumbai,Mid,Full-time,690000.0,50,"Tableau, Excel, Power BI",2026-05-18
+JM26-0361,Analytics Engineer,DataSphere,Ahmedabad,Mid,Full-time,940000.0,100,"Data Modeling, dbt, ETL, Python",2026-07-31
+JM26-1136,Data Scientist,CloudMatrix,Chennai,Senior,Full-time,1330000.0,50,"Statistics, Python, Machine Learning",2026-06-02
+JM26-0476,Data Scientist,Vertex Systems,Kolkata,Entry,Full-time,570000.0,100,"Python, Pandas, Statistics, SQL",2026-08-06
+JM26-0782,Analytics Engineer,QuantifyAI,Pune,Entry,Full-time,690000.0,50,"Data Modeling, SQL, dbt, Python",2026-01-15
+JM26-0758,Analytics Engineer,TechNova,Bengaluru,Entry,Full-time,730000.0,0,"ETL, dbt, Python, Data Modeling, SQL",2026-04-18
+JM26-0173,Data Scientist,DataSphere,Pune,Senior,Full-time,1340000.0,0,"Pandas, Machine Learning, Python, SQL",2026-08-22
+JM26-0451,Data Analyst,DigitalCore,Hyderabad,Mid,Internship,200000.0,50,"Excel, Python, SQL, Power BI",2026-08-04
+JM26-0126,Data Engineer,DataSphere,Noida,Entry,Contract,680000.0,0,"SQL, ETL, AWS, Python, Spark",2026-06-13
+JM26-0644,Data Scientist,NextGen Analytics,Kolkata,Mid,Full-time,850000.0,100,"Python, Statistics, SQL, Pandas",2026-06-02
+JM26-0531,Business Analyst,Vertex Systems,Kolkata,Mid,Full-time,610000.0,100,"Power BI, Tableau, Excel",2026-01-28
+JM26-0091,Data Analyst,InnovateLabs,Pune,Lead,Full-time,1180000.0,0,"SQL, Pandas, Power BI, Python",2026-01-10
+JM26-1164,Data Analyst,BrightData,Noida,Entry,Full-time,510000.0,0,"Excel, Pandas, SQL, Python, Power BI",2026-01-11
+JM26-0182,Analytics Engineer,DigitalCore,Bengaluru,Senior,Contract,1610000.0,0,"SQL, ETL, Python",2026-08-14
+JM26-0950,Data Scientist,QuantifyAI,Bengaluru,Mid,Full-time,1190000.0,100,"Pandas, Machine Learning, Python, Statistics",2026-01-04
+JM26-1006,Machine Learning Engineer,DataSphere,Delhi NCR,Senior,Full-time,1590000.0,100,,2026-03-04
+JM26-0252,ML Researcher,DigitalCore,Delhi NCR,Mid,Full-time,1490000.0,50,"PyTorch, Python, Statistics",2026-02-16
+JM26-0070,Machine Learning Engineer,InsightWorks,Mumbai,Mid,Full-time,1380000.0,100,"Docker, PyTorch, Python, TensorFlow",2026-06-26
+JM26-0132,Analytics Engineer,Apex Technologies,Mumbai,Mid,Part-time,670000.0,50,"SQL, ETL, dbt, Data Modeling",2026-08-01
+JM26-0301,Business Analyst,QuantifyAI,Delhi NCR,Senior,Full-time,980000.0,50,"Communication, Power BI, Tableau, Excel",2026-04-17
+JM26-0674,Business Analyst,FinEdge,Ahmedabad,Senior,Contract,910000.0,0,"Excel, Communication, Power BI, Tableau",2026-03-19
+JM26-0327,BI Analyst,DigitalCore,Hyderabad,Senior,Full-time,940000.0,50,"Excel, Data Visualization, SQL, Tableau",2026-07-10
+JM26-1177,Data Engineer,BrightData,Noida,Senior,Full-time,1440000.0,100,"SQL, ETL, Python, AWS, Spark",2026-03-11
+JM26-0500,Data Engineer,Apex Technologies,Chennai,Mid,Part-time,640000.0,0,"Python, AWS, Spark, SQL",2026-02-20
+JM26-1067,Machine Learning Engineer,DigitalCore,Chennai,Mid,Contract,1340000.0,100,"Machine Learning, Python, Docker, PyTorch, TensorFlow",2026-08-01
+JM26-0924,Data Engineer,CloudMatrix,Bengaluru,Senior,Contract,1810000.0,100,"Spark, SQL, ETL, AWS",2026-02-08
+JM26-0496,Data Engineer,DigitalCore,Mumbai,Entry,Full-time,870000.0,50,"ETL, Spark, SQL",2026-04-28
+JM26-0339,Data Analyst,BrightData,Gurugram,Senior,Full-time,840000.0,0,"Pandas, Excel, SQL, Python, Power BI",2026-03-25
+JM26-0969,Data Engineer,InnovateLabs,Hyderabad,Entry,Full-time,760000.0,0,"AWS, Spark, ETL, SQL",2026-07-19
+JM26-0165,Data Engineer,InnovateLabs,Pune,Mid,Full-time,1030000.0,0,"SQL, ETL, Python",2026-08-22
+JM26-0029,Data Analyst,DigitalCore,Kolkata,Mid,Full-time,540000.0,100,"Power BI, SQL, Excel",2026-07-02
+JM26-0517,Data Scientist,InsightWorks,Hyderabad,Entry,Full-time,830000.0,0,"Pandas, Python, Statistics, SQL",2026-04-29
+JM26-0194,BI Analyst,DigitalCore,Bengaluru,Entry,Full-time,620000.0,0,"Power BI, Data Visualization, Excel",2026-01-19
+JM26-0784,AI Engineer,InnovateLabs,Hyderabad,Entry,Full-time,980000.0,100,"Deep Learning, PyTorch, Python, Machine Learning, LLM",2026-05-24
+JM26-0170,Python Developer,DataSphere,Hyderabad,Lead,Full-time,1400000.0,100,"Git, SQL, Django",2026-05-29
+JM26-0714,Analytics Engineer,TechNova,Mumbai,Mid,Contract,1050000.0,0,"dbt, ETL, Python, Data Modeling",2026-03-07
+JM26-0174,Analytics Engineer,CloudMatrix,Gurugram,Senior,Contract,1420000.0,100,"Data Modeling, Python, ETL, SQL, dbt",2026-05-17
+JM26-0519,Data Analyst,InnovateLabs,Delhi NCR,Entry,Full-time,510000.0,50,"Excel, SQL, Pandas, Python, Power BI",2026-02-26
+JM26-0925,Data Analyst,QuantifyAI,Pune,Mid,Full-time,630000.0,100,"Excel, Power BI, SQL, Pandas",2026-06-05
+JM26-0954,Data Analyst,InnovateLabs,Gurugram,Mid,Full-time,810000.0,100,"Excel, Pandas, SQL",2026-05-31
+JM26-0492,AI Engineer,Vertex Systems,Kolkata,Lead,Full-time,2210000.0,50,"Deep Learning, LLM, PyTorch",2026-02-13
+JM26-0074,Data Scientist,Vertex Systems,Delhi NCR,Mid,Full-time,,50,"SQL, Python, Statistics, Pandas",2026-07-24
+JM26-0987,Machine Learning Engineer,DataSphere,Gurugram,Mid,Full-time,1160000.0,100,"Docker, TensorFlow, Machine Learning, Python, PyTorch",2026-02-12
+JM26-0588,Data Scientist,FinEdge,Chennai,Mid,Full-time,970000.0,0,"Statistics, SQL, Python, Machine Learning, Pandas",2026-08-23
+JM26-0235,Analytics Engineer,FinEdge,Bengaluru,Mid,Full-time,890000.0,50,"ETL, Python, Data Modeling",2026-04-14
+JM26-0215,Business Analyst,QuantifyAI,Bengaluru,Entry,Full-time,390000.0,0,"Power BI, Communication, SQL, Tableau, Excel",2026-06-21
+JM26-1054,Data Analyst,DigitalCore,Delhi NCR,Entry,Full-time,540000.0,0,"Excel, SQL, Pandas",2026-03-13
+JM26-0133,AI Engineer,CloudMatrix,Mumbai,Senior,Full-time,2310000.0,100,"PyTorch, LLM, Deep Learning, Machine Learning",2026-04-01
+JM26-0781,Data Scientist,TechNova,Noida,Lead,Full-time,1700000.0,50,,2026-06-18
+JM26-0737,Data Scientist,Apex Technologies,Pune,Senior,Full-time,1460000.0,0,"Pandas, Statistics, Python",2026-07-22
+JM26-1008,Data Scientist,FinEdge,Pune,Entry,Full-time,830000.0,100,"Statistics, Pandas, Machine Learning, Python",2026-02-04
+JM26-0186,AI Engineer,TechNova,Bengaluru,Mid,Part-time,1130000.0,50,"PyTorch, LLM, Python, Machine Learning, Deep Learning",2026-08-24
+JM26-0042,BI Analyst,NextGen Analytics,Hyderabad,Entry,Full-time,680000.0,50,"Tableau, Power BI, Excel, SQL",2026-06-20
+JM26-0109,Data Analyst,CloudMatrix,Bengaluru,Mid,Full-time,710000.0,50,"Pandas, Power BI, SQL",2026-08-20
+JM26-0853,ML Researcher,Vertex Systems,Pune,Entry,Full-time,800000.0,100,"Deep Learning, Python, PyTorch, Research",2026-03-15
+JM26-0569,Machine Learning Engineer,InnovateLabs,Bengaluru,Mid,Full-time,1130000.0,100,"Python, PyTorch, Docker, Machine Learning, TensorFlow",2026-04-01
+JM26-0655,ML Researcher,FinEdge,Noida,Mid,Contract,1180000.0,100,"Statistics, Python, Deep Learning, PyTorch, Research",2026-08-21
+JM26-1007,Analytics Engineer,InsightWorks,Chennai,Mid,Contract,1060000.0,100,"ETL, dbt, SQL",2026-04-27
+JM26-1157,Data Analyst,NextGen Analytics,Mumbai,Mid,Full-time,650000.0,50,"Power BI, Pandas, Excel, SQL",2026-06-11
+JM26-0484,Data Scientist,Apex Technologies,Hyderabad,Mid,Full-time,1180000.0,0,"Machine Learning, Python, SQL",2026-01-05
+JM26-0469,Data Analyst,TechNova,Bengaluru,Lead,Part-time,710000.0,100,"SQL, Power BI, Python, Excel, Pandas",2026-02-09
+JM26-0025,Business Analyst,NextGen Analytics,Bengaluru,Senior,Full-time,1130000.0,50,"SQL, Power BI, Tableau",2026-04-18
+JM26-0827,AI Engineer,InnovateLabs,Gurugram,Senior,Full-time,2140000.0,100,"Machine Learning, Deep Learning, PyTorch, LLM",2026-05-14
+JM26-1058,Data Scientist,BrightData,Gurugram,Senior,Full-time,1270000.0,50,"Statistics, Machine Learning, Python, Pandas, SQL",2026-03-14
+JM26-0757,Data Scientist,DigitalCore,Mumbai,Entry,Internship,270000.0,0,"Machine Learning, Statistics, SQL, Python",2026-07-08
+JM26-1000,Data Scientist,FinEdge,Delhi NCR,Mid,Full-time,990000.0,50,"SQL, Machine Learning, Pandas",2026-03-25
+JM26-0367,Business Analyst,Vertex Systems,Bengaluru,Mid,Full-time,840000.0,0,"Tableau, Power BI, Communication, SQL",2026-01-13
+JM26-0844,Machine Learning Engineer,Apex Technologies,Kolkata,Mid,Part-time,780000.0,50,"Python, PyTorch, Machine Learning, Docker",2026-02-21
+JM26-1055,Data Scientist,BrightData,Ahmedabad,Lead,Full-time,1440000.0,0,"Statistics, Machine Learning, Python, SQL, Pandas",2026-08-24
+JM26-0384,Data Engineer,InsightWorks,Hyderabad,Mid,Full-time,1290000.0,50,"ETL, Python, SQL, AWS, Spark",2026-06-07
+JM26-0455,Data Analyst,CloudMatrix,Kolkata,Senior,Contract,770000.0,100,"Excel, Pandas, SQL, Power BI",2026-05-01
+JM26-0265,Analytics Engineer,FinEdge,Delhi NCR,Mid,Internship,360000.0,100,"Python, Data Modeling, ETL",2026-03-02
+JM26-0765,Analytics Engineer,CloudMatrix,Chennai,Mid,Full-time,1140000.0,100,"Data Modeling, dbt, Python, ETL, SQL",2026-04-28
+JM26-0986,Analytics Engineer,NextGen Analytics,Bengaluru,Senior,Full-time,1600000.0,100,"Python, SQL, Data Modeling, dbt, ETL",2026-08-25
+JM26-0445,Data Scientist,InsightWorks,Bengaluru,Entry,Full-time,710000.0,50,"Python, SQL, Machine Learning, Pandas",2026-08-07
+JM26-0396,Machine Learning Engineer,DigitalCore,Chennai,Mid,Full-time,1230000.0,100,"Machine Learning, Docker, Python, TensorFlow, PyTorch",2026-05-21
+JM26-0746,Data Engineer,TechNova,Kolkata,Mid,Internship,370000.0,0,"AWS, Spark, Python, SQL, ETL",2026-02-08
+JM26-0177,Machine Learning Engineer,FinEdge,Delhi NCR,Senior,Full-time,1960000.0,100,"Python, TensorFlow, Machine Learning",2026-06-25
+JM26-0019,BI Analyst,QuantifyAI,Delhi NCR,Entry,Full-time,600000.0,50,"Tableau, Data Visualization, Power BI, Excel",2026-07-23
+JM26-1061,Python Developer,Vertex Systems,Chennai,Mid,Full-time,730000.0,100,"Python, SQL, Django",2026-02-10
+JM26-0819,AI Engineer,FinEdge,Delhi NCR,Mid,Full-time,1400000.0,100,"Machine Learning, Python, LLM",2026-02-22
+JM26-0596,Data Scientist,InsightWorks,Hyderabad,Mid,Full-time,1070000.0,50,"Python, Machine Learning, Statistics, Pandas",2026-01-08
+JM26-0062,Data Engineer,BrightData,Pune,Senior,Part-time,1230000.0,100,"Python, Spark, AWS, SQL",2026-08-01
+JM26-0273,Data Analyst,Apex Technologies,Bengaluru,Mid,Full-time,740000.0,50,"Python, Excel, Pandas",2026-05-03
+JM26-1128,Business Analyst,BrightData,Bengaluru,Entry,Full-time,480000.0,100,"Power BI, Communication, Tableau, SQL, Excel",2026-01-01
+JM26-0279,ML Researcher,BrightData,Mumbai,Senior,Full-time,1930000.0,50,"PyTorch, Research, Python",2026-02-23
+JM26-0846,ML Researcher,InsightWorks,Bengaluru,Mid,Full-time,1530000.0,50,"Statistics, Deep Learning, PyTorch, Research, Python",2026-04-09
+JM26-0369,Data Scientist,InnovateLabs,Pune,Senior,Full-time,1400000.0,0,"Pandas, Machine Learning, Python, SQL, Statistics",2026-08-25
+JM26-0891,Data Scientist,CloudMatrix,Pune,Mid,Full-time,820000.0,50,"SQL, Machine Learning, Pandas, Python",2026-06-07
+JM26-0824,AI Engineer,InnovateLabs,Hyderabad,Senior,Full-time,2180000.0,100,"Machine Learning, PyTorch, LLM",2026-03-07
+JM26-1023,Python Developer,Vertex Systems,Pune,Mid,Full-time,810000.0,100,"Git, SQL, REST API",2026-07-28
+JM26-0725,Data Analyst,CloudMatrix,Hyderabad,Entry,Full-time,480000.0,0,"Excel, Python, Power BI, Pandas, SQL",2026-03-01
+JM26-0778,Data Analyst,DigitalCore,Kolkata,Mid,Full-time,590000.0,50,"Pandas, Power BI, Excel, SQL, Python",2026-03-22
+JM26-0548,Data Analyst,TechNova,Mumbai,Senior,Full-time,970000.0,100,"Pandas, Excel, Power BI",2026-01-17
+JM26-1037,Machine Learning Engineer,FinEdge,Bengaluru,Mid,Full-time,1330000.0,100,"Docker, Python, Machine Learning, TensorFlow, PyTorch",2026-07-27
+JM26-0905,Python Developer,Apex Technologies,Delhi NCR,Senior,Full-time,1240000.0,100,"Django, Git, REST API, Python, SQL",2026-05-29
+JM26-0457,Python Developer,Apex Technologies,Hyderabad,Senior,Full-time,1180000.0,100,"Python, Git, SQL, Django, REST API",2026-01-28
+JM26-0394,Business Analyst,DataSphere,Pune,Lead,Full-time,1290000.0,50,"SQL, Tableau, Power BI",2026-08-19
+JM26-0676,Machine Learning Engineer,InnovateLabs,Gurugram,Senior,Full-time,2080000.0,0,"TensorFlow, Docker, PyTorch, Machine Learning",2026-02-11
+JM26-0917,Data Analyst,DigitalCore,Hyderabad,Senior,Full-time,1030000.0,100,"Python, SQL, Excel, Power BI, Pandas",2026-06-14
+JM26-0970,Data Scientist,QuantifyAI,Mumbai,Mid,Full-time,1130000.0,100,"Pandas, SQL, Python",2026-06-30
+JM26-0376,Data Analyst,QuantifyAI,Hyderabad,Mid,Full-time,750000.0,0,"Pandas, Power BI, Excel, SQL, Python",2026-08-22
+JM26-0413,Data Analyst,InnovateLabs,Gurugram,Senior,Part-time,610000.0,100,"Power BI, Pandas, Python",2026-06-21
+JM26-0075,Data Analyst,CloudMatrix,Bengaluru,Mid,Contract,670000.0,50,"Power BI, Excel, Python",2026-02-21
+JM26-1194,Python Developer,BrightData,Bengaluru,Entry,Internship,230000.0,100,"Python, Django, REST API, SQL",2026-05-23
+JM26-0867,ML Researcher,BrightData,Mumbai,Entry,Full-time,1140000.0,50,"PyTorch, Deep Learning, Research, Statistics",2026-01-25
+JM26-0501,Business Analyst,TechNova,Kolkata,Mid,Full-time,650000.0,50,"Excel, Tableau, Power BI, Communication",2026-03-18
+JM26-1100,Data Analyst,InsightWorks,Chennai,Senior,Full-time,830000.0,0,"Power BI, Excel, Python, Pandas, SQL",2026-01-09
+JM26-0617,Business Analyst,BrightData,Gurugram,Lead,Full-time,1040000.0,0,"Tableau, Power BI, Excel, Communication",2026-04-02
+JM26-0115,Data Analyst,CloudMatrix,Bengaluru,Entry,Contract,520000.0,0,"SQL, Python, Power BI",2026-01-03
+JM26-0418,Business Analyst,InnovateLabs,Mumbai,Mid,Full-time,680000.0,0,"SQL, Excel, Tableau, Communication, Power BI",2026-06-13
+JM26-0602,Business Analyst,QuantifyAI,Delhi NCR,Mid,Contract,640000.0,0,"Power BI, SQL, Tableau",2026-01-21
+JM26-0605,Python Developer,Vertex Systems,Delhi NCR,Entry,Full-time,740000.0,100,"Git, SQL, Django, Python, REST API",2026-07-26
+JM26-0090,Data Engineer,CloudMatrix,Mumbai,Mid,Full-time,1320000.0,100,"ETL, SQL, Python",2026-02-12
+JM26-1151,Data Analyst,NextGen Analytics,Bengaluru,Senior,Full-time,990000.0,0,"Pandas, Excel, SQL, Power BI, Python",2026-02-19
+JM26-0499,Machine Learning Engineer,InsightWorks,Ahmedabad,Mid,Full-time,1190000.0,50,"PyTorch, Machine Learning, Python",2026-07-27
+JM26-0880,AI Engineer,DigitalCore,Bengaluru,Entry,Internship,440000.0,50,"Deep Learning, Machine Learning, Python, PyTorch, LLM",2026-08-07
+JM26-0887,Machine Learning Engineer,FinEdge,Hyderabad,Mid,Full-time,1510000.0,0,"Docker, TensorFlow, Python, PyTorch",2026-04-16
+JM26-0885,Data Scientist,FinEdge,Delhi NCR,Entry,Contract,840000.0,50,"Python, SQL, Machine Learning",2026-06-24
+JM26-0012,Analytics Engineer,Vertex Systems,Gurugram,Lead,Full-time,2150000.0,50,"Data Modeling, ETL, Python, SQL",2026-01-21
+JM26-0397,BI Analyst,FinEdge,Bengaluru,Mid,Full-time,920000.0,50,"Excel, Power BI, Data Visualization, SQL, Tableau",2026-02-16
+JM26-0850,Python Developer,CloudMatrix,Hyderabad,Mid,Full-time,880000.0,0,"Python, SQL, Django, REST API",2026-07-21
+JM26-0556,Data Scientist,CloudMatrix,Mumbai,Mid,Full-time,1040000.0,100,"Machine Learning, Statistics, SQL, Pandas",2026-07-07
+JM26-0043,Business Analyst,DigitalCore,Pune,Entry,Contract,480000.0,0,"SQL, Power BI, Communication",2026-07-31
+JM26-0168,BI Analyst,Apex Technologies,Bengaluru,Entry,Full-time,630000.0,0,"SQL, Data Visualization, Power BI, Excel",2026-05-12
+JM26-0417,Data Analyst,InnovateLabs,Bengaluru,Mid,Full-time,690000.0,0,"Pandas, Power BI, Python, Excel",2026-01-17
+JM26-0577,Analytics Engineer,InsightWorks,Chennai,Mid,Full-time,860000.0,0,"Data Modeling, SQL, ETL, dbt, Python",2026-04-03
+JM26-0268,Data Analyst,TechNova,Hyderabad,Entry,Full-time,530000.0,0,"Python, Power BI, Excel, SQL",2026-08-13
+JM26-0812,Data Analyst,DigitalCore,Hyderabad,Senior,Full-time,940000.0,100,"Pandas, SQL, Python, Excel, Power BI",2026-08-12
+JM26-0427,Data Scientist,BrightData,Pune,Mid,Full-time,1180000.0,0,"Machine Learning, Statistics, Python, SQL",2026-06-16
+JM26-0691,Data Scientist,TechNova,Hyderabad,Senior,Full-time,1600000.0,0,"Statistics, SQL, Machine Learning, Python, Pandas",2026-07-30
+JM26-0545,Data Analyst,FinEdge,Chennai,Mid,Full-time,670000.0,0,"Pandas, Python, Power BI",2026-05-25
+JM26-1125,Machine Learning Engineer,Vertex Systems,Hyderabad,Mid,Full-time,1280000.0,100,"Machine Learning, PyTorch, Python, TensorFlow, Docker",2026-01-18
+JM26-0675,AI Engineer,DataSphere,Kolkata,Senior,Full-time,1700000.0,100,"Deep Learning, Python, PyTorch, LLM, Machine Learning",2026-05-26
+JM26-0690,Data Engineer,FinEdge,Pune,Senior,Full-time,1660000.0,100,"Python, SQL, Spark, ETL",2026-01-11
+JM26-1104,BI Analyst,Apex Technologies,Mumbai,Mid,Full-time,790000.0,100,"Tableau, Excel, SQL, Power BI",2026-03-16
+JM26-1179,Data Scientist,NextGen Analytics,Bengaluru,Senior,Full-time,1850000.0,0,"Statistics, Machine Learning, Pandas, SQL, Python",2026-03-12
+JM26-1011,AI Engineer,InsightWorks,Ahmedabad,Mid,Contract,1250000.0,100,"PyTorch, Machine Learning, LLM, Deep Learning",2026-05-03
+JM26-0888,Data Analyst,BrightData,Hyderabad,Mid,Full-time,750000.0,0,"Python, Pandas, Power BI, Excel, SQL",2026-03-22
+JM26-0258,Data Analyst,NextGen Analytics,Pune,Mid,Full-time,690000.0,50,"SQL, Python, Power BI",2026-04-05
+JM26-0336,AI Engineer,InsightWorks,Mumbai,Mid,Full-time,1510000.0,100,"PyTorch, LLM, Machine Learning, Deep Learning",2026-08-07
+JM26-0016,Data Scientist,Vertex Systems,Mumbai,Entry,Full-time,880000.0,0,"Machine Learning, Pandas, Python, Statistics",2026-05-24
+JM26-0907,Data Engineer,BrightData,Chennai,Entry,Full-time,710000.0,100,"ETL, AWS, Spark, Python",2026-02-17
+JM26-0325,BI Analyst,QuantifyAI,Chennai,Entry,Full-time,550000.0,50,"Data Visualization, Excel, Tableau",2026-02-04
+JM26-0608,Data Analyst,QuantifyAI,Pune,Entry,Full-time,400000.0,0,"Excel, Python, Pandas, Power BI",2026-06-22
+JM26-1056,AI Engineer,DataSphere,Mumbai,Senior,Contract,2120000.0,100,"LLM, PyTorch, Deep Learning, Machine Learning",2026-02-20
+JM26-1088,Business Analyst,BrightData,Gurugram,Senior,Full-time,980000.0,0,"Communication, SQL, Power BI",2026-02-13
+JM26-0223,AI Engineer,InnovateLabs,Pune,Entry,Full-time,960000.0,100,"Machine Learning, Python, LLM",2026-02-28
+JM26-0180,Business Analyst,InnovateLabs,Pune,Senior,Internship,,100,"Communication, Tableau, Excel, SQL, Power BI",2026-08-15
+JM26-0100,Python Developer,Vertex Systems,Pune,Mid,Full-time,810000.0,100,"Git, Django, SQL",2026-04-13
+JM26-0522,Machine Learning Engineer,CloudMatrix,Hyderabad,Entry,Contract,960000.0,100,"Docker, TensorFlow, Python",2026-03-03
+JM26-0023,Python Developer,CloudMatrix,Noida,Senior,Full-time,1040000.0,100,"Django, REST API, SQL, Git, Python",2026-05-07
+JM26-0357,Business Analyst,DigitalCore,Kolkata,Senior,Internship,280000.0,0,"Communication, Power BI, SQL, Excel",2026-08-15
+JM26-0734,Machine Learning Engineer,InsightWorks,Gurugram,Entry,Full-time,790000.0,50,"Docker, Machine Learning, TensorFlow, PyTorch, Python",2026-05-31
+JM26-0966,Data Engineer,CloudMatrix,Hyderabad,Mid,Full-time,1220000.0,50,"Spark, ETL, SQL, Python",2026-07-10
+JM26-1114,Analytics Engineer,DigitalCore,Bengaluru,Lead,Part-time,1240000.0,0,"dbt, Python, ETL, Data Modeling",2026-05-03
+JM26-0612,AI Engineer,FinEdge,Pune,Senior,Full-time,1580000.0,100,"PyTorch, Machine Learning, LLM, Deep Learning, Python",2026-01-03
+JM26-1016,Data Analyst,InsightWorks,Bengaluru,Entry,Full-time,400000.0,100,"Pandas, SQL, Power BI, Excel",2026-07-23
+JM26-0341,Data Analyst,Apex Technologies,Gurugram,Entry,Full-time,520000.0,50,"Python, Power BI, SQL",2026-01-18
+JM26-0432,Business Analyst,TechNova,Noida,Mid,Full-time,610000.0,100,"SQL, Communication, Tableau",2026-05-25
+JM26-0868,BI Analyst,DataSphere,Ahmedabad,Senior,Full-time,890000.0,100,"Excel, Power BI, Data Visualization, Tableau",2026-02-13
+JM26-0218,Data Analyst,CloudMatrix,Mumbai,Senior,Full-time,860000.0,50,"Power BI, Pandas, Python, Excel",2026-06-02
+JM26-0204,Data Analyst,DigitalCore,Hyderabad,Senior,Full-time,890000.0,0,"Excel, Power BI, Pandas, Python",2026-07-18
+JM26-0911,Business Analyst,CloudMatrix,Mumbai,Lead,Full-time,1390000.0,100,"Power BI, SQL, Communication, Tableau",2026-07-02
+JM26-0928,ML Researcher,NextGen Analytics,Hyderabad,Senior,Full-time,2180000.0,50,"Research, Statistics, PyTorch",2026-04-27
+JM26-0094,Machine Learning Engineer,FinEdge,Hyderabad,Senior,Full-time,1580000.0,50,"PyTorch, Machine Learning, Python",2026-06-18
+JM26-0802,Data Scientist,InsightWorks,Pune,Senior,Full-time,1400000.0,0,"Python, Machine Learning, Statistics",2026-06-10
+JM26-0069,Data Analyst,InsightWorks,Mumbai,Mid,Full-time,730000.0,50,"Power BI, Excel, SQL",2026-03-25
+JM26-0900,Data Engineer,InsightWorks,Hyderabad,Entry,Full-time,720000.0,0,"ETL, Python, Spark, AWS, SQL",2026-06-08
+JM26-0285,Data Engineer,QuantifyAI,Delhi NCR,Mid,Internship,420000.0,100,"Python, ETL, Spark",2026-01-25
+JM26-0697,Business Analyst,DataSphere,Delhi NCR,Entry,Full-time,510000.0,100,"Tableau, Power BI, SQL, Communication",2026-03-14
+JM26-0086,Data Analyst,FinEdge,Kolkata,Mid,Full-time,520000.0,100,"Power BI, Python, SQL, Excel",2026-05-01
+JM26-0435,Data Analyst,NextGen Analytics,Ahmedabad,Senior,Full-time,810000.0,100,"Pandas, SQL, Power BI",2026-06-16
+JM26-0947,Business Analyst,BrightData,Bengaluru,Senior,Internship,380000.0,0,"Excel, Tableau, Communication, SQL, Power BI",2026-03-31
+JM26-0154,Data Engineer,CloudMatrix,Hyderabad,Lead,Full-time,2020000.0,100,,2026-01-01
+JM26-0076,Data Scientist,DataSphere,Hyderabad,Entry,Contract,810000.0,50,"Python, Pandas, SQL, Machine Learning, Statistics",2026-08-11
+JM26-1199,Data Scientist,FinEdge,Bengaluru,Lead,Contract,1990000.0,100,"Machine Learning, Pandas, SQL",2026-07-22
+JM26-0581,Data Engineer,TechNova,Bengaluru,Mid,Full-time,1340000.0,0,"Python, Spark, SQL, AWS",2026-02-17
+JM26-0447,Python Developer,NextGen Analytics,Hyderabad,Entry,Full-time,670000.0,100,"REST API, Django, Python, SQL, Git",2026-05-13
+JM26-0704,ML Researcher,Apex Technologies,Bengaluru,Senior,Full-time,1930000.0,100,"Research, PyTorch, Python, Statistics, Deep Learning",2026-05-13
+JM26-0189,Business Analyst,DigitalCore,Kolkata,Mid,Full-time,470000.0,100,"Tableau, Communication, Power BI",2026-04-03
+JM26-0272,Data Analyst,FinEdge,Bengaluru,Mid,Full-time,660000.0,0,"Python, Pandas, Power BI, SQL, Excel",2026-07-26
+JM26-0237,Data Engineer,InnovateLabs,Bengaluru,Mid,Full-time,1510000.0,100,"Python, ETL, AWS, SQL, Spark",2026-07-22
+JM26-0488,Data Scientist,FinEdge,Mumbai,Lead,Full-time,1860000.0,50,"Statistics, Python, SQL, Machine Learning",2026-05-21
+JM26-1162,AI Engineer,InsightWorks,Bengaluru,Mid,Full-time,1310000.0,0,"LLM, Machine Learning, PyTorch, Deep Learning, Python",2026-08-10
+JM26-0560,Data Engineer,BrightData,Kolkata,Senior,Full-time,1330000.0,100,"ETL, Spark, AWS, SQL, Python",2026-06-14
+JM26-0118,Business Analyst,Apex Technologies,Bengaluru,Entry,Contract,560000.0,50,"Tableau, SQL, Excel",2026-01-31
+JM26-0638,Business Analyst,CloudMatrix,Pune,Entry,Contract,520000.0,0,"Communication, SQL, Power BI, Tableau",2026-04-16
+JM26-1079,AI Engineer,FinEdge,Noida,Lead,Full-time,2660000.0,100,"Deep Learning, PyTorch, Machine Learning, Python",2026-02-15
+JM26-0751,Data Scientist,Apex Technologies,Ahmedabad,Entry,Full-time,790000.0,0,"Pandas, Python, Statistics",2026-03-19
+JM26-0513,Data Analyst,DataSphere,Ahmedabad,Mid,Full-time,660000.0,0,"Excel, Python, Pandas, Power BI, SQL",2026-01-18
+JM26-0634,Machine Learning Engineer,DataSphere,Bengaluru,Entry,Full-time,830000.0,50,"PyTorch, TensorFlow, Docker, Python",2026-02-17
+JM26-0790,AI Engineer,Apex Technologies,Bengaluru,Mid,Full-time,1530000.0,100,"Machine Learning, PyTorch, Python, LLM",2026-06-21
+JM26-1069,Data Analyst,QuantifyAI,Chennai,Mid,Contract,660000.0,0,"Excel, Pandas, SQL",2026-08-08
+JM26-1180,Data Scientist,Vertex Systems,Chennai,Entry,Full-time,610000.0,50,"Python, SQL, Machine Learning, Statistics",2026-08-18
+JM26-0127,Data Scientist,Apex Technologies,Pune,Senior,Internship,500000.0,0,"SQL, Statistics, Pandas, Machine Learning, Python",2026-02-08
+JM26-0117,Business Analyst,TechNova,Mumbai,Entry,Full-time,580000.0,100,"Excel, SQL, Power BI",2026-04-26
+JM26-0474,Data Analyst,FinEdge,Bengaluru,Entry,Full-time,590000.0,100,"SQL, Pandas, Python, Power BI",2026-08-14
+JM26-0741,Data Analyst,DataSphere,Hyderabad,Mid,Full-time,610000.0,100,"SQL, Power BI, Python, Excel",2026-05-29
+JM26-0999,Python Developer,InnovateLabs,Hyderabad,Senior,Full-time,1090000.0,100,"Django, Git, SQL, REST API, Python",2026-06-01
+JM26-0058,Data Engineer,Vertex Systems,Gurugram,Entry,Full-time,760000.0,50,"AWS, SQL, Python",2026-08-21
+JM26-0604,Business Analyst,TechNova,Chennai,Senior,Full-time,800000.0,0,"Tableau, SQL, Power BI, Excel, Communication",2026-02-18
+JM26-0787,BI Analyst,BrightData,Hyderabad,Senior,Full-time,1040000.0,50,"Data Visualization, Excel, Power BI",2026-02-22
+JM26-0977,Data Engineer,InnovateLabs,Pune,Entry,Contract,850000.0,100,"ETL, Spark, SQL",2026-04-20
+JM26-0657,ML Researcher,Vertex Systems,Hyderabad,Mid,Full-time,1100000.0,0,"Statistics, Deep Learning, Research, Python, PyTorch",2026-01-06
+JM26-0908,Data Analyst,TechNova,Ahmedabad,Entry,Full-time,460000.0,100,"Excel, Power BI, Pandas, SQL, Python",2026-03-11
+JM26-0927,Data Analyst,QuantifyAI,Hyderabad,Mid,Full-time,700000.0,50,"SQL, Pandas, Python, Excel",2026-07-01
+JM26-0106,Business Analyst,BrightData,Kolkata,Entry,Full-time,430000.0,50,"Communication, Tableau, Excel",2026-07-30
+JM26-0636,Data Analyst,InsightWorks,Bengaluru,Senior,Full-time,850000.0,0,"Python, Excel, SQL, Power BI",2026-05-10
+JM26-0370,Analytics Engineer,Vertex Systems,Mumbai,Lead,Full-time,2170000.0,0,"dbt, SQL, ETL, Python",2026-01-11
+JM26-0269,Data Analyst,NextGen Analytics,Chennai,Mid,Full-time,620000.0,0,"SQL, Python, Excel, Pandas, Power BI",2026-06-20
+JM26-0656,Machine Learning Engineer,NextGen Analytics,Ahmedabad,Mid,Full-time,940000.0,100,"Python, Docker, Machine Learning",2026-01-08
+JM26-0047,Machine Learning Engineer,BrightData,Delhi NCR,Entry,Full-time,1020000.0,0,"Docker, Python, TensorFlow",2026-03-17
+JM26-0350,Data Analyst,FinEdge,Hyderabad,Entry,Full-time,530000.0,0,"Pandas, SQL, Excel, Python, Power BI",2026-04-05
+JM26-0774,BI Analyst,Apex Technologies,Pune,Lead,Full-time,1530000.0,100,"Data Visualization, SQL, Power BI, Tableau",2026-07-13
+JM26-0196,Data Analyst,BrightData,Bengaluru,Senior,Full-time,1000000.0,0,"SQL, Excel, Python, Pandas",2026-04-07
+JM26-0103,Data Scientist,Vertex Systems,Chennai,Lead,Full-time,1740000.0,0,"Statistics, SQL, Machine Learning, Python, Pandas",2026-08-14
+JM26-0005,Data Analyst,DigitalCore,Bengaluru,Senior,Internship,330000.0,100,"Excel, Python, Power BI, Pandas",2026-03-05
+JM26-0620,Data Analyst,CloudMatrix,Delhi NCR,Entry,Full-time,560000.0,0,"Power BI, Python, Excel, Pandas",2026-08-08
+JM26-0997,AI Engineer,InnovateLabs,Bengaluru,Entry,Full-time,1100000.0,100,"Machine Learning, PyTorch, Deep Learning",2026-03-05
+JM26-0053,BI Analyst,Vertex Systems,Bengaluru,Mid,Full-time,840000.0,100,"Tableau, Power BI, SQL, Excel",2026-05-27
+JM26-0264,Data Analyst,QuantifyAI,Hyderabad,Entry,Full-time,470000.0,0,"Excel, SQL, Pandas, Python",2026-04-28
+JM26-1095,AI Engineer,Vertex Systems,Hyderabad,Entry,Full-time,1040000.0,0,"Deep Learning, LLM, Python",2026-03-02
+JM26-0444,Data Scientist,DataSphere,Bengaluru,Entry,Part-time,680000.0,0,"Statistics, Python, SQL, Machine Learning, Pandas",2026-08-11
+JM26-0978,Machine Learning Engineer,DataSphere,Gurugram,Senior,Full-time,1680000.0,100,"Python, Docker, PyTorch, Machine Learning, TensorFlow",2026-04-01
+JM26-0783,Machine Learning Engineer,QuantifyAI,Noida,Mid,Full-time,1170000.0,50,"TensorFlow, Machine Learning, Python",2026-06-21
+JM26-0851,Data Analyst,TechNova,Ahmedabad,Lead,Contract,1070000.0,100,"Excel, Python, SQL, Power BI, Pandas",2026-01-01
+JM26-0692,Analytics Engineer,InsightWorks,Chennai,Senior,Full-time,1430000.0,50,"Data Modeling, Python, ETL, dbt, SQL",2026-07-04
+JM26-0305,ML Researcher,QuantifyAI,Gurugram,Senior,Full-time,2380000.0,100,"Python, PyTorch, Research, Deep Learning",2026-02-12
+JM26-0342,Python Developer,Vertex Systems,Hyderabad,Senior,Full-time,1140000.0,100,"Git, Django, REST API, Python, SQL",2026-03-07
+JM26-1089,Data Engineer,DigitalCore,Bengaluru,Entry,Contract,910000.0,100,"SQL, AWS, Spark",2026-01-19
+JM26-0314,Machine Learning Engineer,Vertex Systems,Chennai,Entry,Full-time,870000.0,100,"TensorFlow, Docker, Machine Learning, PyTorch, Python",2026-08-05
+JM26-0150,Data Analyst,Apex Technologies,Bengaluru,Mid,Full-time,610000.0,50,"Power BI, SQL, Python, Pandas",2026-08-01
+JM26-0125,Data Analyst,QuantifyAI,Hyderabad,Senior,Contract,1080000.0,50,"Excel, Python, Pandas",2026-01-08
+JM26-1123,BI Analyst,CloudMatrix,Pune,Entry,Full-time,520000.0,100,"SQL, Data Visualization, Excel, Tableau",2026-01-13
+JM26-0575,ML Researcher,CloudMatrix,Delhi NCR,Mid,Contract,1400000.0,100,"Deep Learning, PyTorch, Python",2026-03-23
+JM26-0698,AI Engineer,FinEdge,Hyderabad,Mid,Full-time,1550000.0,50,"Deep Learning, Machine Learning, Python, PyTorch, LLM",2026-01-26
+JM26-0665,Machine Learning Engineer,NextGen Analytics,Delhi NCR,Mid,Full-time,1340000.0,0,"Python, Machine Learning, Docker, TensorFlow",2026-01-17
+JM26-0051,Data Scientist,FinEdge,Bengaluru,Mid,Full-time,1200000.0,0,"Pandas, Statistics, SQL, Python",2026-05-10
+JM26-0727,Data Scientist,QuantifyAI,Hyderabad,Mid,Full-time,990000.0,0,"SQL, Machine Learning, Statistics, Pandas",2026-02-04
+JM26-0800,Business Analyst,DataSphere,Mumbai,Lead,Full-time,1370000.0,50,"Tableau, Excel, SQL, Communication",2026-05-24
+JM26-0354,Data Engineer,CloudMatrix,Pune,Entry,Full-time,720000.0,0,"Spark, ETL, AWS",2026-01-19
+JM26-1168,Data Engineer,BrightData,Pune,Mid,Full-time,1170000.0,0,"ETL, SQL, AWS",2026-05-11
+JM26-0143,Analytics Engineer,BrightData,Mumbai,Mid,Contract,1110000.0,50,,2026-03-08
+JM26-0471,Machine Learning Engineer,DigitalCore,Hyderabad,Mid,Full-time,1460000.0,100,"PyTorch, Docker, Machine Learning, Python",2026-08-17
+JM26-0654,Data Scientist,QuantifyAI,Chennai,Senior,Full-time,1490000.0,0,"Machine Learning, Statistics, SQL, Pandas, Python",2026-01-30
+JM26-0400,Machine Learning Engineer,Vertex Systems,Hyderabad,Senior,Full-time,2000000.0,100,"TensorFlow, Machine Learning, Docker, PyTorch",2026-04-12
+JM26-0903,Data Analyst,BrightData,Gurugram,Entry,Full-time,530000.0,0,"SQL, Pandas, Python, Power BI",2026-03-07
+JM26-0921,Data Analyst,InsightWorks,Hyderabad,Entry,Full-time,570000.0,100,"Python, Power BI, Excel",2026-02-22
+JM26-0321,Analytics Engineer,Vertex Systems,Hyderabad,Mid,Full-time,1060000.0,50,"Python, dbt, Data Modeling",2026-07-23
+JM26-0020,AI Engineer,NextGen Analytics,Bengaluru,Lead,Internship,840000.0,100,"PyTorch, LLM, Python",2026-08-10
+JM26-0685,AI Engineer,NextGen Analytics,Hyderabad,Senior,Part-time,1220000.0,100,"PyTorch, Deep Learning, LLM, Python",2026-08-14
+JM26-0036,Data Scientist,NextGen Analytics,Bengaluru,Lead,Full-time,2030000.0,100,"Python, Machine Learning, Statistics, Pandas",2026-07-22
+JM26-0825,BI Analyst,CloudMatrix,Pune,Entry,Full-time,590000.0,0,"Power BI, Tableau, SQL",2026-07-23
+JM26-0506,BI Analyst,DataSphere,Ahmedabad,Mid,Full-time,600000.0,50,"SQL, Tableau, Power BI",2026-02-09
+JM26-0828,Data Scientist,InnovateLabs,Pune,Entry,Full-time,910000.0,100,"Statistics, Python, Pandas, SQL",2026-03-18
+JM26-1073,Machine Learning Engineer,TechNova,Chennai,Mid,Full-time,1170000.0,0,"PyTorch, TensorFlow, Machine Learning, Docker, Python",2026-05-09
+JM26-0408,BI Analyst,DigitalCore,Hyderabad,Senior,Full-time,960000.0,100,"Data Visualization, Excel, SQL, Power BI, Tableau",2026-04-22
+JM26-0818,Data Engineer,TechNova,Bengaluru,Entry,Full-time,810000.0,100,"Spark, Python, SQL, ETL, AWS",2026-05-12
+JM26-0538,Data Analyst,NextGen Analytics,Bengaluru,Entry,Contract,500000.0,50,"SQL, Python, Pandas, Excel",2026-08-19
+JM26-0759,Data Analyst,QuantifyAI,Noida,Senior,Full-time,940000.0,50,"Python, SQL, Pandas, Power BI",2026-01-14
+JM26-1071,ML Researcher,CloudMatrix,Delhi NCR,Mid,Full-time,1250000.0,100,"Python, Statistics, Deep Learning",2026-02-20
+JM26-1156,Data Analyst,Vertex Systems,Gurugram,Senior,Full-time,970000.0,50,"Excel, Power BI, Python, SQL",2026-07-12
+JM26-0039,Data Scientist,BrightData,Bengaluru,Mid,Contract,1240000.0,0,"SQL, Machine Learning, Statistics, Pandas, Python",2026-03-01
+JM26-0176,Data Analyst,Apex Technologies,Bengaluru,Mid,Full-time,530000.0,50,"SQL, Python, Pandas, Power BI",2026-06-04
+JM26-0246,ML Researcher,Apex Technologies,Mumbai,Senior,Full-time,2130000.0,100,"Statistics, Python, Deep Learning",2026-06-29
+JM26-0811,Data Analyst,InsightWorks,Bengaluru,Mid,Full-time,,0,"SQL, Excel, Python, Pandas, Power BI",2026-02-28
+JM26-1118,BI Analyst,DigitalCore,Gurugram,Entry,Full-time,560000.0,100,"SQL, Power BI, Tableau, Data Visualization, Excel",2026-03-25
+JM26-0971,Data Scientist,BrightData,Pune,Senior,Full-time,1450000.0,100,"Machine Learning, Python, Pandas, Statistics",2026-05-07
+JM26-0785,Python Developer,QuantifyAI,Delhi NCR,Entry,Contract,530000.0,100,"REST API, SQL, Django, Git",2026-01-16
+JM26-1188,Python Developer,InnovateLabs,Bengaluru,Mid,Full-time,940000.0,50,"Git, REST API, Django, SQL",2026-08-01
+JM26-0490,Data Engineer,TechNova,Pune,Entry,Full-time,950000.0,50,"Python, ETL, AWS, Spark",2026-03-06
+JM26-0155,Data Analyst,DigitalCore,Noida,Mid,Full-time,670000.0,0,"Python, Excel, Power BI, Pandas",2026-05-24
+JM26-0639,Business Analyst,DataSphere,Gurugram,Entry,Full-time,520000.0,100,"SQL, Communication, Excel",2026-08-01
+JM26-0663,Data Scientist,DigitalCore,Ahmedabad,Entry,Full-time,590000.0,0,"Python, Statistics, Machine Learning, Pandas",2026-06-20
+JM26-0854,Analytics Engineer,CloudMatrix,Noida,Mid,Full-time,920000.0,0,"dbt, Python, ETL, SQL",2026-06-13
+JM26-0288,Machine Learning Engineer,DigitalCore,Pune,Senior,Contract,1770000.0,50,"TensorFlow, Machine Learning, PyTorch, Docker, Python",2026-02-12
+JM26-0626,Machine Learning Engineer,Vertex Systems,Bengaluru,Entry,Contract,850000.0,100,"PyTorch, Docker, Python, TensorFlow",2026-05-18
+JM26-1129,AI Engineer,BrightData,Mumbai,Senior,Full-time,2500000.0,100,"Deep Learning, LLM, PyTorch",2026-02-22
+JM26-0686,Machine Learning Engineer,Vertex Systems,Hyderabad,Mid,Full-time,1220000.0,100,"Docker, Machine Learning, TensorFlow, Python, PyTorch",2026-08-06
+JM26-0877,Machine Learning Engineer,BrightData,Ahmedabad,Mid,Full-time,1050000.0,0,"Python, TensorFlow, Machine Learning",2026-07-26
+JM26-0570,Data Engineer,BrightData,Gurugram,Entry,Full-time,810000.0,0,"Spark, SQL, AWS, ETL, Python",2026-03-19
+JM26-1146,Data Scientist,BrightData,Bengaluru,Mid,Full-time,1400000.0,0,"SQL, Machine Learning, Python, Pandas, Statistics",2026-07-28
+JM26-0735,Data Analyst,QuantifyAI,Chennai,Senior,Contract,920000.0,100,"Power BI, Pandas, Excel, SQL",2026-06-29
+JM26-0793,Data Scientist,DigitalCore,Hyderabad,Mid,Full-time,1050000.0,50,"Machine Learning, SQL, Statistics, Python, Pandas",2026-07-27
+JM26-0018,Data Analyst,InsightWorks,Mumbai,Mid,Full-time,730000.0,50,"Power BI, Excel, SQL",2026-03-05
+JM26-0128,Data Analyst,TechNova,Mumbai,Senior,Full-time,1060000.0,50,"Python, Power BI, SQL",2026-03-27
+JM26-0323,Data Scientist,FinEdge,Noida,Mid,Full-time,900000.0,50,"SQL, Machine Learning, Statistics",2026-03-27
+JM26-0256,Business Analyst,InnovateLabs,Bengaluru,Senior,Full-time,1200000.0,0,"Communication, Tableau, Power BI",2026-01-11
+JM26-0949,ML Researcher,Vertex Systems,Gurugram,Senior,Full-time,1940000.0,100,"Python, Deep Learning, Research",2026-03-17
+JM26-1182,Data Analyst,QuantifyAI,Hyderabad,Senior,Internship,390000.0,50,"Power BI, SQL, Excel, Pandas",2026-01-28
+JM26-0191,Analytics Engineer,TechNova,Kolkata,Senior,Full-time,1290000.0,0,"Python, Data Modeling, ETL",2026-06-27
+JM26-0116,ML Researcher,NextGen Analytics,Chennai,Senior,Contract,1640000.0,100,"Statistics, Research, PyTorch, Python, Deep Learning",2026-03-03
+JM26-1176,Business Analyst,DataSphere,Bengaluru,Mid,Full-time,710000.0,0,"SQL, Excel, Tableau, Power BI",2026-08-06
+JM26-0894,Data Analyst,DigitalCore,Bengaluru,Mid,Full-time,850000.0,100,"Pandas, Excel, Power BI",2026-07-29
+JM26-0607,ML Researcher,Apex Technologies,Bengaluru,Mid,Full-time,1670000.0,50,"PyTorch, Python, Statistics, Deep Learning",2026-05-04
+JM26-0181,Analytics Engineer,Apex Technologies,Pune,Entry,Full-time,780000.0,100,"dbt, Data Modeling, Python, SQL",2026-06-23
+JM26-0302,Data Analyst,InsightWorks,Ahmedabad,Mid,Contract,520000.0,0,"Power BI, Pandas, SQL, Python",2026-01-12
+JM26-0497,Machine Learning Engineer,Apex Technologies,Bengaluru,Lead,Full-time,2420000.0,100,"TensorFlow, PyTorch, Python, Machine Learning",2026-08-02
+JM26-0349,AI Engineer,QuantifyAI,Hyderabad,Mid,Contract,1430000.0,100,"Python, Deep Learning, PyTorch, Machine Learning",2026-02-25
+JM26-1038,Machine Learning Engineer,FinEdge,Hyderabad,Mid,Full-time,1400000.0,100,"PyTorch, Python, Machine Learning, TensorFlow",2026-07-17
+JM26-0989,Machine Learning Engineer,QuantifyAI,Hyderabad,Mid,Full-time,1200000.0,100,"TensorFlow, Machine Learning, PyTorch, Python, Docker",2026-05-20
+JM26-0745,Data Engineer,QuantifyAI,Gurugram,Senior,Full-time,1680000.0,50,"ETL, AWS, Spark",2026-05-04
+JM26-1084,BI Analyst,Vertex Systems,Chennai,Mid,Full-time,840000.0,100,"Data Visualization, SQL, Power BI",2026-06-03
+JM26-1200,Business Analyst,DigitalCore,Mumbai,Mid,Full-time,860000.0,100,"Power BI, SQL, Tableau, Communication, Excel",2026-01-24
+JM26-0518,Business Analyst,Apex Technologies,Delhi NCR,Senior,Contract,980000.0,100,"Excel, Power BI, SQL, Tableau",2026-07-08
+JM26-0373,Machine Learning Engineer,InsightWorks,Mumbai,Senior,Full-time,2110000.0,100,"PyTorch, Docker, Python, Machine Learning, TensorFlow",2026-05-19
+JM26-0046,BI Analyst,Apex Technologies,Hyderabad,Mid,Full-time,840000.0,0,"Excel, Power BI, Tableau, SQL",2026-04-22
+JM26-0477,Machine Learning Engineer,InsightWorks,Chennai,Entry,Full-time,990000.0,100,"TensorFlow, Machine Learning, Docker",2026-06-17
+JM26-0158,AI Engineer,Apex Technologies,Pune,Entry,Full-time,960000.0,50,"PyTorch, Deep Learning, Machine Learning, Python, LLM",2026-02-11
+JM26-1049,ML Researcher,InsightWorks,Pune,Mid,Full-time,1280000.0,0,"Python, Statistics, Deep Learning, Research, PyTorch",2026-08-11
+JM26-0172,Data Engineer,NextGen Analytics,Kolkata,Mid,Internship,330000.0,0,"ETL, SQL, Python",2026-07-18
+JM26-0017,Data Engineer,BrightData,Hyderabad,Entry,Full-time,870000.0,0,"Spark, AWS, Python, ETL",2026-08-05
+JM26-0512,BI Analyst,DataSphere,Pune,Entry,Contract,550000.0,0,"Power BI, SQL, Tableau",2026-01-27
+JM26-0049,Business Analyst,CloudMatrix,Noida,Mid,Full-time,630000.0,0,"Power BI, Excel, Communication, Tableau, SQL",2026-02-22
+JM26-0192,Data Scientist,DigitalCore,Gurugram,Senior,Full-time,1470000.0,100,"Python, Machine Learning, Statistics, Pandas, SQL",2026-05-09
+JM26-0547,Machine Learning Engineer,Vertex Systems,Chennai,Mid,Full-time,1090000.0,100,"Docker, Python, PyTorch",2026-06-02
+JM26-0516,Data Analyst,CloudMatrix,Gurugram,Entry,Full-time,510000.0,50,"Python, Excel, Pandas, SQL, Power BI",2026-01-29
+JM26-0984,Data Engineer,DigitalCore,Bengaluru,Mid,Internship,410000.0,100,"Python, SQL, ETL",2026-07-21
+JM26-0944,Machine Learning Engineer,Vertex Systems,Gurugram,Entry,Full-time,1040000.0,100,"Docker, Machine Learning, Python, PyTorch, TensorFlow",2026-06-19
+JM26-0829,ML Researcher,NextGen Analytics,Mumbai,Mid,Full-time,1710000.0,0,"Python, Deep Learning, PyTorch",2026-05-04
+JM26-1005,AI Engineer,Apex Technologies,Hyderabad,Senior,Full-time,1620000.0,100,"Deep Learning, LLM, PyTorch, Machine Learning",2026-01-21
+JM26-0481,Machine Learning Engineer,DataSphere,Chennai,Entry,Full-time,810000.0,100,"PyTorch, TensorFlow, Machine Learning, Docker, Python",2026-03-28
+JM26-0026,Data Scientist,Vertex Systems,Noida,Senior,Full-time,1610000.0,50,"Machine Learning, Statistics, Python, Pandas",2026-05-04
+JM26-0284,Data Scientist,DigitalCore,Hyderabad,Mid,Full-time,1120000.0,0,"Statistics, SQL, Pandas",2026-01-20
+JM26-1032,Business Analyst,CloudMatrix,Delhi NCR,Mid,Full-time,720000.0,0,"Tableau, Power BI, Excel",2026-06-05
+JM26-0798,Data Analyst,DigitalCore,Hyderabad,Entry,Full-time,500000.0,50,"SQL, Power BI, Pandas, Excel, Python",2026-06-16
+JM26-0945,Machine Learning Engineer,DataSphere,Hyderabad,Mid,Full-time,1450000.0,100,"PyTorch, Python, Machine Learning, Docker, TensorFlow",2026-06-08
+JM26-0226,Analytics Engineer,FinEdge,Pune,Mid,Full-time,850000.0,50,"Python, dbt, SQL, ETL",2026-03-31
+JM26-0027,Data Engineer,DataSphere,Pune,Entry,Part-time,460000.0,0,"Spark, ETL, Python, AWS, SQL",2026-04-25
+JM26-0283,Data Scientist,CloudMatrix,Delhi NCR,Entry,Full-time,760000.0,50,"Pandas, Machine Learning, Statistics, Python, SQL",2026-03-18
+JM26-1152,ML Researcher,InsightWorks,Noida,Mid,Full-time,1200000.0,100,"Deep Learning, Research, PyTorch",2026-08-15
+JM26-0438,Data Engineer,QuantifyAI,Kolkata,Entry,Contract,630000.0,0,"SQL, Spark, Python, ETL",2026-05-21
+JM26-1170,Data Analyst,InnovateLabs,Mumbai,Mid,Full-time,740000.0,100,"Excel, Python, Power BI, SQL, Pandas",2026-07-28
+JM26-0365,AI Engineer,DataSphere,Gurugram,Entry,Full-time,1010000.0,100,"LLM, PyTorch, Deep Learning, Python, Machine Learning",2026-04-03
+JM26-0230,Data Analyst,CloudMatrix,Pune,Entry,Full-time,410000.0,0,"Pandas, Excel, SQL",2026-07-09
+JM26-0038,Data Engineer,NextGen Analytics,Pune,Senior,Full-time,1820000.0,0,"Python, SQL, Spark, ETL",2026-03-19
+JM26-0670,Machine Learning Engineer,QuantifyAI,Gurugram,Mid,Full-time,1720000.0,0,"Machine Learning, Docker, TensorFlow, PyTorch, Python",2026-07-13
+JM26-0750,BI Analyst,CloudMatrix,Kolkata,Entry,Contract,430000.0,50,"Excel, Tableau, SQL, Data Visualization, Power BI",2026-01-03
+JM26-1183,Data Analyst,DataSphere,Bengaluru,Mid,Part-time,490000.0,100,"Excel, Python, SQL, Pandas",2026-01-03
+JM26-0375,Data Analyst,Apex Technologies,Bengaluru,Senior,Full-time,870000.0,0,"Excel, Pandas, Python",2026-02-21
+JM26-0470,Data Engineer,QuantifyAI,Noida,Entry,Full-time,640000.0,50,"SQL, Spark, ETL, AWS, Python",2026-06-08
+JM26-0883,Analytics Engineer,Vertex Systems,Chennai,Entry,Contract,690000.0,0,"Python, dbt, Data Modeling, SQL, ETL",2026-02-02
+JM26-1184,Data Analyst,InnovateLabs,Bengaluru,Senior,Full-time,900000.0,0,"Pandas, SQL, Power BI, Excel, Python",2026-08-21
+JM26-0688,Python Developer,BrightData,Bengaluru,Mid,Full-time,790000.0,0,"Python, Django, REST API, Git",2026-04-07
+JM26-0033,Data Scientist,Vertex Systems,Bengaluru,Mid,Full-time,1060000.0,50,"Machine Learning, Pandas, Python, SQL, Statistics",2026-02-11
+JM26-1135,Python Developer,InnovateLabs,Pune,Senior,Part-time,620000.0,50,"Django, Python, Git",2026-05-21
+JM26-1041,Data Analyst,CloudMatrix,Hyderabad,Entry,Full-time,470000.0,0,"Power BI, SQL, Excel, Pandas, Python",2026-04-20
+JM26-0195,Data Analyst,DataSphere,Gurugram,Mid,Full-time,680000.0,50,"Pandas, Power BI, SQL, Excel",2026-07-17
+JM26-1108,Machine Learning Engineer,DataSphere,Pune,Senior,Full-time,1940000.0,100,"TensorFlow, Machine Learning, Python, PyTorch, Docker",2026-03-28
+JM26-1116,Data Analyst,DigitalCore,Hyderabad,Senior,Full-time,810000.0,50,"Power BI, Pandas, Python, SQL",2026-05-21
+JM26-0957,Business Analyst,InnovateLabs,Bengaluru,Mid,Full-time,930000.0,0,"Power BI, SQL, Excel, Tableau, Communication",2026-08-05
+JM26-0504,Data Engineer,DataSphere,Delhi NCR,Lead,Full-time,1920000.0,0,"AWS, Python, ETL, Spark, SQL",2026-07-23
+JM26-0916,Python Developer,Vertex Systems,Kolkata,Entry,Full-time,500000.0,0,"SQL, Git, Django, REST API",2026-03-30
+JM26-0983,Business Analyst,CloudMatrix,Gurugram,Senior,Contract,1180000.0,50,"SQL, Tableau, Communication, Power BI",2026-03-27
+JM26-1186,BI Analyst,DigitalCore,Gurugram,Senior,Contract,1140000.0,0,"Tableau, Excel, Power BI",2026-07-02
+JM26-1090,Machine Learning Engineer,Vertex Systems,Hyderabad,Mid,Full-time,1320000.0,0,"Python, TensorFlow, Machine Learning, Docker",2026-05-12
+JM26-0801,Business Analyst,TechNova,Noida,Senior,Contract,900000.0,50,"Power BI, Tableau, Excel",2026-02-10
+JM26-0580,Machine Learning Engineer,DigitalCore,Pune,Senior,Part-time,1170000.0,100,"Machine Learning, Python, TensorFlow",2026-03-11
+JM26-0161,Data Analyst,InsightWorks,Delhi NCR,Mid,Internship,280000.0,0,"SQL, Excel, Power BI, Python, Pandas",2026-08-07
+JM26-0681,Data Analyst,DigitalCore,Mumbai,Entry,Full-time,620000.0,0,"SQL, Power BI, Python",2026-03-10
+JM26-1133,Data Analyst,BrightData,Gurugram,Mid,Full-time,640000.0,0,"Python, SQL, Pandas, Power BI, Excel",2026-01-23
+JM26-0163,Data Scientist,DigitalCore,Delhi NCR,Senior,Full-time,1470000.0,50,"Python, Machine Learning, Pandas, SQL, Statistics",2026-03-05
+JM26-0822,AI Engineer,DigitalCore,Bengaluru,Senior,Full-time,2100000.0,50,"Deep Learning, PyTorch, Python, LLM",2026-07-18
+JM26-0706,Data Engineer,QuantifyAI,Pune,Senior,Full-time,1320000.0,0,"Spark, SQL, ETL",2026-08-23
+JM26-1015,Machine Learning Engineer,FinEdge,Kolkata,Mid,Full-time,1160000.0,100,"Docker, TensorFlow, PyTorch, Machine Learning",2026-05-28
+JM26-0878,Data Scientist,CloudMatrix,Bengaluru,Mid,Full-time,1310000.0,50,"Statistics, Pandas, SQL, Python, Machine Learning",2026-04-29
+JM26-0896,ML Researcher,NextGen Analytics,Hyderabad,Lead,Full-time,2430000.0,50,"Deep Learning, Statistics, Research, PyTorch, Python",2026-07-12
+JM26-0914,Python Developer,InnovateLabs,Delhi NCR,Mid,Full-time,830000.0,100,"REST API, Python, Git",2026-06-10
+JM26-0151,BI Analyst,InnovateLabs,Gurugram,Mid,Full-time,810000.0,0,"SQL, Data Visualization, Tableau",2026-07-12
+JM26-0153,Data Analyst,BrightData,Hyderabad,Mid,Full-time,640000.0,0,"Excel, Power BI, SQL",2026-04-07
+JM26-0985,Data Analyst,Apex Technologies,Mumbai,Entry,Full-time,530000.0,0,"SQL, Excel, Pandas, Power BI",2026-04-05
+JM26-1009,Business Analyst,InsightWorks,Bengaluru,Mid,Full-time,870000.0,0,"Tableau, SQL, Communication, Power BI, Excel",2026-01-23
+JM26-0510,Data Analyst,TechNova,Hyderabad,Mid,Full-time,650000.0,0,"SQL, Excel, Python, Pandas",2026-06-16
+JM26-0112,Data Scientist,BrightData,Kolkata,Mid,Full-time,1080000.0,50,"Python, Pandas, Machine Learning",2026-02-18
+JM26-0227,Data Analyst,Vertex Systems,Bengaluru,Mid,Full-time,670000.0,50,"Excel, Power BI, Pandas, SQL",2026-05-30
+JM26-0992,Business Analyst,Apex Technologies,Mumbai,Senior,Full-time,1120000.0,50,"Tableau, SQL, Power BI",2026-04-30
+JM26-0852,Data Scientist,BrightData,Bengaluru,Mid,Internship,390000.0,50,"SQL, Statistics, Pandas",2026-07-06
+JM26-0104,Python Developer,DigitalCore,Hyderabad,Senior,Full-time,1180000.0,100,"Django, Git, Python, REST API",2026-06-30
+JM26-0422,Data Analyst,QuantifyAI,Mumbai,Senior,Full-time,890000.0,50,"Python, Excel, Pandas, Power BI, SQL",2026-03-17
+JM26-0420,Analytics Engineer,InnovateLabs,Bengaluru,Senior,Full-time,1330000.0,0,"SQL, Data Modeling, ETL",2026-05-11
+JM26-0968,Data Analyst,TechNova,Pune,Mid,Full-time,610000.0,50,"SQL, Excel, Python, Power BI, Pandas",2026-02-09
+JM26-0625,Python Developer,BrightData,Chennai,Mid,Full-time,800000.0,100,"Git, REST API, Django, Python",2026-04-02
+JM26-0587,Data Analyst,DataSphere,Hyderabad,Entry,Full-time,460000.0,0,"Power BI, SQL, Python, Excel, Pandas",2026-07-14
+JM26-1063,Data Scientist,Vertex Systems,Pune,Entry,Full-time,760000.0,50,"Statistics, Python, Pandas",2026-05-28
+JM26-0920,Data Engineer,CloudMatrix,Hyderabad,Mid,Full-time,1330000.0,0,"Spark, SQL, AWS, ETL, Python",2026-05-11
+JM26-0673,Python Developer,QuantifyAI,Ahmedabad,Senior,Contract,930000.0,100,"REST API, Django, SQL, Git",2026-03-07
+JM26-0120,AI Engineer,QuantifyAI,Noida,Entry,Full-time,950000.0,50,"PyTorch, Machine Learning, LLM, Deep Learning",2026-03-22
+JM26-0054,AI Engineer,QuantifyAI,Delhi NCR,Senior,Full-time,2020000.0,0,"LLM, Deep Learning, Machine Learning, PyTorch",2026-07-09
+JM26-0152,Analytics Engineer,InsightWorks,Gurugram,Mid,Full-time,980000.0,100,"ETL, Data Modeling, Python, dbt",2026-01-07
+JM26-0404,Data Analyst,CloudMatrix,Gurugram,Mid,Full-time,680000.0,50,"Excel, Python, Pandas, SQL, Power BI",2026-03-22
+JM26-1192,Machine Learning Engineer,CloudMatrix,Chennai,Mid,Full-time,1350000.0,100,"TensorFlow, Docker, PyTorch",2026-03-12
+JM26-0208,AI Engineer,CloudMatrix,Bengaluru,Entry,Full-time,1120000.0,100,"Deep Learning, Python, PyTorch",2026-02-11
+JM26-1137,Data Engineer,FinEdge,Noida,Entry,Full-time,820000.0,0,"Spark, SQL, ETL",2026-06-09
+JM26-0659,AI Engineer,InnovateLabs,Hyderabad,Entry,Internship,390000.0,0,"Python, LLM, Deep Learning, PyTorch, Machine Learning",2026-05-29
+JM26-1099,ML Researcher,TechNova,Bengaluru,Mid,Full-time,1490000.0,100,"Python, Deep Learning, Statistics, PyTorch, Research",2026-04-11
+JM26-0233,Python Developer,TechNova,Bengaluru,Senior,Full-time,1340000.0,0,"Python, Git, REST API, SQL",2026-05-05
+JM26-0009,Data Analyst,DataSphere,Hyderabad,Mid,Full-time,670000.0,50,"Power BI, SQL, Python, Excel, Pandas",2026-05-05
+JM26-0160,Business Analyst,NextGen Analytics,Bengaluru,Entry,Full-time,610000.0,100,"Tableau, Power BI, Excel, Communication, SQL",2026-03-23
+JM26-0037,Data Analyst,InsightWorks,Bengaluru,Mid,Contract,680000.0,0,"Excel, Power BI, Pandas, SQL",2026-01-30
+JM26-0453,Business Analyst,Apex Technologies,Hyderabad,Senior,Full-time,1160000.0,0,"SQL, Tableau, Power BI",2026-04-03
+JM26-0652,Analytics Engineer,InnovateLabs,Kolkata,Entry,Full-time,670000.0,50,"ETL, SQL, Python",2026-05-04
+JM26-0254,Data Scientist,NextGen Analytics,Kolkata,Senior,Full-time,1240000.0,0,"Python, Machine Learning, Statistics, Pandas",2026-04-13
+JM26-0304,Data Engineer,FinEdge,Pune,Senior,Full-time,1600000.0,50,"AWS, ETL, SQL",2026-04-13
+JM26-0897,Data Scientist,DataSphere,Bengaluru,Senior,Full-time,1420000.0,0,"Statistics, Python, Machine Learning",2026-01-10
+JM26-1051,AI Engineer,,Mumbai,Senior,Contract,2210000.0,100,"Python, LLM, PyTorch",2026-02-26
+JM26-0881,Machine Learning Engineer,TechNova,Pune,Senior,Full-time,1790000.0,100,"PyTorch, TensorFlow, Python, Machine Learning",2026-03-07
+JM26-0572,BI Analyst,InsightWorks,Gurugram,Mid,Full-time,830000.0,100,"SQL, Power BI, Excel, Tableau",2026-06-19
+JM26-0624,Data Engineer,BrightData,Delhi NCR,Mid,Full-time,1200000.0,0,"AWS, SQL, Python, ETL",2026-08-13
+JM26-0346,BI Analyst,Apex Technologies,Pune,Senior,Part-time,750000.0,100,"Tableau, Power BI, SQL, Excel, Data Visualization",2026-04-09
+JM26-1033,Data Engineer,InsightWorks,Bengaluru,Lead,Full-time,2260000.0,0,"ETL, Spark, AWS",2026-08-07
+JM26-1028,Machine Learning Engineer,NextGen Analytics,Bengaluru,Senior,Full-time,2160000.0,50,"Python, Machine Learning, PyTorch, TensorFlow",2026-08-13
+JM26-0263,Data Scientist,Apex Technologies,Bengaluru,Mid,Full-time,1170000.0,0,"Python, Machine Learning, Statistics",2026-02-28
+JM26-0611,Data Engineer,Apex Technologies,Hyderabad,Mid,Full-time,1360000.0,0,"Spark, Python, AWS, ETL",2026-06-27
+JM26-0298,BI Analyst,CloudMatrix,Delhi NCR,Entry,Full-time,500000.0,50,"Excel, Data Visualization, Tableau",2026-02-19
+JM26-0990,BI Analyst,InnovateLabs,Kolkata,Entry,Part-time,270000.0,50,"Data Visualization, Excel, Tableau, SQL, Power BI",2026-07-10
+JM26-0415,Data Analyst,NextGen Analytics,Gurugram,Entry,Full-time,500000.0,50,"Power BI, Python, Pandas",2026-05-17
+JM26-0151,BI Analyst,InnovateLabs,Gurugram,Mid,Full-time,810000.0,0,"SQL, Data Visualization, Tableau",2026-07-12
+JM26-0946,Data Scientist,DataSphere,Kolkata,Senior,Full-time,1250000.0,0,"Machine Learning, SQL, Pandas, Statistics",2026-02-03
+JM26-0473,Data Analyst,FinEdge,Chennai,Entry,Full-time,520000.0,100,"Pandas, SQL, Python, Power BI, Excel",2026-01-21
+JM26-0953,Data Scientist,InsightWorks,Gurugram,Entry,Full-time,750000.0,100,"SQL, Machine Learning, Pandas, Statistics, Python",2026-06-05
+JM26-0988,Data Analyst,BrightData,Delhi NCR,Lead,Part-time,610000.0,100,"Excel, SQL, Python, Pandas",2026-02-14
+JM26-0779,Business Analyst,InsightWorks,Chennai,Entry,Part-time,370000.0,100,"Communication, Power BI, SQL",2026-05-03
+JM26-0641,Business Analyst,InnovateLabs,Bengaluru,Mid,Contract,690000.0,0,"Tableau, Excel, Communication, Power BI",2026-07-14
+JM26-1193,ML Researcher,CloudMatrix,Hyderabad,Senior,Full-time,1870000.0,100,"Deep Learning, PyTorch, Statistics",2026-08-25
+JM26-1132,Data Engineer,FinEdge,Pune,Entry,Part-time,560000.0,0,"Python, ETL, Spark",2026-08-01
+JM26-0551,Data Engineer,DataSphere,Delhi NCR,Entry,Full-time,880000.0,100,"Spark, Python, ETL, SQL",2026-01-25
+JM26-0640,ML Researcher,InnovateLabs,Chennai,Mid,Full-time,1470000.0,0,"PyTorch, Research, Statistics, Python, Deep Learning",2026-02-08
+JM26-0936,Data Scientist,TechNova,Mumbai,Mid,Full-time,820000.0,100,"Python, Machine Learning, Pandas, Statistics, SQL",2026-05-07
+JM26-0929,AI Engineer,InsightWorks,Bengaluru,Mid,Full-time,1500000.0,100,"PyTorch, Machine Learning, Deep Learning, Python",2026-08-25
+JM26-0489,Data Engineer,DataSphere,Delhi NCR,Entry,Full-time,930000.0,0,"AWS, SQL, Python",2026-04-12
+JM26-0820,Data Scientist,InnovateLabs,Pune,Mid,Full-time,960000.0,0,"SQL, Machine Learning, Statistics, Python, Pandas",2026-01-23
+JM26-0711,Python Developer,Vertex Systems,Bengaluru,Mid,Full-time,850000.0,0,"Git, Django, SQL, Python, REST API",2026-02-11
+JM26-1178,Machine Learning Engineer,DigitalCore,Delhi NCR,Entry,Full-time,870000.0,50,"Python, TensorFlow, PyTorch, Machine Learning",2026-04-10
+JM26-0148,Data Engineer,QuantifyAI,Pune,Entry,Contract,800000.0,100,"SQL, ETL, Spark, Python",2026-02-22
+JM26-0147,Data Scientist,TechNova,Pune,Lead,Full-time,2040000.0,50,"SQL, Python, Machine Learning, Pandas",2026-06-19
+JM26-0403,BI Analyst,NextGen Analytics,Delhi NCR,Entry,Contract,660000.0,0,"SQL, Excel, Power BI, Tableau, Data Visualization",2026-02-06
+JM26-0955,Analytics Engineer,TechNova,Delhi NCR,Mid,Full-time,910000.0,0,"SQL, dbt, ETL, Python, Data Modeling",2026-03-25
+JM26-0451,Data Analyst,DigitalCore,Hyderabad,Mid,Internship,200000.0,50,"Excel, Python, SQL, Power BI",2026-08-04
+JM26-0660,Machine Learning Engineer,Vertex Systems,Hyderabad,Entry,Full-time,750000.0,0,"Docker, TensorFlow, Python, Machine Learning, PyTorch",2026-08-08
+JM26-0464,Data Scientist,DataSphere,Bengaluru,Entry,Full-time,740000.0,100,"SQL, Pandas, Python, Statistics",2026-01-28
+JM26-0187,Machine Learning Engineer,DataSphere,Chennai,Mid,Internship,380000.0,100,"TensorFlow, Python, Docker, PyTorch, Machine Learning",2026-03-24
+JM26-0609,Business Analyst,InsightWorks,Pune,Entry,Full-time,480000.0,0,"Excel, Power BI, SQL, Tableau",2026-04-24
+JM26-0144,Data Engineer,DataSphere,Mumbai,Entry,Full-time,950000.0,100,"ETL, SQL, Spark",2026-08-23
+JM26-0752,Data Scientist,InnovateLabs,Bengaluru,Mid,Full-time,1250000.0,0,"SQL, Machine Learning, Statistics",2026-04-25
+JM26-0982,BI Analyst,CloudMatrix,Ahmedabad,Senior,Contract,990000.0,100,,2026-06-29
+JM26-0198,ML Researcher,InnovateLabs,Kolkata,Mid,Full-time,1150000.0,100,"Research, Python, Statistics, PyTorch, Deep Learning",2026-03-09
+JM26-0884,Data Engineer,FinEdge,Bengaluru,Entry,Full-time,860000.0,50,"Python, Spark, SQL",2026-03-25
+JM26-0280,ML Researcher,Apex Technologies,Pune,Mid,Full-time,1630000.0,100,"Statistics, PyTorch, Python, Research, Deep Learning",2026-06-03
+JM26-0294,Data Analyst,TechNova,Gurugram,Lead,Full-time,1090000.0,0,"Excel, Pandas, Power BI",2026-06-01
+JM26-1091,Data Scientist,NextGen Analytics,Ahmedabad,Mid,Full-time,1080000.0,100,"Statistics, Pandas, Python, Machine Learning, SQL",2026-07-25
+JM26-0401,Data Scientist,Apex Technologies,Kolkata,Lead,Full-time,1830000.0,0,"Python, Pandas, Machine Learning",2026-07-02
+JM26-0123,Data Analyst,Vertex Systems,Bengaluru,Mid,Contract,830000.0,0,"Pandas, Power BI, SQL, Excel",2026-07-09
+JM26-0203,Data Engineer,NextGen Analytics,Ahmedabad,Mid,Full-time,970000.0,100,"Spark, ETL, SQL, AWS, Python",2026-05-31
+JM26-0836,Data Engineer,DigitalCore,Gurugram,Entry,Full-time,890000.0,50,"ETL, AWS, Python",2026-05-05
+JM26-0247,AI Engineer,FinEdge,Kolkata,Senior,Full-time,1470000.0,50,"Python, Machine Learning, PyTorch",2026-06-06
+JM26-1142,BI Analyst,InsightWorks,Bengaluru,Mid,Full-time,800000.0,50,"Tableau, SQL, Excel, Data Visualization",2026-03-11
+JM26-0385,Machine Learning Engineer,Apex Technologies,Delhi NCR,Entry,Full-time,820000.0,0,"Machine Learning, Docker, TensorFlow, Python",2026-06-05
+JM26-0855,Data Scientist,InnovateLabs,Hyderabad,Entry,Full-time,910000.0,0,"Machine Learning, Statistics, Pandas, Python",2026-06-30
+JM26-0220,Machine Learning Engineer,TechNova,Ahmedabad,Senior,Contract,1540000.0,50,"Python, PyTorch, Docker, Machine Learning, TensorFlow",2026-03-29
+JM26-0642,BI Analyst,InnovateLabs,Mumbai,Senior,Contract,1080000.0,100,"Tableau, Power BI, Data Visualization, SQL, Excel",2026-04-16
+JM26-0002,Machine Learning Engineer,DataSphere,Mumbai,Senior,Full-time,1780000.0,50,"Machine Learning, TensorFlow, PyTorch",2026-01-22
+JM26-0113,Data Scientist,BrightData,Mumbai,Entry,Internship,310000.0,50,"Python, Pandas, Statistics, Machine Learning",2026-07-08
+JM26-0699,AI Engineer,DigitalCore,Bengaluru,Entry,Full-time,990000.0,0,"PyTorch, Python, Deep Learning",2026-07-11
+JM26-0952,Data Scientist,InsightWorks,Bengaluru,Entry,Full-time,810000.0,50,"Python, Machine Learning, Statistics, SQL, Pandas",2026-08-10
+JM26-1081,Data Scientist,Vertex Systems,Pune,Mid,Internship,360000.0,0,"Python, Pandas, Statistics, Machine Learning, SQL",2026-02-06
+JM26-0442,Data Analyst,FinEdge,Bengaluru,Mid,Full-time,540000.0,0,"SQL, Pandas, Power BI, Excel, Python",2026-02-16
+JM26-0664,Data Analyst,BrightData,Mumbai,Senior,Contract,990000.0,100,"Power BI, Excel, Pandas, SQL",2026-02-24
+JM26-1098,BI Analyst,DataSphere,Bengaluru,Senior,Full-time,1030000.0,100,"Excel, Tableau, SQL, Data Visualization, Power BI",2026-01-06
+JM26-0318,Business Analyst,BrightData,Ahmedabad,Lead,Full-time,970000.0,100,"SQL, Communication, Excel, Power BI",2026-06-11
+JM26-0649,AI Engineer,CloudMatrix,Pune,Senior,Full-time,1600000.0,100,"Machine Learning, LLM, PyTorch, Python",2026-07-20
+JM26-0710,Data Engineer,BrightData,Noida,Lead,Full-time,1760000.0,50,"ETL, Python, SQL, Spark, AWS",2026-04-27
+JM26-0973,Data Analyst,InsightWorks,Mumbai,Senior,Full-time,1120000.0,0,"Excel, Pandas, Power BI, Python, SQL",2026-04-21
+JM26-0628,Data Analyst,DigitalCore,Mumbai,Senior,Full-time,950000.0,100,"Excel, Power BI, Pandas, Python, SQL",2026-01-25
+JM26-0633,Data Analyst,FinEdge,Pune,Entry,Full-time,460000.0,50,"Excel, SQL, Pandas, Python",2026-02-16
+JM26-1174,Business Analyst,FinEdge,Hyderabad,Mid,Full-time,700000.0,100,"Communication, Excel, Power BI, SQL",2026-05-16
+JM26-1109,Python Developer,BrightData,Delhi NCR,Senior,Full-time,1190000.0,50,"Git, Python, Django",2026-02-14
+JM26-0796,Machine Learning Engineer,NextGen Analytics,Chennai,Mid,Full-time,1280000.0,100,"TensorFlow, Docker, PyTorch",2026-02-04
+JM26-0646,ML Researcher,DataSphere,Delhi NCR,Lead,Full-time,2430000.0,50,"Deep Learning, Python, PyTorch, Research",2026-06-01
+JM26-1013,Data Engineer,Vertex Systems,Noida,Mid,Full-time,940000.0,50,"SQL, Python, ETL, AWS",2026-06-22
+JM26-0557,Data Scientist,QuantifyAI,Bengaluru,Entry,Part-time,520000.0,50,"Python, Statistics, Machine Learning, SQL, Pandas",2026-04-18
+JM26-0682,Data Scientist,CloudMatrix,Delhi NCR,Entry,Full-time,860000.0,0,"SQL, Pandas, Machine Learning, Python, Statistics",2026-03-02
+JM26-0578,AI Engineer,CloudMatrix,Pune,Senior,Internship,720000.0,100,"Deep Learning, Machine Learning, LLM, Python, PyTorch",2026-05-08
+JM26-0525,Data Analyst,InnovateLabs,Mumbai,Entry,Internship,190000.0,0,"Power BI, SQL, Pandas, Python, Excel",2026-04-28
+JM26-1060,Business Analyst,CloudMatrix,Pune,Senior,Full-time,920000.0,0,"Power BI, SQL, Tableau, Excel, Communication",2026-01-02
+JM26-0541,Python Developer,DigitalCore,Hyderabad,Lead,Full-time,1500000.0,50,"REST API, Django, Git, Python",2026-04-09
+JM26-0749,BI Analyst,Apex Technologies,Bengaluru,Senior,Full-time,1150000.0,50,"Power BI, Excel, Tableau, Data Visualization, SQL",2026-04-08
+JM26-1112,Machine Learning Engineer,CloudMatrix,Bengaluru,Senior,Full-time,2020000.0,0,"TensorFlow, Docker, Machine Learning",2026-06-24
+JM26-0485,Data Analyst,InsightWorks,Bengaluru,Mid,Full-time,690000.0,0,"Pandas, Excel, Python, SQL",2026-05-12
+JM26-0096,AI Engineer,NextGen Analytics,Pune,Mid,Full-time,1200000.0,100,"LLM, Machine Learning, PyTorch, Python, Deep Learning",2026-04-20
+JM26-1021,Analytics Engineer,QuantifyAI,Hyderabad,Senior,Full-time,1380000.0,50,"SQL, dbt, ETL, Python",2026-01-25
+JM26-0564,AI Engineer,QuantifyAI,Bengaluru,Mid,Full-time,1580000.0,100,"Machine Learning, PyTorch, Deep Learning, Python",2026-08-16
+JM26-0743,ML Researcher,DataSphere,Pune,Lead,Full-time,2290000.0,100,"Deep Learning, PyTorch, Python",2026-08-04
+JM26-0864,Data Engineer,DataSphere,Bengaluru,Mid,Internship,450000.0,0,"SQL, Python, AWS, ETL",2026-04-02
+JM26-0892,Python Developer,InnovateLabs,Noida,Senior,Contract,1000000.0,0,"REST API, SQL, Python, Django",2026-04-14
+JM26-1039,Machine Learning Engineer,DataSphere,Pune,Entry,Full-time,980000.0,100,"TensorFlow, Python, PyTorch, Machine Learning, Docker",2026-04-30
+JM26-0207,Data Analyst,Apex Technologies,Ahmedabad,Mid,Full-time,560000.0,100,"Pandas, Power BI, Excel, Python",2026-06-02
+JM26-0393,AI Engineer,InsightWorks,Kolkata,Senior,Full-time,1610000.0,0,"Machine Learning, Python, Deep Learning, LLM",2026-03-23
+JM26-0795,Data Analyst,DataSphere,Pune,Mid,Full-time,710000.0,50,"SQL, Power BI, Excel",2026-05-25
+JM26-0871,Business Analyst,DigitalCore,Noida,Lead,Part-time,760000.0,50,"Tableau, Communication, Power BI, SQL",2026-02-10
+JM26-0398,Data Scientist,QuantifyAI,Bengaluru,Mid,Full-time,1150000.0,0,"Python, Machine Learning, Pandas, Statistics",2026-04-09
+JM26-0767,Data Scientist,FinEdge,Chennai,Entry,Full-time,630000.0,50,"Python, Machine Learning, SQL",2026-01-17
+JM26-1102,Data Scientist,BrightData,Chennai,Mid,Full-time,970000.0,0,"Statistics, Python, Pandas",2026-08-23
+JM26-1029,Business Analyst,InsightWorks,Bengaluru,Senior,Full-time,1100000.0,50,"Communication, Power BI, Excel, Tableau, SQL",2026-02-06
+JM26-0643,Data Analyst,DataSphere,Bengaluru,Senior,Full-time,1060000.0,100,"Pandas, SQL, Python, Power BI, Excel",2026-05-05
+JM26-0613,Python Developer,FinEdge,Chennai,Senior,Full-time,1200000.0,50,"Git, SQL, Python, Django, REST API",2026-07-15
+JM26-0961,Data Engineer,InsightWorks,Pune,Mid,Internship,390000.0,0,"Python, SQL, ETL",2026-02-14
+JM26-0726,Data Analyst,InsightWorks,Bengaluru,Entry,Full-time,450000.0,100,"SQL, Pandas, Excel, Power BI, Python",2026-03-09
+JM26-0684,Machine Learning Engineer,InsightWorks,Chennai,Senior,Full-time,1790000.0,50,"Machine Learning, Python, Docker, PyTorch",2026-02-13
+JM26-0099,Data Analyst,QuantifyAI,Chennai,Senior,Full-time,830000.0,100,"Pandas, SQL, Excel, Power BI, Python",2026-07-16
+JM26-0805,Data Analyst,InsightWorks,Bengaluru,Senior,Full-time,1170000.0,50,"Python, SQL, Power BI",2026-08-06
+JM26-0407,Data Scientist,QuantifyAI,Ahmedabad,Mid,Full-time,920000.0,0,"Machine Learning, SQL, Python",2026-07-25
+JM26-0503,Analytics Engineer,DataSphere,Hyderabad,Entry,Full-time,790000.0,100,"ETL, Data Modeling, dbt, Python, SQL",2026-06-10
+JM26-1072,AI Engineer,FinEdge,Delhi NCR,Mid,Full-time,1350000.0,50,"Deep Learning, PyTorch, Python, LLM",2026-02-19
+JM26-1057,Analytics Engineer,DataSphere,Kolkata,Lead,Part-time,1210000.0,50,"Data Modeling, dbt, ETL, Python, SQL",2026-01-13
+JM26-0930,Business Analyst,DataSphere,Bengaluru,Entry,Full-time,490000.0,0,"Excel, Tableau, Communication",2026-08-08
+JM26-0780,ML Researcher,QuantifyAI,Bengaluru,Mid,Full-time,1630000.0,100,"Python, Statistics, PyTorch, Deep Learning, Research",2026-02-04
+JM26-0201,Business Analyst,FinEdge,Pune,Mid,Full-time,780000.0,0,"Communication, Power BI, Tableau, SQL, Excel",2026-02-03
+JM26-0135,AI Engineer,CloudMatrix,Ahmedabad,Lead,Full-time,2440000.0,100,"Machine Learning, Deep Learning, Python",2026-08-14
+JM26-1052,Data Analyst,Vertex Systems,Gurugram,Mid,Contract,690000.0,100,"Pandas, Python, Power BI",2026-08-06
+JM26-0041,Machine Learning Engineer,DigitalCore,Noida,Lead,Full-time,2320000.0,100,"Docker, Machine Learning, Python, PyTorch",2026-03-29
+JM26-1018,BI Analyst,TechNova,Kolkata,Senior,Full-time,980000.0,0,"Tableau, Excel, SQL, Power BI",2026-07-24
+JM26-0231,Data Analyst,CloudMatrix,Kolkata,Entry,Full-time,450000.0,0,"Power BI, Pandas, Excel",2026-04-13
+JM26-0379,Machine Learning Engineer,Vertex Systems,Ahmedabad,Entry,Full-time,770000.0,100,"PyTorch, TensorFlow, Machine Learning",2026-04-17
+JM26-0289,Data Engineer,NextGen Analytics,Noida,Entry,Part-time,500000.0,100,"AWS, SQL, ETL",2026-01-18
+JM26-0419,Data Scientist,InnovateLabs,Ahmedabad,Mid,Full-time,860000.0,0,"Statistics, SQL, Python",2026-07-10
+JM26-0392,Data Analyst,Vertex Systems,Bengaluru,Entry,Full-time,530000.0,50,"Power BI, Excel, SQL",2026-05-14
+JM26-0593,Data Scientist,NextGen Analytics,Bengaluru,Mid,Full-time,1350000.0,100,"Python, Pandas, Machine Learning, SQL",2026-01-20
+JM26-1087,Business Analyst,TechNova,Noida,Senior,Full-time,980000.0,0,"SQL, Power BI, Excel",2026-02-14
+JM26-0648,Data Engineer,DataSphere,Delhi NCR,Mid,Full-time,1360000.0,0,"ETL, AWS, Spark, SQL",2026-03-11
+JM26-0521,ML Researcher,Apex Technologies,Bengaluru,Lead,Internship,1010000.0,0,"PyTorch, Research, Statistics",2026-03-11
+JM26-0065,AI Engineer,BrightData,Mumbai,Entry,Full-time,1290000.0,100,"Python, LLM, Deep Learning",2026-03-28
+JM26-0015,Machine Learning Engineer,FinEdge,Hyderabad,Mid,Full-time,1150000.0,50,"PyTorch, Docker, Machine Learning, Python, TensorFlow",2026-01-04
+JM26-1065,Data Scientist,NextGen Analytics,Mumbai,Senior,Full-time,1590000.0,50,"SQL, Statistics, Python, Machine Learning, Pandas",2026-08-23
+JM26-0493,AI Engineer,CloudMatrix,Hyderabad,Mid,Contract,1570000.0,100,"Machine Learning, PyTorch, LLM, Deep Learning, Python",2026-01-30
+JM26-0380,Business Analyst,FinEdge,Noida,Entry,Full-time,540000.0,50,"Tableau, SQL, Communication",2026-05-23
+JM26-0188,Data Analyst,TechNova,Hyderabad,Entry,Full-time,570000.0,0,"Power BI, Python, SQL, Pandas",2026-07-09
+JM26-0764,Data Analyst,BrightData,Bengaluru,Senior,Internship,410000.0,0,"Pandas, Python, Power BI, Excel, SQL",2026-04-07
+JM26-0217,Data Analyst,InsightWorks,Mumbai,Entry,Full-time,600000.0,50,"Power BI, SQL, Excel",2026-05-08
+JM26-0792,Machine Learning Engineer,FinEdge,Delhi NCR,Entry,Full-time,910000.0,100,"Python, PyTorch, Docker",2026-03-27
+JM26-1077,Data Engineer,TechNova,Mumbai,Senior,Full-time,1510000.0,50,"Spark, ETL, AWS, Python, SQL",2026-08-02
+JM26-0879,AI Engineer,DataSphere,Hyderabad,Mid,Contract,1540000.0,100,"Machine Learning, Python, PyTorch, Deep Learning",2026-02-11
+JM26-0338,Business Analyst,Apex Technologies,Chennai,Mid,Full-time,610000.0,0,"Power BI, SQL, Communication",2026-05-26
+JM26-0720,Python Developer,CloudMatrix,Ahmedabad,Entry,Full-time,690000.0,100,"SQL, Django, Python, Git, REST API",2026-05-16
+JM26-0296,Analytics Engineer,Apex Technologies,Delhi NCR,Entry,Full-time,690000.0,50,"SQL, Python, dbt, Data Modeling",2026-06-09
+JM26-1017,AI Engineer,DigitalCore,Bengaluru,Mid,Full-time,1790000.0,50,"Machine Learning, PyTorch, Python, LLM",2026-04-17
+JM26-0456,Data Scientist,CloudMatrix,Pune,Lead,Contract,1730000.0,100,"Python, Pandas, SQL",2026-01-14
+JM26-0816,Analytics Engineer,Apex Technologies,Mumbai,Senior,Full-time,1730000.0,0,"Data Modeling, dbt, ETL, Python, SQL",2026-04-17
+JM26-0270,Data Analyst,Vertex Systems,Bengaluru,Mid,Full-time,770000.0,50,"Power BI, SQL, Pandas",2026-08-02
+JM26-0996,Machine Learning Engineer,InnovateLabs,Gurugram,Senior,Internship,580000.0,100,"Machine Learning, Docker, Python, PyTorch",2026-06-05
+JM26-0202,Python Developer,TechNova,Bengaluru,Senior,Full-time,1100000.0,100,"Python, Git, Django",2026-04-23
+JM26-0162,Analytics Engineer,DataSphere,Pune,Senior,Full-time,1360000.0,0,"Python, SQL, Data Modeling",2026-02-17
+JM26-0730,Data Engineer,TechNova,Pune,Lead,Part-time,1180000.0,100,"Python, SQL, Spark, AWS, ETL",2026-06-11
+JM26-0402,Analytics Engineer,BrightData,Bengaluru,Mid,Full-time,970000.0,0,"SQL, ETL, Data Modeling, dbt",2026-02-02
+JM26-0703,Data Analyst,InnovateLabs,Noida,Lead,Internship,360000.0,0,"Pandas, Excel, Python",2026-05-30
+JM26-1130,Python Developer,CloudMatrix,Mumbai,Mid,Full-time,1030000.0,0,"Git, REST API, Python, SQL",2026-05-10
+JM26-0566,AI Engineer,Vertex Systems,Bengaluru,Mid,Full-time,1540000.0,100,"Machine Learning, PyTorch, Python",2026-08-21
+JM26-1022,Business Analyst,TechNova,Pune,Mid,Internship,260000.0,100,"SQL, Excel, Power BI, Communication, Tableau",2026-05-27
+JM26-1026,Data Scientist,InnovateLabs,Hyderabad,Mid,Full-time,1040000.0,0,"Machine Learning, Statistics, Pandas, SQL",2026-05-07
+JM26-1105,Data Analyst,FinEdge,Pune,Senior,Full-time,920000.0,50,"SQL, Python, Pandas",2026-05-14
+JM26-0206,Data Scientist,InnovateLabs,Hyderabad,Entry,Full-time,850000.0,50,"Pandas, SQL, Python, Statistics, Machine Learning",2026-04-02
+JM26-0035,Data Engineer,NextGen Analytics,Bengaluru,Senior,Full-time,1960000.0,0,"Python, Spark, SQL, AWS, ETL",2026-01-14
+JM26-0776,ML Researcher,FinEdge,Bengaluru,Entry,Full-time,1180000.0,0,"Deep Learning, Research, Statistics",2026-04-03
+JM26-0509,Data Engineer,DigitalCore,Noida,Senior,Part-time,1000000.0,0,"Spark, AWS, SQL, ETL",2026-05-29
+JM26-1187,Machine Learning Engineer,TechNova,Ahmedabad,Mid,Full-time,1120000.0,0,"Docker, Machine Learning, Python, TensorFlow",2026-01-07
+JM26-0092,Business Analyst,Vertex Systems,Delhi NCR,Mid,Full-time,730000.0,0,"Tableau, Communication, Excel, SQL",2026-02-12
+JM26-0898,Data Scientist,NextGen Analytics,Mumbai,Mid,Full-time,1240000.0,100,"Python, Pandas, SQL, Statistics, Machine Learning",2026-07-23
+JM26-0565,AI Engineer,DataSphere,Bengaluru,Entry,Full-time,1310000.0,100,"Machine Learning, Python, LLM",2026-05-30
+JM26-0777,AI Engineer,CloudMatrix,Pune,Senior,Full-time,1850000.0,100,"PyTorch, Deep Learning, LLM",2026-06-20
+JM26-0242,BI Analyst,InnovateLabs,Bengaluru,Senior,Full-time,1330000.0,0,"Excel, Tableau, Data Visualization",2026-04-15
+JM26-0014,BI Analyst,BrightData,Pune,Mid,Part-time,510000.0,100,"Tableau, Excel, Power BI, Data Visualization",2026-07-03
+JM26-0316,Data Scientist,TechNova,Hyderabad,Entry,Full-time,650000.0,100,"Machine Learning, Python, Statistics, SQL",2026-07-11
+JM26-0601,Data Engineer,CloudMatrix,Delhi NCR,Senior,Full-time,1750000.0,50,"AWS, ETL, SQL, Spark, Python",2026-03-19
+JM26-0388,Python Developer,NextGen Analytics,Mumbai,Mid,Full-time,840000.0,100,"REST API, Git, Python",2026-06-27
+JM26-0167,BI Analyst,DigitalCore,Bengaluru,Entry,Full-time,600000.0,0,"SQL, Excel, Data Visualization",2026-07-13
+JM26-0841,Data Analyst,DataSphere,Hyderabad,Senior,Full-time,940000.0,50,"SQL, Python, Power BI, Excel, Pandas",2026-06-30
+JM26-0021,Business Analyst,NextGen Analytics,Bengaluru,Entry,Full-time,600000.0,100,"Tableau, Communication, SQL, Excel, Power BI",2026-05-31
+JM26-0647,Data Analyst,Vertex Systems,Hyderabad,Mid,Contract,600000.0,100,"Python, Pandas, Excel, Power BI",2026-01-25
+JM26-1155,Data Engineer,FinEdge,Pune,Mid,Part-time,670000.0,50,"AWS, ETL, Spark, SQL, Python",2026-05-21
+JM26-0832,Data Engineer,InnovateLabs,Mumbai,Entry,Part-time,520000.0,0,"Python, SQL, Spark",2026-04-22
+JM26-0563,BI Analyst,InnovateLabs,Bengaluru,Entry,Contract,600000.0,0,"SQL, Data Visualization, Tableau, Power BI, Excel",2026-02-09
+JM26-1173,Data Scientist,FinEdge,Hyderabad,Mid,Full-time,1010000.0,50,"Python, Machine Learning, Pandas, SQL, Statistics",2026-06-01
+JM26-0687,Machine Learning Engineer,TechNova,Bengaluru,Entry,Part-time,680000.0,100,"Docker, PyTorch, Python, TensorFlow",2026-03-20
+JM26-0958,Data Engineer,CloudMatrix,Hyderabad,Mid,Full-time,1230000.0,50,"Python, Spark, AWS, ETL",2026-07-23
+JM26-0190,Data Scientist,NextGen Analytics,Bengaluru,Mid,Full-time,970000.0,0,"Python, SQL, Pandas, Machine Learning",2026-04-19
+JM26-0976,AI Engineer,Apex Technologies,Mumbai,Mid,Full-time,1440000.0,0,"Python, Deep Learning, Machine Learning, LLM",2026-05-01
+JM26-0700,Data Scientist,QuantifyAI,Bengaluru,Entry,Full-time,830000.0,0,"Pandas, SQL, Python, Machine Learning, Statistics",2026-06-05
+JM26-0511,Data Analyst,InsightWorks,Gurugram,Senior,Full-time,870000.0,50,"Power BI, Python, Pandas, SQL",2026-02-06
+JM26-1083,Analytics Engineer,BrightData,Hyderabad,Senior,Full-time,1230000.0,100,"Data Modeling, Python, dbt",2026-01-03
+JM26-0475,Data Scientist,BrightData,Gurugram,Entry,Full-time,730000.0,50,"SQL, Pandas, Python, Machine Learning",2026-06-03
+JM26-0857,Business Analyst,InnovateLabs,Ahmedabad,Entry,Full-time,450000.0,100,"SQL, Excel, Communication, Tableau, Power BI",2026-04-09
+JM26-0748,Machine Learning Engineer,InsightWorks,Kolkata,Senior,Contract,1630000.0,100,"Docker, Machine Learning, TensorFlow",2026-01-09
+JM26-0253,Machine Learning Engineer,QuantifyAI,Noida,Senior,Full-time,1440000.0,100,"Machine Learning, TensorFlow, Python, Docker",2026-07-01
+JM26-0022,Machine Learning Engineer,Vertex Systems,Bengaluru,Entry,Full-time,920000.0,50,"Python, TensorFlow, Docker",2026-05-30
+JM26-0460,AI Engineer,QuantifyAI,Bengaluru,Mid,Contract,1440000.0,0,"Python, Machine Learning, Deep Learning, PyTorch, LLM",2026-02-23
+JM26-1185,Data Analyst,DataSphere,Bengaluru,Senior,Internship,360000.0,50,"Power BI, SQL, Excel, Pandas",2026-02-25
+JM26-0277,Data Scientist,DigitalCore,Pune,Mid,Full-time,1010000.0,50,"Pandas, Machine Learning, Python, SQL",2026-07-03
+JM26-0956,ML Researcher,InsightWorks,Noida,Mid,Full-time,1240000.0,100,"Research, Statistics, Python, PyTorch, Deep Learning",2026-03-27
+JM26-0386,Python Developer,DigitalCore,Kolkata,Senior,Full-time,1110000.0,100,"Python, SQL, Django",2026-05-07
+JM26-0806,Data Analyst,QuantifyAI,Noida,Mid,Full-time,680000.0,50,"Pandas, Power BI, Python, SQL",2026-07-10
+JM26-0344,AI Engineer,TechNova,Bengaluru,Senior,Full-time,2330000.0,100,"LLM, Deep Learning, PyTorch",2026-04-25
+JM26-0770,AI Engineer,Vertex Systems,Mumbai,Mid,Full-time,1590000.0,100,"LLM, PyTorch, Python, Deep Learning, Machine Learning",2026-04-28
+JM26-0131,Data Analyst,FinEdge,Gurugram,Mid,Internship,270000.0,100,"Python, Power BI, SQL, Pandas, Excel",2026-03-02
+JM26-0872,Data Analyst,NextGen Analytics,Pune,Mid,Full-time,730000.0,100,"Python, Power BI, SQL, Excel",2026-03-18
+JM26-1124,Data Analyst,CloudMatrix,Bengaluru,Mid,Full-time,670000.0,0,"Pandas, Python, Power BI, Excel",2026-04-27
+JM26-0088,Data Engineer,FinEdge,Hyderabad,Senior,Internship,,50,"AWS, ETL, Spark",2026-07-31
+JM26-0331,Business Analyst,NextGen Analytics,Hyderabad,Entry,Full-time,430000.0,0,"Tableau, SQL, Excel",2026-04-06
+JM26-0467,AI Engineer,NextGen Analytics,Noida,Mid,Full-time,1350000.0,50,"Deep Learning, Machine Learning, LLM, PyTorch, Python",2026-04-14
+JM26-0122,AI Engineer,BrightData,Pune,Mid,Full-time,1360000.0,0,"Python, PyTorch, LLM, Deep Learning",2026-05-10
+JM26-1045,Data Analyst,BrightData,Pune,Senior,Full-time,860000.0,50,"Python, Excel, Pandas",2026-02-20
+JM26-1096,Machine Learning Engineer,InnovateLabs,Bengaluru,Senior,Full-time,1820000.0,100,"TensorFlow, PyTorch, Docker, Python",2026-01-15
+JM26-1131,Python Developer,FinEdge,Delhi NCR,Entry,Full-time,680000.0,100,"Git, REST API, SQL, Django",2026-03-30
+JM26-0861,Business Analyst,CloudMatrix,Kolkata,Entry,Full-time,460000.0,50,"Power BI, Excel, Communication",2026-04-19
+JM26-1127,Data Engineer,FinEdge,Bengaluru,Entry,Contract,890000.0,100,"ETL, Spark, Python, AWS, SQL",2026-03-31
